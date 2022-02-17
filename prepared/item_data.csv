@@ -1,0 +1,4162 @@
+ID,blueprintID,volume,name
+34,0,0.01,Tritanium
+35,0,0.01,Pyerite
+36,0,0.01,Mexallon
+37,0,0.01,Isogen
+38,0,0.01,Nocxium
+39,0,0.01,Zydrine
+40,0,0.01,Megacyte
+41,0,0.25,Garbage
+42,0,0.5,Spiced Wine
+44,0,1.5,Enriched Uranium
+178,879,0.0025,Carbonized Lead S
+179,880,0.0025,Nuclear S
+180,881,0.0025,Proton S
+181,882,0.0025,Depleted Uranium S
+182,883,0.0025,Titanium Sabot S
+183,884,0.0025,Fusion S
+184,885,0.0025,Phased Plasma S
+185,886,0.0025,EMP S
+186,887,0.0125,Carbonized Lead M
+187,888,0.0125,Nuclear M
+188,889,0.0125,Proton M
+189,890,0.0125,Depleted Uranium M
+190,891,0.0125,Titanium Sabot M
+191,892,0.0125,Fusion M
+192,893,0.0125,Phased Plasma M
+193,894,0.0125,EMP M
+194,895,0.025,Carbonized Lead L
+195,896,0.025,Nuclear L
+196,897,0.025,Proton L
+197,898,0.025,Depleted Uranium L
+198,899,0.025,Titanium Sabot L
+199,900,0.025,Fusion L
+200,901,0.025,Phased Plasma L
+201,902,0.025,EMP L
+202,803,0.05,Mjolnir Cruise Missile
+203,804,0.05,Scourge Cruise Missile
+204,805,0.05,Inferno Cruise Missile
+205,806,0.05,Nova Cruise Missile
+206,807,0.03,Nova Heavy Missile
+207,808,0.03,Mjolnir Heavy Missile
+208,809,0.03,Inferno Heavy Missile
+209,810,0.03,Scourge Heavy Missile
+210,811,0.015,Scourge Light Missile
+211,812,0.015,Inferno Light Missile
+212,813,0.015,Mjolnir Light Missile
+213,814,0.015,Nova Light Missile
+215,1130,0.0025,Iron Charge S
+216,1131,0.0025,Tungsten Charge S
+217,1132,0.0025,Iridium Charge S
+218,1133,0.0025,Lead Charge S
+219,1134,0.0025,Thorium Charge S
+220,1135,0.0025,Uranium Charge S
+221,1136,0.0025,Plutonium Charge S
+222,1137,0.0025,Antimatter Charge S
+223,1138,0.0125,Iron Charge M
+224,1139,0.0125,Tungsten Charge M
+225,1140,0.0125,Iridium Charge M
+226,1141,0.0125,Lead Charge M
+227,1142,0.0125,Thorium Charge M
+228,1143,0.0125,Uranium Charge M
+229,1144,0.0125,Plutonium Charge M
+230,1145,0.0125,Antimatter Charge M
+231,1146,0.025,Iron Charge L
+232,1147,0.025,Tungsten Charge L
+233,1148,0.025,Iridium Charge L
+234,1149,0.025,Lead Charge L
+235,1150,0.025,Thorium Charge L
+236,1151,0.025,Uranium Charge L
+237,1152,0.025,Plutonium Charge L
+238,1153,0.025,Antimatter Charge L
+239,1154,1.0,Radio S
+240,1155,1.0,Microwave S
+241,1156,1.0,Infrared S
+242,1157,1.0,Standard S
+243,1158,1.0,Ultraviolet S
+244,1159,1.0,Xray S
+245,1160,1.0,Gamma S
+246,1161,1.0,Multifrequency S
+247,1162,1.0,Radio M
+248,1163,1.0,Microwave M
+249,1164,1.0,Infrared M
+250,1165,1.0,Standard M
+251,1166,1.0,Ultraviolet M
+252,1167,1.0,Xray M
+253,1168,1.0,Gamma M
+254,1169,1.0,Multifrequency M
+255,1170,1.0,Radio L
+256,1171,1.0,Microwave L
+257,1172,1.0,Infrared L
+258,1173,1.0,Standard L
+259,1174,1.0,Ultraviolet L
+260,1175,1.0,Xray L
+261,1176,1.0,Gamma L
+262,1177,1.0,Multifrequency L
+263,1178,1.0,Cap Booster 25
+264,1179,2.0,Cap Booster 50
+266,1220,0.005,Scourge Rocket
+267,1221,0.05,Scourge Torpedo
+269,1216,0.015,Mjolnir Auto-Targeting Light Missile I
+377,1010,5.0,Small Shield Extender I
+380,1013,5.0,Small Shield Extender II
+393,1026,5.0,Shield Recharger I
+394,1027,5.0,Shield Recharger II
+399,1032,5.0,Small Shield Booster I
+400,1033,5.0,Small Shield Booster II
+434,1067,10.0,5MN Microwarpdrive I
+438,1071,5.0,1MN Afterburner II
+439,1072,5.0,1MN Afterburner I
+440,1073,10.0,5MN Microwarpdrive II
+442,1074,5.0,Cargo Scanner I
+443,1075,5.0,Ship Scanner I
+444,1076,5.0,Survey Scanner I
+447,1079,5.0,Warp Scrambler I
+448,1080,5.0,Warp Scrambler II
+450,834,5.0,Gatling Pulse Laser I
+451,835,5.0,Dual Light Pulse Laser I
+452,836,5.0,Dual Light Beam Laser I
+453,837,5.0,Small Focused Pulse Laser I
+454,838,5.0,Small Focused Beam Laser I
+455,839,10.0,Quad Light Beam Laser I
+456,840,10.0,Focused Medium Pulse Laser I
+457,841,10.0,Focused Medium Beam Laser I
+458,842,25.0,Heavy Pulse Laser I
+459,843,25.0,Heavy Beam Laser I
+460,844,20.0,Dual Heavy Pulse Laser I
+461,845,50.0,Dual Heavy Beam Laser I
+462,846,50.0,Mega Pulse Laser I
+463,847,50.0,Mega Beam Laser I
+464,848,50.0,Tachyon Beam Laser I
+482,784,5.0,Miner II
+483,785,5.0,Miner I
+484,819,5.0,125mm Gatling AutoCannon I
+485,820,5.0,150mm Light AutoCannon I
+486,821,5.0,200mm AutoCannon I
+487,822,5.0,250mm Light Artillery Cannon I
+488,823,5.0,280mm Howitzer Artillery I
+489,824,10.0,Dual 180mm AutoCannon I
+490,825,10.0,220mm Vulcan AutoCannon I
+491,826,10.0,425mm AutoCannon I
+492,827,25.0,650mm Artillery Cannon I
+493,828,25.0,720mm Howitzer Artillery I
+494,829,20.0,Dual 425mm AutoCannon I
+495,830,50.0,Dual 650mm Repeating Cannon I
+496,831,25.0,800mm Repeating Cannon I
+497,832,50.0,1200mm Artillery Cannon I
+498,833,50.0,1400mm Howitzer Artillery I
+499,786,5.0,Light Missile Launcher I
+501,788,10.0,Heavy Missile Launcher I
+503,790,20.0,Torpedo Launcher I
+519,1095,5.0,Gyrostabilizer II
+520,1096,5.0,Gyrostabilizer I
+523,1099,5.0,Small Armor Repairer I
+524,1100,12.5,Small Hull Repairer I
+526,1102,5.0,Stasis Webifier I
+527,1103,5.0,Stasis Webifier II
+529,1105,5.0,Small Remote Capacitor Transmitter I
+530,1106,5.0,Small Energy Nosferatu I
+533,1109,5.0,Small Energy Neutralizer I
+561,1112,5.0,75mm Gatling Rail I
+562,1113,5.0,Light Electron Blaster I
+563,1114,5.0,Light Ion Blaster I
+564,1115,5.0,Light Neutron Blaster I
+565,1116,5.0,150mm Railgun I
+566,1117,10.0,Heavy Electron Blaster I
+567,1118,10.0,Dual 150mm Railgun I
+568,1119,25.0,Heavy Neutron Blaster I
+569,1120,10.0,Heavy Ion Blaster I
+570,1121,25.0,250mm Railgun I
+571,1122,50.0,Electron Blaster Cannon I
+572,1123,20.0,Dual 250mm Railgun I
+573,1124,50.0,Neutron Blaster Cannon I
+574,1125,50.0,425mm Railgun I
+575,1126,50.0,Ion Blaster Cannon I
+577,1128,10.0,Medium Capacitor Booster I
+578,1129,5.0,Multispectrum Shield Hardener I
+580,1210,5.0,Burst Jammer I
+581,1212,25.0,Passive Targeter I
+582,683,20000.0,Bantam
+583,684,18000.0,Condor
+584,685,19400.0,Griffin
+585,689,17400.0,Slasher
+586,690,19500.0,Probe
+587,691,27289.0,Rifter
+589,936,28100.0,Executioner
+590,937,28700.0,Inquisitor
+591,938,24398.0,Tormentor
+592,939,10000.0,Navitas
+593,940,26500.0,Tristan
+594,941,29500.0,Incursus
+597,944,28600.0,Punisher
+598,945,20000.0,Breacher
+599,946,17100.0,Burst
+602,949,19700.0,Kestrel
+603,950,16500.0,Merlin
+605,952,18900.0,Heron
+607,954,21500.0,Imicus
+608,955,22500.0,Atron
+609,956,23000.0,Maulus
+620,686,107000.0,Osprey
+621,687,92000.0,Caracal
+622,692,80000.0,Stabber
+623,968,101000.0,Moa
+624,969,118000.0,Maller
+625,970,115000.0,Augoror
+626,971,115000.0,Vexor
+627,972,112000.0,Thorax
+628,973,120000.0,Arbitrator
+629,974,96000.0,Rupture
+630,975,85000.0,Bellicose
+631,976,89000.0,Scythe
+632,977,96000.0,Blackbird
+633,978,116000.0,Celestis
+634,979,113000.0,Exequror
+638,688,486000.0,Raven
+639,693,450000.0,Tempest
+640,994,468000.0,Scorpion
+641,995,486000.0,Megathron
+642,996,495000.0,Apocalypse
+643,997,486000.0,Armageddon
+644,998,414000.0,Typhoon
+645,999,454500.0,Dominix
+648,983,250000.0,Badger
+649,984,270000.0,Tayra
+650,985,240000.0,Nereus
+651,986,400000.0,Hoarder
+652,987,255000.0,Mammoth
+653,988,225000.0,Wreathe
+654,989,245000.0,Kryos
+655,990,250000.0,Epithal
+656,991,265000.0,Miasmos
+657,992,275000.0,Iteron Mark V
+671,1002,145500000.0,Erebus
+672,967,5000.0,Caldari Shuttle
+1182,1208,5.0,Auto Targeting System I
+1183,1184,5.0,Small Armor Repairer II
+1185,1186,5.0,Small Cap Battery I
+1190,1191,5.0,Small Remote Capacitor Transmitter II
+1195,1196,5.0,Cap Recharger I
+1197,1204,5.0,EM Coating I
+1198,1205,5.0,EM Coating II
+1201,1214,25.0,Wasp I
+1202,1218,5.0,Civilian Mining Drone
+1236,1237,5.0,Overdrive Injector System II
+1244,1245,5.0,Overdrive Injector System I
+1246,1247,5.0,Capacitor Flux Coil I
+1248,1249,5.0,Capacitor Flux Coil II
+1254,1255,5.0,Shield Flux Coil I
+1256,1257,5.0,Shield Flux Coil II
+1264,1265,5.0,Explosive Coating I
+1266,1267,5.0,Explosive Coating II
+1274,1275,5.0,Layered Coating I
+1276,1277,5.0,Layered Coating II
+1284,1285,5.0,Kinetic Coating I
+1286,1287,5.0,Kinetic Coating II
+1294,1295,5.0,Thermal Coating I
+1296,1297,5.0,Thermal Coating II
+1304,1305,5.0,Multispectrum Coating I
+1306,1307,5.0,Multispectrum Coating II
+1317,1318,5.0,Expanded Cargohold I
+1319,1320,5.0,Expanded Cargohold II
+1333,1334,25.0,Reinforced Bulkheads I
+1335,1336,5.0,Reinforced Bulkheads II
+1353,1354,5.0,Reactor Control Unit I
+1355,1356,5.0,Reactor Control Unit II
+1403,1404,5.0,Inertial Stabilizers I
+1405,1406,5.0,Inertial Stabilizers II
+1422,1423,5.0,Shield Power Relay II
+1436,1437,5.0,Auto Targeting System II
+1445,1446,5.0,Capacitor Power Relay I
+1447,1448,5.0,Capacitor Power Relay II
+1539,1540,5.0,Power Diagnostic System I
+1541,1542,5.0,Power Diagnostic System II
+1547,1548,12.5,Small Proton Smartbomb I
+1549,1550,5.0,Small Proton Smartbomb II
+1551,1552,12.5,Small Graviton Smartbomb I
+1553,1554,5.0,Small Graviton Smartbomb II
+1557,1558,12.5,Small Plasma Smartbomb I
+1559,1560,5.0,Small Plasma Smartbomb II
+1563,1564,12.5,Small EMP Smartbomb I
+1565,1566,5.0,Small EMP Smartbomb II
+1808,1809,5.0,EM Shield Amplifier I
+1810,1811,0.015,Scourge Auto-Targeting Light Missile I
+1814,1815,0.015,Nova Auto-Targeting Light Missile I
+1816,1817,0.015,Inferno Auto-Targeting Light Missile I
+1818,1819,0.03,Scourge Auto-Targeting Heavy Missile I
+1820,1821,0.03,Mjolnir Auto-Targeting Heavy Missile I
+1822,1823,0.03,Nova Auto-Targeting Heavy Missile I
+1824,1825,0.03,Inferno Auto-Targeting Heavy Missile I
+1826,1827,0.05,Scourge Auto-Targeting Cruise Missile I
+1828,1829,0.05,Mjolnir Auto-Targeting Cruise Missile I
+1830,1831,0.05,Nova Auto-Targeting Cruise Missile I
+1832,1833,0.05,Inferno Auto-Targeting Cruise Missile I
+1855,1856,5.0,Ship Scanner II
+1875,1876,10.0,Rapid Light Missile Launcher I
+1877,1878,10.0,Rapid Light Missile Launcher II
+1944,1945,260000.0,Bestower
+1948,11628,5.0,Magnetometric ECM I
+1952,11808,5.0,Sensor Booster II
+1955,11631,5.0,Gravimetric ECM I
+1956,11632,5.0,Radar ECM I
+1957,11629,5.0,Multispectral ECM I
+1958,11630,5.0,Ladar ECM I
+1963,11798,25.0,Remote Sensor Booster I
+1964,11799,5.0,Remote Sensor Booster II
+1968,11803,5.0,Remote Sensor Dampener I
+1969,11804,5.0,Remote Sensor Dampener II
+1973,11620,5.0,Sensor Booster I
+1977,11621,5.0,Tracking Computer I
+1978,11840,5.0,Tracking Computer II
+1986,11634,5.0,Signal Amplifier I
+1987,11812,5.0,Signal Amplifier II
+1998,11616,5.0,Tracking Enhancer I
+1999,11848,5.0,Tracking Enhancer II
+2001,34867,200000.0,Cynosural Suppression
+2006,2007,118000.0,Omen
+2008,34866,200000.0,Cynosural Navigation
+2009,34868,200000.0,Supercapital Construction Facilities
+2018,2019,10.0,Medium Cap Battery I
+2020,2021,15.0,Large Cap Battery I
+2024,2025,10.0,Medium Capacitor Booster II
+2026,34845,5000.0,Pirate Detection Array 1
+2027,34846,10000.0,Pirate Detection Array 2
+2028,34847,20000.0,Pirate Detection Array 3
+2029,34848,40000.0,Pirate Detection Array 4
+2030,34849,60000.0,Pirate Detection Array 5
+2031,34869,5000.0,Entrapment Array 1
+2032,2033,5.0,Cap Recharger II
+2034,34841,10000.0,Entrapment Array 2
+2035,34842,20000.0,Entrapment Array 3
+2036,34843,40000.0,Entrapment Array 4
+2037,34844,60000.0,Entrapment Array 5
+2038,2039,5.0,Cargo Scanner II
+2040,34855,5000.0,Ore Prospecting Array 1
+2041,34856,10000.0,Ore Prospecting Array 2
+2042,34857,20000.0,Ore Prospecting Array 3
+2043,34858,40000.0,Ore Prospecting Array 4
+2044,34859,60000.0,Ore Prospecting Array 5
+2046,2047,5.0,Damage Control I
+2048,2049,5.0,Damage Control II
+2053,34860,5000.0,Survey Networks 1
+2054,34861,10000.0,Survey Networks 2
+2055,34862,20000.0,Survey Networks 3
+2056,34863,40000.0,Survey Networks 4
+2057,34864,60000.0,Survey Networks 5
+2058,34850,5000.0,Quantum Flux Generator 1
+2059,34851,10000.0,Quantum Flux Generator 2
+2060,34852,20000.0,Quantum Flux Generator 3
+2061,34853,40000.0,Quantum Flux Generator 4
+2062,34854,60000.0,Quantum Flux Generator 5
+2103,11617,25.0,Remote Tracking Computer I
+2104,11851,5.0,Remote Tracking Computer II
+2108,11614,5.0,Tracking Disruptor I
+2109,11844,5.0,Tracking Disruptor II
+2117,2118,5.0,Burst Jammer II
+2161,2162,28100.0,Crucifier
+2165,2179,0.05,Haunter Cruise Missile
+2173,2174,10.0,Infiltrator I
+2175,2176,10.0,Infiltrator II
+2183,2184,10.0,Hammerhead I
+2185,2186,10.0,Hammerhead II
+2193,2194,25.0,Praetor I
+2195,2196,25.0,Praetor II
+2203,2204,5.0,Acolyte I
+2205,2206,5.0,Acolyte II
+2210,2211,0.05,Banshee Torpedo
+2281,2282,5.0,Multispectrum Shield Hardener II
+2289,2290,5.0,Explosive Shield Hardener I
+2291,2292,5.0,Kinetic Shield Hardener I
+2293,2294,5.0,EM Shield Hardener I
+2295,2296,5.0,Thermal Shield Hardener I
+2297,2298,5.0,Explosive Shield Hardener II
+2299,2300,5.0,Kinetic Shield Hardener II
+2301,2302,5.0,EM Shield Hardener II
+2303,2304,5.0,Thermal Shield Hardener II
+2319,0,1.5,Test Cultures
+2328,0,1.5,Water-Cooled CPU
+2329,0,1.5,Biocells
+2331,2332,5.0,Shield Power Relay I
+2333,2334,5.0,Survey Scanner II
+2341,2342,5.0,Passive Targeter II
+2345,0,6.0,Camera Drones
+2346,0,6.0,Synthetic Synapses
+2348,0,6.0,Gel-Matrix Biopaste
+2349,0,6.0,Supercomputers
+2351,0,6.0,Smartfab Units
+2352,0,6.0,Nuclear Reactors
+2354,0,6.0,Neocoms
+2355,2356,5.0,Small Hull Repairer II
+2361,0,6.0,Hermetic Membranes
+2363,11612,5.0,Heat Sink I
+2364,11795,5.0,Heat Sink II
+2367,0,6.0,Cryoprotectant Solution
+2393,0,0.38,Bacteria
+2395,0,0.38,Proteins
+2401,0,0.38,Chiral Structures
+2404,2405,5.0,Light Missile Launcher II
+2410,2411,10.0,Heavy Missile Launcher II
+2420,2421,20.0,Torpedo Launcher II
+2436,2437,25.0,Wasp II
+2444,2445,25.0,Ogre I
+2446,2447,25.0,Ogre II
+2454,2455,5.0,Hobgoblin I
+2456,2457,5.0,Hobgoblin II
+2463,0,1.5,Nanites
+2464,2465,5.0,Hornet I
+2466,2467,5.0,Hornet II
+2476,2477,25.0,Berserker I
+2478,2479,25.0,Berserker II
+2486,2487,5.0,Warrior I
+2488,2489,5.0,Warrior II
+2506,2507,0.05,Mjolnir Torpedo
+2508,2509,0.05,Nova Torpedo
+2510,2511,0.05,Inferno Torpedo
+2512,2513,0.005,Mjolnir Rocket
+2514,2515,0.005,Inferno Rocket
+2516,2517,0.005,Nova Rocket
+2529,2530,5.0,Explosive Shield Amplifier I
+2531,2532,5.0,Explosive Shield Amplifier II
+2537,2538,5.0,Thermal Shield Amplifier I
+2539,2540,5.0,Thermal Shield Amplifier II
+2545,2546,5.0,Kinetic Shield Amplifier I
+2547,2548,5.0,Kinetic Shield Amplifier II
+2553,2554,5.0,EM Shield Amplifier II
+2559,11783,5.0,Ladar ECM II
+2563,11775,5.0,Magnetometric ECM II
+2567,11779,5.0,Multispectral ECM II
+2571,11787,5.0,Gravimetric ECM II
+2575,11791,5.0,Radar ECM II
+2603,2604,5.0,Nanofiber Internal Structure I
+2605,2606,5.0,Nanofiber Internal Structure II
+2613,2614,0.015,Mjolnir Fury Light Missile
+2621,2622,0.05,Inferno Fury Cruise Missile
+2629,2630,0.03,Scourge Fury Heavy Missile
+2637,2638,0.05,Inferno Precision Cruise Missile
+2647,2648,0.015,Inferno Precision Light Missile
+2655,2656,0.03,Nova Precision Heavy Missile
+2679,2680,0.015,Scourge Rage Heavy Assault Missile
+2801,2802,0.05,Nova Javelin Torpedo
+2811,2812,0.05,Inferno Rage Torpedo
+2817,2818,0.005,Mjolnir Rage Rocket
+2865,2866,20.0,1200mm Artillery Cannon II
+2867,0,100.0,Broadcast Node
+2868,0,100.0,Integrity Response Drones
+2869,0,100.0,Nano-Factory
+2870,0,100.0,Organic Mortar Applicators
+2871,0,100.0,Recursive Computing Module
+2872,0,100.0,Self-Harmonizing Power Core
+2873,2874,5.0,125mm Gatling AutoCannon II
+2875,0,100.0,Sterile Conduits
+2876,0,100.0,Wetware Mainframe
+2881,16032,5.0,150mm Light AutoCannon II
+2889,2890,5.0,200mm AutoCannon II
+2897,2898,10.0,220mm Vulcan AutoCannon II
+2905,2906,5.0,250mm Light Artillery Cannon II
+2913,2914,10.0,425mm AutoCannon II
+2921,2922,10.0,650mm Artillery Cannon II
+2929,16029,20.0,800mm Repeating Cannon II
+2937,2938,10.0,Dual 180mm AutoCannon II
+2945,2946,20.0,Dual 425mm AutoCannon II
+2948,2949,1800.0,Shadow
+2953,2954,20.0,Dual 650mm Repeating Cannon II
+2961,2962,20.0,1400mm Howitzer Artillery II
+2969,2970,10.0,720mm Howitzer Artillery II
+2977,2978,5.0,280mm Howitzer Artillery II
+2985,2986,20.0,Dual Heavy Beam Laser II
+2993,2994,5.0,Dual Light Beam Laser II
+2998,3039,270000.0,Noctis
+3001,3002,5.0,Dual Light Pulse Laser II
+3009,3010,10.0,Focused Medium Beam Laser II
+3017,3018,5.0,Gatling Pulse Laser II
+3025,3026,10.0,Heavy Beam Laser II
+3033,3034,5.0,Small Focused Beam Laser II
+3041,3042,5.0,Small Focused Pulse Laser II
+3049,3050,20.0,Mega Beam Laser II
+3057,3058,20.0,Mega Pulse Laser II
+3065,3066,20.0,Tachyon Beam Laser II
+3074,3075,5.0,150mm Railgun II
+3082,3083,10.0,250mm Railgun II
+3090,3091,20.0,425mm Railgun II
+3098,3099,5.0,75mm Gatling Rail II
+3106,3107,10.0,Dual 150mm Railgun II
+3114,3115,20.0,Dual 250mm Railgun II
+3122,3123,20.0,Electron Blaster Cannon II
+3130,3131,10.0,Heavy Electron Blaster II
+3138,3139,10.0,Heavy Ion Blaster II
+3146,3147,10.0,Heavy Neutron Blaster II
+3154,3155,20.0,Ion Blaster Cannon II
+3162,3163,5.0,Light Electron Blaster II
+3170,3171,5.0,Light Ion Blaster II
+3178,3179,5.0,Light Neutron Blaster II
+3186,3187,20.0,Neutron Blaster Cannon II
+3218,43934,10.0,Harvester Mining Drone
+3242,3243,5.0,Warp Disruptor I
+3244,3245,5.0,Warp Disruptor II
+3285,3286,10.0,Quad Light Beam Laser II
+3293,32860,325.0,Medium Standard Container
+3296,32861,650.0,Large Standard Container
+3297,32859,100.0,Small Standard Container
+3465,32865,650.0,Large Secure Container
+3466,32866,325.0,Medium Secure Container
+3467,32867,100.0,Small Secure Container
+3488,3489,5.0,Small Cap Battery II
+3496,3497,10.0,Medium Cap Battery II
+3504,3505,15.0,Large Cap Battery II
+3512,3513,10.0,Focused Medium Pulse Laser II
+3514,3515,62000000.0,Revenant
+3516,3517,28600.0,Malice
+3518,3519,118000.0,Vangel
+3520,3521,10.0,Heavy Pulse Laser II
+3528,3529,10.0,Medium Armor Repairer I
+3530,3531,10.0,Medium Armor Repairer II
+3534,3535,4000.0,CONCORD Capital Armor Repairer
+3536,3537,4000.0,CONCORD Capital Remote Armor Repairer
+3538,3539,50.0,Large Armor Repairer I
+3540,3541,50.0,Large Armor Repairer II
+3542,3543,4000.0,CONCORD Capital Shield Booster
+3544,3545,4000.0,CONCORD Capital Remote Shield Booster
+3546,3547,4000.0,CONCORD Ion Siege Blaster
+3550,3557,4000.0,CONCORD Dual 1000mm Railgun
+3552,3553,3.0,Cap Booster 75
+3554,3555,4.0,Cap Booster 100
+3559,3560,4000.0,CONCORD Dual Giga Pulse Laser
+3561,3562,4000.0,CONCORD Dual Giga Beam Laser
+3563,3564,4000.0,CONCORD XL Cruise Missile Launcher
+3565,3570,4000.0,CONCORD XL Torpedo Launcher
+3566,3567,5.0,Small Capacitor Booster I
+3568,3569,5.0,Small Capacitor Booster II
+3571,3572,4000.0,CONCORD Quad 3500mm Siege Artillery
+3573,3574,4000.0,CONCORD Hexa 2500mm Repeating Cannon
+3575,3580,4000.0,CONCORD Capital Remote Capacitor Transmitter
+3576,3577,20.0,Heavy Capacitor Booster I
+3578,3579,20.0,Heavy Capacitor Booster II
+3581,3582,5.0,Purloined Sansha Data Analyzer
+3583,0,4.0,Badly Mangled Components
+3584,0,4.0,True Slave Decryption Node
+3585,3590,5.0,Mangled Sansha Data Analyzer
+3586,3587,5.0,Small Remote Shield Booster I
+3588,3589,5.0,Small Remote Shield Booster II
+3596,3597,10.0,Medium Remote Shield Booster I
+3598,3599,10.0,Medium Remote Shield Booster II
+3606,3607,25.0,Large Remote Shield Booster I
+3608,3609,25.0,Large Remote Shield Booster II
+3616,3617,4000.0,Capital Remote Shield Booster I
+3618,3619,4000.0,Capital Remote Shield Booster II
+3645,0,0.38,Water
+3647,0,0.5,Holoreels
+3653,3654,25.0,Medium Hull Repairer I
+3655,3656,10.0,Medium Hull Repairer II
+3663,3664,50.0,Large Hull Repairer I
+3665,3666,50.0,Large Hull Repairer II
+3683,0,0.38,Oxygen
+3685,0,1.0,Hydrogen Batteries
+3687,0,1.0,Electronic Parts
+3689,0,1.5,Mechanical Parts
+3715,0,0.5,Frozen Food
+3756,33327,101000.0,Gnosis
+3764,3765,132500000.0,Leviathan
+3766,3767,17400.0,Vigil
+3773,0,0.5,Hydrochloric Acid
+3779,0,0.38,Biomass
+3810,0,2.0,Marines
+3812,0,1.0,Data Sheets
+3814,0,0.1,Reports
+3828,0,1.5,Construction Blocks
+3829,3830,10.0,Medium Shield Extender I
+3831,3832,10.0,Medium Shield Extender II
+3839,3840,20.0,Large Shield Extender I
+3841,3842,20.0,Large Shield Extender II
+3887,11619,5.0,Co-Processor I
+3888,11747,5.0,Co-Processor II
+3937,3938,25.0,Medium Proton Smartbomb I
+3939,3940,10.0,Medium Proton Smartbomb II
+3941,3942,25.0,Medium Graviton Smartbomb I
+3943,3944,10.0,Medium Graviton Smartbomb II
+3947,3948,25.0,Medium Plasma Smartbomb I
+3949,3950,10.0,Medium Plasma Smartbomb II
+3953,3954,25.0,Medium EMP Smartbomb I
+3955,3956,10.0,Medium EMP Smartbomb II
+3962,3963,7600.0,Customs Office Gantry
+3977,3978,50.0,Large Proton Smartbomb I
+3979,3980,50.0,Large Proton Smartbomb II
+3981,3982,50.0,Large Graviton Smartbomb I
+3983,3984,50.0,Large Graviton Smartbomb II
+3986,3991,50.0,Large Remote Hull Repairer II
+3987,3988,50.0,Large Plasma Smartbomb I
+3989,3990,50.0,Large Plasma Smartbomb II
+3993,3994,50.0,Large EMP Smartbomb I
+3995,3996,50.0,Large EMP Smartbomb II
+4051,4314,5.0,Nitrogen Fuel Block
+4147,4148,20.0,Dual Heavy Pulse Laser II
+4246,4316,5.0,Hydrogen Fuel Block
+4247,4315,5.0,Helium Fuel Block
+4248,4249,50.0,Warp Disruption Field Generator II
+4250,4251,50.0,Small Tractor Beam II
+4252,4253,4000.0,Capital Tractor Beam II
+4254,4255,20.0,Micro Auxiliary Power Core II
+4256,4257,50.0,Bomb Launcher II
+4258,4259,5.0,Core Probe Launcher II
+4260,4261,5.0,Expanded Probe Launcher II
+4274,4275,60.0,Mining Foreman Link - Harvester Capacitor Efficiency II
+4276,4277,60.0,Mining Foreman Link - Laser Optimization II
+4278,4279,60.0,Mining Foreman Link - Mining Laser Field Enhancement II
+4292,4293,4000.0,Siege Module II
+4294,4295,4000.0,Triage Module II
+4296,4298,10.0,Medium Remote Hull Repairer II
+4299,4300,5.0,Small Remote Hull Repairer II
+4302,4305,234000.0,Oracle
+4306,4307,252000.0,Naga
+4308,4309,270000.0,Talos
+4310,4311,216000.0,Tornado
+4312,4313,5.0,Oxygen Fuel Block
+4363,4364,265000.0,Miasmos Quafe Ultra Edition
+4383,4384,10.0,Large Micro Jump Drive
+4388,4389,265000.0,Miasmos Quafe Ultramarine Edition
+4391,4392,25.0,Large Ancillary Shield Booster
+4393,4394,5.0,Drone Damage Amplifier I
+4395,4396,5.0,Medium Processor Overclocking Unit I
+4397,4398,5.0,Large Processor Overclocking Unit I
+4399,4400,5.0,Medium Processor Overclocking Unit II
+4401,4402,5.0,Large Processor Overclocking Unit II
+4403,4404,25.0,Reactive Armor Hardener
+4405,4406,5.0,Drone Damage Amplifier II
+4409,4410,5.0,Signature Radius Suppressor I
+9830,0,1.5,Rocket Fuel
+9832,0,1.5,Coolant
+9834,0,6.0,Guidance Systems
+9836,0,1.5,Consumer Electronics
+9838,0,1.5,Superconductors
+9840,0,1.5,Transmitter
+9842,0,1.5,Miniature Electronics
+9844,0,2.0,Small Arms
+9848,0,6.0,Robotics
+9850,0,0.2,Spirits
+9944,9945,5.0,Magnetic Field Stabilizer I
+9947,25309,1.0,Standard Crash Booster
+9950,25303,1.0,Standard Blue Pill Booster
+10039,10040,5.0,Civilian Shield Booster
+10151,25310,1.0,Improved Crash Booster
+10152,25311,1.0,Strong Crash Booster
+10155,25307,1.0,Improved Blue Pill Booster
+10156,25308,1.0,Strong Blue Pill Booster
+10164,25314,1.0,Standard Sooth Sayer Booster
+10165,25507,1.0,Improved Sooth Sayer Booster
+10166,25512,1.0,Strong Sooth Sayer Booster
+10190,10191,5.0,Magnetic Field Stabilizer II
+10246,10247,5.0,Mining Drone I
+10250,10251,5.0,Mining Drone II
+10629,10630,5.0,Rocket Launcher I
+10631,10632,5.0,Rocket Launcher II
+10678,10679,5.0,125mm Railgun I
+10680,10681,5.0,125mm Railgun II
+10836,10837,10.0,Medium Shield Booster I
+10838,10839,25.0,Large Shield Booster I
+10840,10841,50.0,X-Large Shield Booster I
+10842,10843,50.0,X-Large Shield Booster II
+10850,10851,10.0,Medium Shield Booster II
+10858,10859,25.0,Large Shield Booster II
+10998,11613,5.0,Warp Core Stabilizer I
+11011,11012,115000.0,Guardian-Vexor
+11129,11130,5000.0,Gallente Shuttle
+11132,11133,5000.0,Minmatar Shuttle
+11134,11135,5000.0,Amarr Shuttle
+11172,11173,23000.0,Helios
+11174,11175,23000.0,Keres
+11176,11177,18000.0,Crow
+11178,11179,18000.0,Raptor
+11182,11183,17400.0,Cheetah
+11184,11185,28100.0,Crusader
+11186,11187,28100.0,Malediction
+11188,11189,28100.0,Anathema
+11190,11191,28100.0,Sentinel
+11192,11193,19400.0,Buzzard
+11194,11195,19400.0,Kitsune
+11196,11197,17400.0,Claw
+11198,11199,17400.0,Stiletto
+11200,11201,22500.0,Taranis
+11202,11203,22500.0,Ares
+11215,11216,5.0,'Basic' EM Energized Membrane
+11217,11218,5.0,EM Energized Membrane I
+11219,11220,5.0,EM Energized Membrane II
+11225,11226,5.0,'Basic' Explosive Energized Membrane
+11227,11228,5.0,Explosive Energized Membrane I
+11229,11230,5.0,Explosive Energized Membrane II
+11235,11236,5.0,'Basic' Layered Energized Membrane
+11237,11238,5.0,Layered Energized Membrane I
+11239,11240,5.0,Layered Energized Membrane II
+11245,11246,5.0,'Basic' Kinetic Energized Membrane
+11247,11248,5.0,Kinetic Energized Membrane I
+11249,11250,5.0,Kinetic Energized Membrane II
+11255,11256,5.0,'Basic' Thermal Energized Membrane
+11257,11258,5.0,Thermal Energized Membrane I
+11259,11260,5.0,Thermal Energized Membrane II
+11265,11266,5.0,'Basic' Multispectrum Energized Membrane
+11267,11268,5.0,Multispectrum Energized Membrane I
+11269,11270,5.0,Multispectrum Energized Membrane II
+11277,11278,5.0,Thermal Armor Hardener I
+11279,11280,20.0,1600mm Steel Plates I
+11283,11284,6.0,Cap Booster 150
+11285,11286,8.0,Cap Booster 200
+11287,11288,16.0,Cap Booster 400
+11289,11290,32.0,Cap Booster 800
+11293,11294,5.0,100mm Steel Plates I
+11295,11296,10.0,200mm Steel Plates I
+11297,11298,25.0,400mm Steel Plates I
+11299,11300,50.0,800mm Steel Plates I
+11301,11302,5.0,EM Armor Hardener I
+11303,11304,5.0,Explosive Armor Hardener I
+11305,11306,5.0,Kinetic Armor Hardener I
+11355,11356,5.0,Small Remote Armor Repairer I
+11357,11358,10.0,Medium Remote Armor Repairer I
+11359,11360,25.0,Large Remote Armor Repairer I
+11365,11366,28600.0,Vengeance
+11370,13000,100.0,Prototype Cloaking Device I
+11371,11372,27289.0,Wolf
+11377,11378,28100.0,Nemesis
+11379,11380,16500.0,Hawk
+11381,11382,16500.0,Harpy
+11387,11388,17400.0,Hyena
+11393,11394,28600.0,Retribution
+11399,0,0.01,Morphite
+11400,11401,27289.0,Jaguar
+11457,11884,0.04,R.Db - Viziam
+11458,11882,0.04,R.Db - Khanid Innovation
+11459,11880,0.04,R.Db - Carthum Conglomerate
+11460,11883,0.04,R.Db - Thukker Mix
+11461,11876,0.04,R.Db - Boundless Creations
+11462,11877,0.04,R.Db - Core Complexion
+11463,11885,0.04,R.Db - Ishukone
+11464,11881,0.04,R.Db - Kaalakiota
+11465,11857,0.04,R.Db - Roden Shipyards
+11466,11878,0.04,R.Db - CreoDron
+11467,11879,0.04,R.Db - Duvolle Labs
+11475,11873,0.04,R.A.M.- Armor/Hull Tech
+11476,11872,0.04,R.A.M.- Ammunition Tech
+11478,11890,0.04,R.A.M.- Starship Tech
+11481,11887,0.04,R.A.M.- Robotics
+11482,11859,0.04,R.A.M.- Energy Tech
+11483,11870,0.04,R.A.M.- Electronics
+11484,11889,0.04,R.A.M.- Shield Tech
+11485,11860,0.04,R.A.M.- Cybernetics
+11486,11891,0.04,R.A.M.- Weapon Tech
+11488,32864,1500.0,Huge Secure Container
+11489,32863,3000.0,Giant Secure Container
+11496,0,0.1,Datacore - Defensive Subsystems Engineering
+11530,17324,1.0,Plasma Thruster
+11531,17329,1.0,Ion Thruster
+11532,17349,1.0,Fusion Thruster
+11533,17356,1.0,Magpulse Thruster
+11534,17340,1.0,Gravimetric Sensor Cluster
+11535,17345,1.0,Magnetometric Sensor Cluster
+11536,17333,1.0,Ladar Sensor Cluster
+11537,17336,1.0,Radar Sensor Cluster
+11538,17325,1.0,Nanomechanical Microprocessor
+11539,17330,1.0,Nanoelectrical Microprocessor
+11540,17351,1.0,Quantum Microprocessor
+11541,17357,1.0,Photon Microprocessor
+11542,17355,1.0,Fernite Carbide Composite Armor Plate
+11543,17350,1.0,Tungsten Carbide Armor Plate
+11544,17328,1.0,Titanium Diborite Armor Plate
+11545,17323,1.0,Crystalline Carbonide Armor Plate
+11547,17331,1.0,Fusion Reactor Unit
+11548,17342,1.0,Nuclear Reactor Unit
+11549,17338,1.0,Antimatter Reactor Unit
+11550,17353,1.0,Graviton Reactor Unit
+11551,17347,1.0,Electrolytic Capacitor Unit
+11552,17327,1.0,Scalar Capacitor Unit
+11553,17337,1.0,Oscillator Capacitor Unit
+11554,17334,1.0,Tesseract Capacitor Unit
+11555,17346,1.0,Deflection Shield Emitter
+11556,17341,1.0,Pulse Shield Emitter
+11557,17359,1.0,Linear Shield Emitter
+11558,17352,1.0,Sustained Shield Emitter
+11561,11562,5.0,Shield Boost Amplifier I
+11563,11564,20.0,Micro Auxiliary Power Core I
+11567,11568,155000000.0,Avatar
+11577,12104,100.0,Improved Cloaking Device II
+11578,12105,100.0,Covert Ops Cloaking Device II
+11640,11641,5.0,Warp Core Stabilizer II
+11642,11643,5.0,EM Armor Hardener II
+11644,11645,5.0,Kinetic Armor Hardener II
+11646,11647,5.0,Explosive Armor Hardener II
+11648,11649,5.0,Thermal Armor Hardener II
+11688,17344,1.0,Particle Accelerator Unit
+11689,17348,1.0,Laser Focusing Crystals
+11690,17354,1.0,Superconductor Rails
+11691,17322,1.0,Thermonuclear Trigger Unit
+11692,17326,1.0,Nuclear Pulse Generator
+11693,17332,1.0,Graviton Pulse Generator
+11694,17335,1.0,EM Pulse Generator
+11695,17339,1.0,Plasma Pulse Generator
+11746,11886,0.04,R.Db - Lai Dai
+11936,11937,495000.0,Apocalypse Imperial Issue
+11957,11958,96000.0,Falcon
+11959,11960,96000.0,Rook
+11961,11962,85000.0,Huginn
+11963,11964,85000.0,Rapier
+11965,11966,120000.0,Pilgrim
+11969,11970,116000.0,Arazu
+11971,11972,116000.0,Lachesis
+11978,11979,89000.0,Scimitar
+11985,11986,107000.0,Basilisk
+11987,11988,115000.0,Guardian
+11989,11990,113000.0,Oneiros
+11993,11994,92000.0,Cerberus
+11995,11996,92000.0,Onyx
+11999,12000,80000.0,Vagabond
+12003,12004,118000.0,Zealot
+12005,12006,115000.0,Ishtar
+12011,12012,101000.0,Eagle
+12013,12014,96000.0,Broadsword
+12015,12016,96000.0,Muninn
+12017,12018,118000.0,Devoter
+12019,12020,118000.0,Sacrilege
+12021,12022,112000.0,Phobos
+12023,12024,112000.0,Deimos
+12032,12031,28100.0,Manticore
+12034,12035,28100.0,Hound
+12038,12041,28100.0,Purifier
+12042,12043,29500.0,Ishkur
+12044,12045,29500.0,Enyo
+12052,12053,25.0,50MN Microwarpdrive I
+12054,12055,50.0,500MN Microwarpdrive I
+12056,12057,25.0,10MN Afterburner I
+12058,12059,5.0,10MN Afterburner II
+12066,12067,50.0,100MN Afterburner I
+12068,12069,5.0,100MN Afterburner II
+12076,12077,10.0,50MN Microwarpdrive II
+12084,12085,10.0,500MN Microwarpdrive II
+12102,12103,25.0,Large Remote Capacitor Transmitter II
+12108,12109,5.0,Deep Core Mining Laser I
+12198,12297,65.0,Mobile Small Warp Disruptor I
+12199,12300,195.0,Mobile Medium Warp Disruptor I
+12200,12301,585.0,Mobile Large Warp Disruptor I
+12217,12218,10.0,Medium Remote Capacitor Transmitter I
+12219,12220,4000.0,Capital Remote Capacitor Transmitter I
+12221,12222,10.0,Medium Remote Capacitor Transmitter II
+12223,12224,4000.0,Capital Remote Capacitor Transmitter II
+12225,12226,25.0,Large Remote Capacitor Transmitter I
+12235,2774,8000.0,Amarr Control Tower
+12236,2780,8000.0,Gallente Control Tower
+12237,2752,8000.0,Ship Maintenance Array
+12238,2769,6000.0,Reprocessing Array
+12239,2767,6000.0,Compression Array
+12243,0,3.0,Science Graduates
+12257,12258,5.0,Medium Energy Nosferatu I
+12259,12260,5.0,Medium Energy Nosferatu II
+12261,12262,5.0,Heavy Energy Nosferatu I
+12263,12264,5.0,Heavy Energy Nosferatu II
+12265,12266,5.0,Medium Energy Neutralizer I
+12267,12268,5.0,Medium Energy Neutralizer II
+12269,12270,50.0,Heavy Energy Neutralizer I
+12271,12272,5.0,Heavy Energy Neutralizer II
+12274,12275,5.0,Ballistic Control System I
+12344,12345,10.0,200mm Railgun I
+12346,12347,10.0,200mm Railgun II
+12354,12355,50.0,350mm Railgun I
+12356,12357,20.0,350mm Railgun II
+12557,12558,1.0,Gleam S
+12559,12560,1.0,Aurora S
+12563,12564,1.0,Scorch S
+12565,12566,1.0,Conflagration S
+12608,12609,0.0025,Hail S
+12612,12613,0.0025,Void S
+12614,12615,0.0025,Null S
+12618,12619,0.0025,Spike S
+12620,12621,0.0025,Javelin S
+12625,12626,0.0025,Barrage S
+12631,12632,0.0025,Quake S
+12633,12634,0.0025,Tremor S
+12709,12710,5.0,Target Painter I
+12729,12730,195000.0,Crane
+12731,12732,390000.0,Bustard
+12733,12734,200000.0,Prorator
+12735,12736,180000.0,Prowler
+12743,12744,190000.0,Viator
+12745,12746,390000.0,Occator
+12747,12748,385000.0,Mastodon
+12753,12754,400000.0,Impel
+12761,12762,0.025,Quake L
+12765,12766,0.025,Tremor L
+12767,12768,0.0125,Quake M
+12771,12772,0.0125,Tremor M
+12773,12774,0.0125,Barrage M
+12775,12776,0.025,Barrage L
+12777,12778,0.0125,Hail M
+12779,12780,0.025,Hail L
+12785,12786,0.0125,Null M
+12787,12788,0.025,Null L
+12789,12790,0.0125,Void M
+12791,12792,0.025,Void L
+12801,12802,0.0125,Javelin M
+12803,12804,0.025,Javelin L
+12805,12806,0.0125,Spike M
+12807,12808,0.025,Spike L
+12814,12815,1.0,Conflagration M
+12816,12817,1.0,Conflagration L
+12818,12819,1.0,Scorch M
+12820,12821,1.0,Scorch L
+12822,12823,1.0,Aurora M
+12824,12825,1.0,Aurora L
+12826,12827,1.0,Gleam M
+12828,12829,1.0,Gleam L
+12836,0,6.0,Transcranial Microcontrollers
+13001,13002,5.0,Small Energy Nosferatu II
+13003,13004,5.0,Small Energy Neutralizer II
+13119,24544,0.005,Mjolnir Javelin Rocket
+13202,13203,486000.0,Megathron Federate Issue
+13267,0,3.0,Janitor
+13320,13321,20.0,Cruise Missile Launcher I
+13780,2764,6250.0,Equipment Assembly Array
+13856,24616,0.015,Nova Javelin Heavy Assault Missile
+14343,2748,4000.0,Silo
+15457,25510,1.0,Standard X-Instinct Booster
+15458,25503,1.0,Improved X-Instinct Booster
+15459,25513,1.0,Strong X-Instinct Booster
+15460,25509,1.0,Standard Frentix Booster
+15461,25505,1.0,Improved Frentix Booster
+15462,25322,1.0,Strong Frentix Booster
+15463,25323,1.0,Standard Mindflood Booster
+15464,25506,1.0,Improved Mindflood Booster
+15465,25511,1.0,Strong Mindflood Booster
+15466,25327,1.0,Standard Drop Booster
+15477,25328,1.0,Improved Drop Booster
+15478,25329,1.0,Strong Drop Booster
+15479,25508,1.0,Standard Exile Booster
+15480,25504,1.0,Improved Exile Booster
+15508,15509,10.0,Vespa I
+15510,15511,10.0,Valkyrie I
+15675,15676,5.0,Caldari Navy Co-Processor
+15677,15678,5.0,Federation Navy Co-Processor
+15681,15682,5.0,Caldari Navy Ballistic Control System
+15683,15684,5.0,Republic Fleet Ballistic Control System
+15685,15686,5.0,Imperial Navy Thermal Coating
+15687,15688,5.0,Imperial Navy EM Coating
+15689,15690,5.0,Imperial Navy Explosive Coating
+15691,15692,5.0,Imperial Navy Kinetic Coating
+15693,15694,5.0,Imperial Navy Multispectrum Coating
+15695,15696,5.0,Republic Fleet Thermal Coating
+15697,15698,5.0,Republic Fleet EM Coating
+15699,15700,5.0,Republic Fleet Explosive Coating
+15701,15702,5.0,Republic Fleet Kinetic Coating
+15703,15704,5.0,Republic Fleet Multispectrum Coating
+15705,15706,5.0,Imperial Navy Thermal Armor Hardener
+15707,15708,5.0,Imperial Navy Kinetic Armor Hardener
+15709,15710,5.0,Imperial Navy Explosive Armor Hardener
+15711,15712,5.0,Imperial Navy EM Armor Hardener
+15713,15714,5.0,Republic Fleet Thermal Armor Hardener
+15715,15716,5.0,Republic Fleet Kinetic Armor Hardener
+15717,15718,5.0,Republic Fleet Explosive Armor Hardener
+15719,15720,5.0,Republic Fleet EM Armor Hardener
+15721,15722,5.0,Imperial Navy Thermal Energized Membrane
+15723,15724,5.0,Imperial Navy EM Energized Membrane
+15725,15726,5.0,Imperial Navy Explosive Energized Membrane
+15727,15728,5.0,Imperial Navy Kinetic Energized Membrane
+15729,15730,5.0,Imperial Navy Multispectrum Energized Membrane
+15731,15732,5.0,Federation Navy Thermal Energized Membrane
+15733,15734,5.0,Federation Navy EM Energized Membrane
+15735,15736,5.0,Federation Navy Explosive Energized Membrane
+15737,15738,5.0,Federation Navy Kinetic Energized Membrane
+15739,15740,5.0,Federation Navy Multispectrum Energized Membrane
+15747,15748,10.0,Republic Fleet 5MN Microwarpdrive
+15749,15750,5.0,Republic Fleet 1MN Afterburner
+15751,15752,10.0,Republic Fleet 50MN Microwarpdrive
+15753,15754,5.0,Republic Fleet 10MN Afterburner
+15755,15756,10.0,Republic Fleet 500MN Microwarpdrive
+15757,15758,5.0,Republic Fleet 100MN Afterburner
+15759,15760,10.0,Federation Navy 5MN Microwarpdrive
+15761,15762,5.0,Federation Navy 1MN Afterburner
+15764,15765,10.0,Federation Navy 50MN Microwarpdrive
+15766,15767,5.0,Federation Navy 10MN Afterburner
+15768,15769,10.0,Federation Navy 500MN Microwarpdrive
+15770,15771,5.0,Federation Navy 100MN Afterburner
+15772,15773,5.0,Ammatar Navy Small Capacitor Booster
+15776,15777,10.0,Ammatar Navy Medium Capacitor Booster
+15778,15779,20.0,Ammatar Navy Heavy Capacitor Booster
+15780,15781,5.0,Imperial Navy Small Capacitor Booster
+15784,15785,10.0,Imperial Navy Medium Capacitor Booster
+15786,15787,20.0,Imperial Navy Heavy Capacitor Booster
+15788,15789,5.0,Ammatar Navy Cap Recharger
+15790,15791,100.0,Caldari Navy Cloaking Device
+15792,15793,5.0,Federation Navy Tracking Computer
+15794,15795,5.0,Ammatar Navy Small Energy Neutralizer
+15796,15797,5.0,Ammatar Navy Medium Energy Neutralizer
+15798,15799,5.0,Ammatar Navy Heavy Energy Neutralizer
+15800,15801,5.0,Imperial Navy Small Energy Neutralizer
+15802,15803,5.0,Imperial Navy Medium Energy Neutralizer
+15804,15805,5.0,Imperial Navy Heavy Energy Neutralizer
+15806,15807,5.0,Republic Fleet Gyrostabilizer
+15808,15809,5.0,Ammatar Navy Heat Sink
+15810,15811,5.0,Imperial Navy Heat Sink
+15818,15819,20.0,Caldari Navy 350mm Railgun
+15821,15822,10.0,Caldari Navy 200mm Railgun
+15838,15839,20.0,Federation Navy 350mm Railgun
+15841,15842,10.0,Federation Navy 200mm Railgun
+15875,15876,5.0,Ammatar Navy Small Energy Nosferatu
+15877,15878,5.0,Ammatar Navy Medium Energy Nosferatu
+15879,15880,5.0,Ammatar Navy Heavy Energy Nosferatu
+15881,15882,5.0,Imperial Navy Small Energy Nosferatu
+15883,15884,5.0,Imperial Navy Medium Energy Nosferatu
+15885,15886,5.0,Imperial Navy Heavy Energy Nosferatu
+15887,15888,5.0,Caldari Navy Warp Scrambler
+15889,15890,5.0,Caldari Navy Warp Disruptor
+15891,15892,5.0,Republic Fleet Warp Disruptor
+15893,15894,5.0,Republic Fleet Warp Scrambler
+15895,15896,5.0,Federation Navy Magnetic Field Stabilizer
+15905,15906,5.0,Caldari Navy Shield Boost Amplifier
+15907,15908,5.0,Republic Fleet Shield Boost Amplifier
+15909,15910,5.0,Caldari Navy EM Shield Amplifier
+15911,15912,5.0,Caldari Navy Kinetic Shield Amplifier
+15913,15914,5.0,Caldari Navy Thermal Shield Amplifier
+15915,15916,5.0,Caldari Navy Explosive Shield Amplifier
+15917,15918,5.0,Republic Fleet EM Shield Amplifier
+15919,15920,5.0,Republic Fleet Kinetic Shield Amplifier
+15921,15922,5.0,Republic Fleet Thermal Shield Amplifier
+15923,15924,5.0,Republic Fleet Explosive Shield Amplifier
+15925,15926,5.0,Caldari Navy Small Graviton Smartbomb
+15927,15928,2.5,Caldari Navy Micro Graviton Smartbomb
+15929,15930,10.0,Caldari Navy Medium Graviton Smartbomb
+15931,15932,50.0,Caldari Navy Large Graviton Smartbomb
+15935,15936,5.0,Republic Fleet Small Proton Smartbomb
+15937,15938,10.0,Republic Fleet Medium Proton Smartbomb
+15939,15940,50.0,Republic Fleet Large Proton Smartbomb
+15941,15942,5.0,Ammatar Navy Small EMP Smartbomb
+15945,15946,10.0,Ammatar Navy Medium EMP Smartbomb
+15947,15948,50.0,Ammatar Navy Large EMP Smartbomb
+15949,15950,5.0,Federation Navy Small Plasma Smartbomb
+15953,15954,10.0,Federation Navy Medium Plasma Smartbomb
+15955,15956,50.0,Federation Navy Large Plasma Smartbomb
+15957,15958,5.0,Imperial Navy Small EMP Smartbomb
+15959,15960,2.5,Imperial Navy Micro EMP Smartbomb
+15961,15962,10.0,Imperial Navy Medium EMP Smartbomb
+15963,15964,50.0,Imperial Navy Large EMP Smartbomb
+15965,15966,5.0,Republic Fleet Tracking Enhancer
+15967,15968,5.0,Federation Navy Remote Tracking Computer
+16062,16063,20.0,Caldari Navy Cruise Missile Launcher
+16065,16066,5.0,Caldari Navy Rocket Launcher
+16213,2777,8000.0,Caldari Control Tower
+16214,2783,8000.0,Minmatar Control Tower
+16216,2821,3000.0,Research Laboratory
+16220,2770,6250.0,Rapid Equipment Assembly Array
+16221,2786,4000.0,Moon Harvesting Array
+16227,16228,252000.0,Ferox
+16229,16230,270000.0,Brutix
+16231,16232,216000.0,Cyclone
+16233,16234,234000.0,Prophecy
+16236,16237,47000.0,Coercer
+16238,16239,52000.0,Cormorant
+16240,16241,55000.0,Catalyst
+16242,16243,43000.0,Thrasher
+16272,0,0.4,Heavy Water
+16273,0,0.4,Liquid Ozone
+16274,0,0.03,Helium Isotopes
+16275,0,3.0,Strontium Clathrates
+16278,16279,25.0,Ice Harvester I
+16631,2816,500.0,Small Artillery Battery
+16633,0,0.05,Hydrocarbons
+16634,0,0.05,Atmospheric Gases
+16635,0,0.05,Evaporite Deposits
+16636,0,0.05,Silicates
+16637,0,0.05,Tungsten
+16638,0,0.05,Titanium
+16639,0,0.05,Scandium
+16640,0,0.05,Cobalt
+16641,0,0.05,Chromium
+16642,0,0.05,Vanadium
+16643,0,0.05,Cadmium
+16644,0,0.05,Platinum
+16646,0,0.05,Mercury
+16647,0,0.05,Caesium
+16648,0,0.05,Hafnium
+16649,0,0.05,Technetium
+16650,0,0.05,Dysprosium
+16651,0,0.05,Neodymium
+16652,0,0.05,Promethium
+16653,0,0.05,Thulium
+16654,46182,0.2,Titanium Chromide
+16655,46169,0.2,Crystallite Alloy
+16656,46171,0.2,Fernite Alloy
+16657,46178,0.2,Rolled Tungsten Alloy
+16658,46179,0.2,Silicon Diborite
+16659,46167,0.2,Carbon Polymers
+16660,46168,0.2,Ceramic Powder
+16661,46181,0.2,Sulfuric Acid
+16662,46177,0.2,Platinum Technite
+16663,46166,0.2,Caesarium Cadmide
+16664,46180,0.2,Solerium
+16665,46174,0.2,Hexite
+16666,46175,0.2,Hyperflurite
+16667,46176,0.2,Neo Mercurite
+16668,46170,0.2,Dysporite
+16669,46172,0.2,Ferrofluid
+16670,46205,0.01,Crystalline Carbonide
+16671,46204,0.01,Titanium Carbide
+16672,46207,0.01,Tungsten Carbide
+16673,46206,0.01,Fernite Carbide
+16678,46208,0.05,Sylramic Fibers
+16679,46209,0.15,Fullerides
+16680,46210,0.2,Phenolic Composites
+16681,46211,0.25,Nanotransistors
+16682,46212,0.6,Hypersynaptic Fibers
+16683,46213,1.0,Ferrogel
+16688,2810,1000.0,Medium Artillery Battery
+16689,2805,5000.0,Large Artillery Battery
+16690,2815,500.0,Small Railgun Battery
+16691,2808,1000.0,Medium Railgun Battery
+16692,2804,5000.0,Large Railgun Battery
+16694,2830,5000.0,Large Beam Laser Battery
+16696,2823,500.0,Cruise Missile Battery
+16697,2824,1000.0,Torpedo Battery
+16869,2791,4000.0,Complex Reactor Array
+17136,0,6.0,Ukomi Superconductors
+17167,2826,500.0,Small Beam Laser Battery
+17168,2828,1000.0,Medium Beam Laser Battery
+17174,2792,4000.0,Ion Field Projection Battery
+17175,2794,4000.0,Phase Inversion Battery
+17176,2796,4000.0,Spatial Destabilization Battery
+17177,2798,4000.0,White Noise Generation Battery
+17178,2741,4000.0,Stasis Webification Battery
+17180,2763,4000.0,Sensor Dampening Battery
+17181,2736,4000.0,Warp Disruption Battery
+17182,2740,4000.0,Warp Scrambling Battery
+17184,2755,4000.0,Ballistic Deflection Array
+17185,2757,4000.0,Explosion Dampening Array
+17186,2759,4000.0,Heat Dissipation Array
+17187,2761,4000.0,Photon Scattering Array
+17317,46214,1.3,Fermionic Condensates
+17363,32868,100.0,Small Audit Log Secure Container
+17364,32869,325.0,Medium Audit Log Secure Container
+17365,32870,650.0,Large Audit Log Secure Container
+17366,32858,2000000.0,Station Container
+17367,32871,5000000.0,Station Vault Container
+17368,27309,10000000.0,Station Warehouse Container
+17392,0,6.0,Data Chips
+17402,2803,5000.0,Large Blaster Battery
+17403,2806,1000.0,Medium Blaster Battery
+17404,2813,500.0,Small Blaster Battery
+17406,2829,5000.0,Large Pulse Laser Battery
+17407,2827,1000.0,Medium Pulse Laser Battery
+17408,2825,500.0,Small Pulse Laser Battery
+17476,17477,150000.0,Covetor
+17478,17479,150000.0,Retriever
+17480,17481,150000.0,Procurer
+17482,17483,25.0,Strip Miner I
+17485,17486,20.0,Republic Fleet Cruise Missile Launcher
+17488,17489,5.0,Republic Fleet Rocket Launcher
+17500,17501,5.0,Caldari Navy Stasis Webifier
+17502,17503,5.0,Ammatar Navy EM Armor Hardener
+17504,17505,5.0,Ammatar Navy Explosive Armor Hardener
+17506,17507,5.0,Ammatar Navy Kinetic Armor Hardener
+17508,17509,5.0,Ammatar Navy Thermal Armor Hardener
+17510,17511,5.0,Ammatar Navy Capacitor Power Relay
+17512,17513,5.0,Ammatar Navy Kinetic Coating
+17514,17515,5.0,Ammatar Navy Multispectrum Coating
+17516,17517,5.0,Ammatar Navy Explosive Coating
+17518,17519,5.0,Ammatar Navy EM Coating
+17520,17521,5.0,Federation Navy Sensor Booster
+17522,17523,5.0,Ammatar Navy Reactor Control Unit
+17524,17525,5.0,Ammatar Navy Power Diagnostic System
+17526,17527,5.0,Imperial Navy Cap Recharger
+17528,17529,5.0,Imperial Navy Capacitor Power Relay
+17536,17537,5.0,Ammatar Navy Multispectrum Energized Membrane
+17538,17539,5.0,Ammatar Navy Kinetic Energized Membrane
+17540,17541,5.0,Ammatar Navy Explosive Energized Membrane
+17542,17543,5.0,Ammatar Navy EM Energized Membrane
+17544,17545,5.0,Ammatar Navy Thermal Energized Membrane
+17549,17550,5.0,Federation Navy Multispectrum Coating
+17551,17552,5.0,Federation Navy Kinetic Coating
+17553,17554,5.0,Federation Navy Explosive Coating
+17555,17556,5.0,Federation Navy EM Coating
+17557,17558,5.0,Federation Navy Thermal Coating
+17559,17561,5.0,Federation Navy Stasis Webifier
+17619,17620,16500.0,Caldari Navy Hookbill
+17621,2787,4000.0,Corporate Hangar Array
+17634,17635,101000.0,Caracal Navy Issue
+17636,17637,486000.0,Raven Navy Issue
+17648,17649,0.125,Antimatter Charge XL
+17650,17651,0.125,Iridium Charge XL
+17652,17653,0.125,Iron Charge XL
+17654,17655,0.125,Lead Charge XL
+17656,17657,0.125,Plutonium Charge XL
+17658,17659,0.125,Thorium Charge XL
+17660,17661,0.125,Tungsten Charge XL
+17662,17663,0.125,Uranium Charge XL
+17664,17665,0.125,Carbonized Lead XL
+17666,17667,0.125,Depleted Uranium XL
+17668,17669,0.125,EMP XL
+17670,17671,0.125,Fusion XL
+17672,17673,0.125,Nuclear XL
+17674,17675,0.125,Phased Plasma XL
+17676,17677,0.125,Proton XL
+17678,17679,0.125,Titanium Sabot XL
+17680,17681,1.0,Gamma XL
+17682,17683,1.0,Infrared XL
+17684,17685,1.0,Microwave XL
+17686,17687,1.0,Multifrequency XL
+17688,17689,1.0,Radio XL
+17690,17691,1.0,Standard XL
+17692,17693,1.0,Ultraviolet XL
+17694,17695,1.0,Xray XL
+17703,17704,16500.0,Imperial Navy Slicer
+17709,17710,101000.0,Omen Navy Issue
+17713,17714,101000.0,Stabber Fleet Issue
+17715,17716,101000.0,Gila
+17718,17719,101000.0,Phantasm
+17720,17721,101000.0,Cynabal
+17722,17723,101000.0,Vigilant
+17726,17727,495000.0,Apocalypse Navy Issue
+17728,17729,486000.0,Megathron Navy Issue
+17732,17733,486000.0,Tempest Fleet Issue
+17736,17737,486000.0,Nightmare
+17738,17739,595000.0,Machariel
+17740,17741,486000.0,Vindicator
+17769,46173,0.2,Fluxed Condensates
+17770,2807,5000.0,Large AutoCannon Battery
+17771,2814,1000.0,Medium AutoCannon Battery
+17772,2819,500.0,Small AutoCannon Battery
+17773,2822,5000.0,XL Torpedo Battery
+17812,17813,16500.0,Republic Fleet Firetail
+17832,17833,5.0,Federation Navy EM Armor Hardener
+17834,17835,5.0,Federation Navy Explosive Armor Hardener
+17836,17837,5.0,Federation Navy Kinetic Armor Hardener
+17838,17839,5.0,Federation Navy Thermal Armor Hardener
+17841,17842,16500.0,Federation Navy Comet
+17843,17844,112000.0,Vexor Navy Issue
+17857,17858,0.3,Mjolnir XL Torpedo
+17859,17860,0.3,Scourge XL Torpedo
+17861,17862,0.3,Inferno XL Torpedo
+17863,17864,0.3,Nova XL Torpedo
+17887,0,0.03,Oxygen Isotopes
+17888,0,0.03,Nitrogen Isotopes
+17889,0,0.03,Hydrogen Isotopes
+17893,0,0.01,High-Tech Data Chip
+17894,0,0.01,High-Tech Scanner
+17895,0,0.01,High-Tech Manufacturing Tools
+17898,0,6.0,High-Tech Transmitters
+17912,17913,5.0,Modulated Strip Miner II
+17918,17919,486000.0,Rattlesnake
+17920,17921,486000.0,Bhaalgorn
+17922,17923,118000.0,Ashimmu
+17924,17925,28600.0,Succubus
+17926,17927,28600.0,Cruor
+17928,17929,26500.0,Daredevil
+17930,17931,16500.0,Worm
+17932,17933,27289.0,Dramiel
+17938,17939,5.0,Core Probe Launcher I
+17959,46183,0.2,Vanadium Hafnite
+17960,46184,0.2,Prometium
+17982,2744,4000.0,Coupling Array
+18054,18055,6.0,Mercoxit Asteroid Mining Crystal Type A I
+18068,18069,5.0,Modulated Deep Core Miner II
+18608,18609,10.0,Mercoxit Asteroid Mining Crystal Type A II
+18626,32839,5.0,Quest Survey Probe I
+18635,32854,10.0,Discovery Survey Probe I
+18637,32855,5.0,Gaze Survey Probe I
+18639,18640,5.0,Expanded Probe Launcher I
+19470,2765,6000.0,Intensive Reprocessing Array
+19720,19721,18500000.0,Revelation
+19722,19723,15500000.0,Naglfar
+19724,19725,17550000.0,Moros
+19726,19727,16250000.0,Phoenix
+19739,19740,20.0,Cruise Missile Launcher II
+19744,19745,230000.0,Sigil
+19806,19807,5.0,Target Painter II
+20059,2775,4000.0,Amarr Control Tower Medium
+20060,2776,2000.0,Amarr Control Tower Small
+20061,2778,4000.0,Caldari Control Tower Medium
+20062,2779,2000.0,Caldari Control Tower Small
+20063,2781,4000.0,Gallente Control Tower Medium
+20064,2782,2000.0,Gallente Control Tower Small
+20065,2784,4000.0,Minmatar Control Tower Medium
+20066,2785,2000.0,Minmatar Control Tower Small
+20110,0,1.0,Sleeper Foundation Block
+20114,0,0.1,Datacore - Propulsion Subsystems Engineering
+20115,0,0.1,Datacore - Core Subsystems Engineering
+20125,20126,120000.0,Curse
+20138,26759,10.0,Heavy Assault Missile Launcher I
+20171,0,0.1,Datacore - Hydromagnetic Physics
+20172,0,0.1,Datacore - Minmatar Starship Engineering
+20175,2797,4000.0,Simple Reactor Array
+20183,20184,18500000.0,Providence
+20185,20186,16250000.0,Charon
+20187,20188,17550000.0,Obelisk
+20189,20190,15500000.0,Fenrir
+20280,20281,4000.0,Siege Module I
+20306,26760,0.015,Mjolnir Heavy Assault Missile
+20307,26762,0.015,Scourge Heavy Assault Missile
+20308,26761,0.015,Inferno Heavy Assault Missile
+20345,20346,5.0,100mm Steel Plates II
+20347,20348,10.0,200mm Steel Plates II
+20349,20350,10.0,400mm Steel Plates II
+20351,20352,20.0,800mm Steel Plates II
+20353,20354,20.0,1600mm Steel Plates II
+20410,0,0.1,Datacore - Gallentean Starship Engineering
+20411,0,0.1,Datacore - High Energy Physics
+20412,0,0.1,Datacore - Plasma Physics
+20413,0,0.1,Datacore - Laser Physics
+20414,0,0.1,Datacore - Quantum Physics
+20415,0,0.1,Datacore - Molecular Engineering
+20416,0,0.1,Datacore - Nanite Engineering
+20417,0,0.1,Datacore - Electromagnetic Physics
+20418,0,0.1,Datacore - Electronic Engineering
+20419,0,0.1,Datacore - Graviton Physics
+20420,0,0.1,Datacore - Rocket Science
+20421,0,0.1,Datacore - Amarrian Starship Engineering
+20423,0,0.1,Datacore - Nuclear Physics
+20424,0,0.1,Datacore - Mechanical Engineering
+20425,0,0.1,Datacore - Offensive Subsystems Engineering
+20444,20445,4000.0,Dual Giga Pulse Laser I
+20446,20447,4000.0,Dual Giga Beam Laser I
+20448,20449,4000.0,Dual 1000mm Railgun I
+20450,20451,4000.0,Ion Siege Blaster I
+20452,20453,4000.0,Hexa 2500mm Repeating Cannon I
+20454,20455,4000.0,Quad 3500mm Siege Artillery I
+20539,20540,4000.0,XL Torpedo Launcher I
+20555,20556,5.0,Small 'Siesta' Capacitor Booster
+20557,20558,10.0,Medium 'Gattotte' Capacitor Booster
+20559,20560,20.0,Heavy 'Brave' Capacitor Booster
+20561,20562,100.0,Prototype 'Poncho' Cloaking Device I
+20563,20564,100.0,'Smokescreen' Covert Ops Cloaking Device II
+20565,20566,100.0,Improved 'Guise' Cloaking Device II
+20567,20568,5.0,'Dyad' Co-Processor I
+20569,20570,5.0,'Deuce' Co-Processor I
+20573,20574,5.0,'Marshall' Magnetometric ECM
+20575,20576,5.0,'Gambler' Ladar ECM
+20577,20578,5.0,'Plunderer' Gravimetric ECM
+20579,20580,5.0,'Heist' Radar ECM
+20581,20582,5.0,'Ghost' Burst Jammer
+20587,20588,5.0,150mm 'Musket' Railgun
+20589,20590,10.0,250mm 'Flintlock' Railgun
+20591,20592,20.0,425mm 'Popper' Railgun
+20593,20594,5.0,'Balefire' Rocket Launcher
+20595,20596,5.0,'Gallows' Light Missile Launcher
+20597,20598,10.0,'Pickaxe' Rapid Light Missile Launcher
+20599,20600,10.0,'Undertaker' Heavy Missile Launcher
+20601,20602,20.0,'Noose' Cruise Missile Launcher
+20603,20604,20.0,'Barrage' Torpedo Launcher
+20605,20606,5.0,'Whiskey' Explosive Shield Amplifier
+20607,20608,5.0,'High Noon' Thermal Shield Amplifier
+20609,20610,5.0,'Cactus' Modified Kinetic Shield Amplifier
+20611,20612,5.0,'Prospector' EM Shield Amplifier
+20613,20614,5.0,'Glycerine' Shield Boost Amplifier
+20617,20618,5.0,Small 'Settler' Shield Booster
+20619,20620,10.0,Medium 'Lone Ranger' Shield Booster
+20621,20622,25.0,Large 'Outlaw' Shield Booster
+20623,20624,50.0,X-Large 'Locomotive' Shield Booster
+20625,20626,5.0,Small 'Wolf' Shield Extender
+20629,20630,10.0,Medium 'Canyon' Shield Extender
+20631,20632,20.0,Large 'Sheriff' Shield Extender
+20633,20634,5.0,'Nugget' Kinetic Shield Hardener
+20635,20636,5.0,'Desert Heat' Thermal Shield Hardener
+20637,20638,5.0,'Posse' Multispectrum Shield Hardener
+20639,20640,5.0,'Poacher' EM Shield Hardener
+20641,20642,5.0,'Snake Eyes' Explosive Shield Hardener
+20701,20702,4000.0,Capital Armor Repairer I
+20703,20704,4000.0,Capital Shield Booster I
+21009,21010,10000.0,Capital Propulsion Engine
+21011,21012,10000.0,Capital Turret Hardpoint
+21013,21014,10000.0,Capital Sensor Cluster
+21017,21018,10000.0,Capital Armor Plates
+21019,21020,10000.0,Capital Capacitor Battery
+21021,21022,10000.0,Capital Power Generator
+21023,21024,10000.0,Capital Shield Emitter
+21025,21026,10000.0,Capital Jump Drive
+21027,21028,10000.0,Capital Cargo Bay
+21029,21030,10000.0,Capital Drone Bay
+21035,21036,10000.0,Capital Computer System
+21037,21038,10000.0,Capital Construction Parts
+21039,21040,10000.0,Capital Siege Array
+21041,21042,10000.0,Capital Launcher Hardpoint
+21073,0,1.0,Sleeper Split Cables
+21074,0,1.0,Talocan Sketch Books
+21075,0,1.0,Talocan Molecule Binder
+21076,0,0.1,Talocan Stasis Inverter
+21077,0,1.0,Talocan Info Shards
+21078,0,1.0,Talocan Reflective Sheets
+21079,0,0.1,Talocan Perpetual Clock
+21080,0,0.1,Talocan Solid Atomizer
+21081,0,1.0,Talocan Mechanical Gears
+21082,0,0.1,Talocan System Interface Unit
+21084,0,1.0,Talocan Mathematical Schematics
+21085,0,1.0,Talocan Automation Accounts
+21086,0,1.0,Talocan Partition Plates
+21087,0,1.0,Talocan Intricate Formulas
+21088,0,0.1,Talocan Stasis Deflector
+21089,0,1.0,Talocan Ignition Device
+21096,21604,50.0,Cynosural Field Generator I
+21470,21471,5.0,1MN Analog Booster Afterburner
+21472,21473,5.0,10MN Analog Booster Afterburner
+21474,21475,5.0,100MN Analog Booster Afterburner
+21476,21477,10.0,5MN Digital Booster Microwarpdrive
+21478,21479,10.0,50MN Digital Booster Microwarpdrive
+21480,21481,10.0,500MN Digital Booster Microwarpdrive
+21484,21485,5.0,'Full Duplex' Ballistic Control System
+21486,21487,5.0,'Kindred' Gyrostabilizer
+21491,21492,5.0,Synthetic Hull Conversion Overdrive Injector
+21493,21494,5.0,Limited Expanded 'Archiver' Cargo
+21496,21497,5.0,Synthetic Hull Conversion Reinforced Bulkheads
+21498,21499,5.0,Synthetic Hull Conversion Inertia Stabilizers
+21500,21501,5.0,Synthetic Hull Conversion Nanofiber Structure
+21504,21505,5.0,Small 'Integrative' Hull Repair Unit
+21506,21507,10.0,Medium 'Integrative' Hull Repair Unit
+21508,21509,50.0,Large 'Integrative' Hull Repair Unit
+21510,21511,5.0,'Interruptive' Warp Disruptor
+21512,21513,5.0,'Delineative' Warp Scrambler
+21527,21528,20.0,'Firewall' Signal Amplifier
+21534,21535,2.5,Small Degenerative Concussion Bomb I
+21536,21537,10.0,Medium Degenerative Concussion Bomb I
+21538,21539,50.0,Large Degenerative Concussion Bomb I
+21540,21541,5.0,'Inception' Target Painter
+21542,21543,5.0,N-1 Neon Type Rocket Bay
+21545,21546,5.0,200mm Light 'Jolt' Autocannon I
+21547,21548,5.0,250mm Light 'Jolt' Artillery I
+21549,21550,5.0,280mm 'Jolt' Artillery I
+21551,21552,10.0,425mm Medium 'Jolt' Autocannon I
+21553,21554,10.0,650mm Medium 'Jolt' Artillery I
+21555,21556,10.0,720mm 'Jolt' Artillery I
+21557,21558,20.0,800mm Heavy 'Jolt' Repeating Cannon I
+21559,21560,20.0,1200mm Heavy 'Jolt' Artillery I
+21561,21562,20.0,1400mm 'Jolt' Artillery I
+21568,0,1.0,Sleeper Data Interface Protocol
+21569,0,1.0,Sleeper Profound Research Notes
+21570,0,1.0,Sleeper Manuscripts
+21571,0,1.0,Sleeper Technical Schematics
+21572,0,1.0,Sleeper Data Crystals
+21584,0,1.0,Sleeper Micro Circuits
+21585,0,1.0,Sleeper Cryo Batteries
+21586,0,1.0,Sleeper Virtual Energizer
+21587,0,0.1,Electronic Link
+21588,0,0.1,Spare Parts
+21589,0,0.1,Power Couplings
+21590,0,0.1,Armor Blocks
+21591,0,0.1,Computer Chips
+21592,0,0.1,Electric Conduit
+21593,0,0.1,Mechanic Parts
+21594,0,0.1,Energy Cells
+21595,0,0.1,Construction Alloy
+21596,0,0.1,Data Processor
+21638,21639,10.0,Vespa II
+21640,21641,10.0,Valkyrie II
+21719,0,0.1,Sleeper Hyperbooster
+21720,0,0.1,Sleeper Thermal Regulator
+21721,0,0.1,Sleeper Heat Nullifying Coil
+21722,0,0.1,Sleeper Nanite Cluster
+21723,0,0.1,Sleeper Reintegration Control
+21724,0,0.1,Guristas Heavy Weapon Console
+21725,0,0.1,Guristas Medium Weapon Console
+21726,0,0.1,Guristas Light Weapon Console
+21727,0,0.1,Guristas Gravity Focuser
+21728,0,0.1,Guristas Graviton Hardening
+21729,0,0.1,Angel Advanced Trigger Mechanism
+21730,0,0.1,Angel Standard Trigger Mechanism
+21731,0,0.1,Angel Simple Trigger Mechanism
+21732,0,0.1,Angel Spatial Analyzer
+21733,0,0.1,Angel Dynamic Calibrator
+21815,0,0.01,Elite Drone AI
+21853,21854,5.0,Civilian Armor Repairer
+21855,21856,5.0,Civilian Expanded Cargohold
+21857,21858,5.0,1MN Civilian Afterburner
+21867,21868,0.015,Nova Heavy Assault Missile
+21947,21948,3000.0,Structure Construction Parts
+21949,21950,3000.0,Structure Hangar Array
+21951,21952,3000.0,Structure Storage Bay
+21953,21954,3000.0,Structure Laboratory
+21955,21956,3000.0,Structure Factory
+21957,21958,3000.0,Structure Repair Facility
+21959,21960,3000.0,Structure Reprocessing Plant
+21961,21962,3000.0,Structure Docking Bay
+21963,21964,3000.0,Structure Market Network
+21965,21966,3000.0,Structure Medical Center
+21967,21968,3000.0,Structure Office Center
+21969,21970,3000.0,Structure Mission Network
+22175,22176,5.0,Data Analyzer I
+22177,22178,5.0,Relic Analyzer I
+22229,22230,5.0,Ice Harvester II
+22291,22292,5.0,Ballistic Control System II
+22428,22429,486000.0,Redeemer
+22430,22431,454500.0,Sin
+22436,22437,468000.0,Widow
+22440,22441,414000.0,Panther
+22442,22443,270000.0,Eos
+22444,22445,216000.0,Sleipnir
+22446,22447,252000.0,Vulture
+22448,22449,234000.0,Absolution
+22452,22453,47000.0,Heretic
+22456,22457,43000.0,Sabre
+22460,22461,55000.0,Eris
+22464,22465,52000.0,Flycatcher
+22466,22467,270000.0,Astarte
+22468,22469,216000.0,Claymore
+22470,22471,252000.0,Nighthawk
+22474,22475,234000.0,Damnation
+22542,22543,5.0,Mining Laser Upgrade I
+22544,22545,150000.0,Hulk
+22546,22547,150000.0,Skiff
+22548,22549,150000.0,Mackinaw
+22553,22554,60.0,Mining Foreman Link - Harvester Capacitor Efficiency I
+22555,22556,60.0,Mining Foreman Link - Mining Laser Field Enhancement I
+22557,22558,60.0,Mining Foreman Link - Laser Optimization I
+22572,22573,25.0,Praetor EV-900
+22576,22577,5.0,Ice Harvester Upgrade I
+22634,2793,4000.0,Medium Biochemical Reactor Array
+22765,22766,25.0,Heavy Shield Maintenance Bot I
+22778,22779,5.0,Warp Disrupt Probe
+22782,22783,50.0,Interdiction Sphere Launcher I
+22852,22853,51000000.0,Hel
+22875,22876,5.0,'Aura' Warp Core Stabilizer I
+22877,22878,5.0,'Natura' Warp Core Stabilizer I
+22879,22880,5.0,'Pilfer' Multispectrum Energized Membrane
+22881,22882,5.0,'Moonshine' Thermal Energized Membrane
+22883,22884,5.0,'Mafia' Kinetic Energized Membrane
+22887,22888,5.0,'Harmony' Small Armor Repairer I
+22889,22890,10.0,'Meditation' Medium Armor Repairer I
+22891,22892,50.0,'Protest' Large Armor Repairer I
+22895,22896,5.0,'Shady' Sensor Booster
+22899,22900,5.0,'Corporate' Light Electron Blaster I
+22901,22902,5.0,'Dealer' Light Ion Blaster I
+22905,22906,10.0,'Slither' Heavy Electron Blaster I
+22907,22908,10.0,'Hooligan' Heavy Ion Blaster I
+22909,22910,10.0,'Hustler' Heavy Neutron Blaster I
+22911,22912,20.0,'Swindler' Electron Blaster Cannon I
+22913,22914,20.0,'Felon' Ion Blaster Cannon I
+22915,22916,20.0,'Underhand' Neutron Blaster Cannon I
+22919,22920,5.0,'Monopoly' Magnetic Field Stabilizer
+22923,22924,5.0,'Wild' Miner I
+22925,22926,5.0,'Bootleg' Remote Sensor Booster
+22929,22930,5.0,'Marketeer' Tracking Computer
+22931,22932,5.0,'Distributor' Guidance Disruptor
+22933,22934,5.0,'Investor' Tracking Disruptor I
+22937,22938,5.0,'Enterprise' Remote Tracking Computer
+22945,22946,5.0,'Executive' Remote Sensor Dampener
+22947,22948,5.0,'Beatnik' Small Remote Armor Repairer
+22949,22950,10.0,'Love' Medium Remote Armor Repairer
+22953,22954,5.0,'Cartel' Power Diagnostic System I
+23055,23056,1000.0,Templar I
+23057,23058,1000.0,Dragonfly I
+23059,23060,1000.0,Firbolg I
+23061,23062,1000.0,Einherji I
+23128,0,0.1,Yan Jung Crystal Cylinder
+23129,0,0.1,Yan Jung Paradox Box
+23130,0,0.1,Yan Jung Thunder Kite
+23131,0,0.1,Yan Jung Void Machine
+23132,0,0.1,Yan Jung Tachyon Stetoscope
+23133,0,0.1,Takmahl Phrenic Appendix
+23134,0,0.1,Takmahl Dynamic Gauge
+23135,0,0.1,Takmahl Gyro Ballast
+23136,0,0.1,Takmahl Biodroid Controller
+23137,0,0.1,Takmahl Quantum Sphere
+23138,0,1.0,Yan Jung Null Shell
+23139,0,1.0,Yan Jung Glass Scale
+23140,0,1.0,Yan Jung Plenary Wire
+23141,0,1.0,Yan Jung Silk Armor
+23142,0,1.0,Yan Jung Nano Fabric
+23143,0,1.0,Takmahl Diamond Rod
+23144,0,1.0,Takmahl Cohere Cord
+23145,0,1.0,Takmahl Solid Mox
+23146,0,1.0,Takmahl Magnetic Slab
+23147,0,1.0,Takmahl Tri-polished Lens
+23148,0,0.1,Blood Raider Limited Ballistic Control
+23149,0,0.1,Blood Raider Regular Ballistic Control
+23150,0,0.1,Blood Raider Extreme Ballistic Control
+23151,0,0.1,Blood Raider Weapon Integration Unit
+23152,0,0.1,Blood Raider Power Redistributor
+23153,0,0.1,Serpentis Plain Target Guider
+23154,0,0.1,Serpentis Basic Target Guider
+23155,0,0.1,Serpentis Complex Target Guider
+23156,0,0.1,Serpentis 3D Scanner Gamut
+23157,0,0.1,Serpentis Multi-tasking Processor
+23158,0,0.1,Positron Cord
+23159,0,0.1,Auxiliary Parts
+23160,0,0.1,Force Cable
+23161,0,0.1,Elemental Crux
+23162,0,0.1,Analog Panel
+23163,0,0.1,Current Amplifier
+23164,0,0.1,Second-hand Parts
+23165,0,0.1,Heat Depressor
+23166,0,0.1,Internal Bulkhead
+23167,0,0.1,Mainframe Bit
+23168,0,1.0,Yan Jung Info Matrix
+23169,0,1.0,Yan Jung Vellum Etch
+23170,0,1.0,Yan Jung Trigonometric Laws
+23171,0,1.0,Yan Jung Semiotic Theory
+23172,0,1.0,Yan Jung Singularity Fact Sheet
+23173,0,1.0,Takmahl Binary Texts
+23174,0,1.0,Takmahl Fractal Sheet
+23175,0,1.0,Takmahl Centrifugal Primer
+23176,0,1.0,Takmahl Geometric Design
+23177,0,1.0,Takmahl Astral Treatment
+23416,23417,25.0,'Peace' Large Remote Armor Repairer
+23418,23419,5.0,'Radical' Damage Control
+23473,23474,25.0,Wasp EC-900
+23506,23507,25.0,Ogre SD-900
+23510,23511,25.0,Praetor TD-900
+23512,23513,25.0,Berserker TP-900
+23523,23524,25.0,Heavy Armor Maintenance Bot I
+23525,23526,25.0,Curator I
+23527,23528,25.0,Drone Link Augmentor I
+23533,23534,5.0,Omnidirectional Tracking Link I
+23536,23537,25.0,Berserker SW-900
+23559,23560,25.0,Warden I
+23561,23562,25.0,Garde I
+23563,23564,25.0,Bouncer I
+23659,23660,5.0,Acolyte EV-300
+23674,24549,8000.0,'Gjallarhorn' Explosive Doomsday
+23702,23703,10.0,Infiltrator EV-600
+23705,23706,10.0,Vespa EC-600
+23707,23708,5.0,Hornet EC-300
+23709,23710,10.0,Medium Armor Maintenance Bot I
+23711,23712,5.0,Light Armor Maintenance Bot I
+23713,23714,10.0,Hammerhead SD-600
+23715,23716,5.0,Hobgoblin SD-300
+23717,23718,10.0,Medium Shield Maintenance Bot I
+23719,23720,5.0,Light Shield Maintenance Bot I
+23721,23722,10.0,Valkyrie TP-600
+23723,23724,5.0,Warrior TP-300
+23725,23726,10.0,Infiltrator TD-600
+23727,23728,5.0,Acolyte TD-300
+23729,23730,10.0,Valkyrie SW-600
+23731,23732,5.0,Warrior SW-300
+23735,23736,4000.0,Clone Vat Bay I
+23757,23758,13950000.0,Archon
+23773,23774,100000000.0,Ragnarok
+23783,23784,5.0,'Abatis' 100mm Steel Plates
+23785,23786,20.0,'Bailey' 1600mm Steel Plates
+23787,23788,10.0,'Chainmail' 200mm Steel Plates
+23789,23790,10.0,'Bastion' 400mm Steel Plates
+23791,23792,5.0,'Citadella' 100mm Steel Plates
+23793,23794,20.0,'Barbican' 800mm Steel Plates
+23795,23796,5.0,'Gorget' Small Armor Repairer I
+23797,23798,10.0,'Greaves' Medium Armor Repairer I
+23799,23800,50.0,'Hauberk' Large Armor Repairer I
+23801,23802,5.0,'Crucible' Small Cap Battery
+23803,23804,10.0,'Censer' Medium Cap Battery
+23805,23806,15.0,'Thurifer' Large Cap Battery
+23807,23808,5.0,'Saddle' Small Capacitor Booster I
+23809,23810,10.0,'Harness' Medium Capacitor Booster I
+23811,23812,20.0,'Plough' Heavy Capacitor Booster I
+23813,23814,5.0,'Palisade' Cap Recharger I
+23815,23816,5.0,Small 'Caltrop' Energy Neutralizer
+23817,23818,5.0,Medium 'Ditch' Energy Neutralizer
+23819,23820,5.0,Heavy 'Moat' Energy Neutralizer
+23821,23822,5.0,Small 'Upir' Energy Nosferatu
+23824,23825,5.0,Medium 'Strigoi' Energy Nosferatu
+23829,23830,5.0,Heavy 'Vrykolakas' Energy Nosferatu
+23834,23835,5.0,'Mace' Dual Light Beam Laser I
+23836,23837,5.0,'Longbow' Small Focused Pulse Laser I
+23838,23839,5.0,'Gauntlet' Small Focused Beam Laser I
+23840,23841,10.0,'Crossbow' Focused Medium Beam Laser I
+23842,23843,10.0,'Joust' Heavy Pulse Laser I
+23844,23845,10.0,'Arquebus' Heavy Beam Laser I
+23846,23847,20.0,'Halberd' Mega Pulse Laser I
+23848,23849,20.0,'Catapult' Mega Beam Laser I
+23850,23851,20.0,'Ballista' Tachyon Beam Laser I
+23852,23853,5.0,'Squire' Small Remote Capacitor Transmitter
+23854,23855,10.0,'Knight' Medium Remote Capacitor Transmitter
+23856,23857,25.0,'Chivalry' Large Remote Capacitor Transmitter
+23864,23865,5.0,'Pike' Small EMP Smartbomb I
+23866,23867,10.0,'Lance' Medium EMP Smartbomb I
+23868,23869,50.0,'Warhammer' Large EMP Smartbomb I
+23894,23895,5.0,'Page' Capacitor Flux Coil I
+23896,23897,5.0,'Motte' Capacitor Power Relay I
+23898,23899,5.0,'Portcullis' Reactor Control Unit I
+23902,23903,5.0,'Trebuchet' Heat Sink I
+23911,23912,13095000.0,Thanatos
+23913,23914,58200000.0,Nyx
+23915,23916,11925000.0,Chimera
+23917,23918,53000000.0,Wyvern
+23919,23920,62000000.0,Aeon
+23953,23954,10000.0,Jump Portal Generator I
+24283,24284,4000.0,Fighter Support Unit I
+24305,24306,5.0,Modulated Deep Core Strip Miner II
+24348,24349,50.0,Small Tractor Beam I
+24395,24396,25.0,Drone Navigation Computer I
+24417,24418,5.0,Drone Navigation Computer II
+24427,24428,25.0,Drone Link Augmentor II
+24438,24439,5.0,Omnidirectional Tracking Link II
+24443,24444,5.0,Shield Boost Amplifier II
+24445,32862,120000.0,Giant Freight Container
+24471,24472,0.005,Scourge Rage Rocket
+24473,24474,0.005,Nova Rage Rocket
+24475,24476,0.005,Inferno Rage Rocket
+24477,24605,0.005,Scourge Javelin Rocket
+24478,24604,0.005,Nova Javelin Rocket
+24479,24543,0.005,Inferno Javelin Rocket
+24483,24484,11250000.0,Nidhoggur
+24486,24487,0.015,Inferno Rage Heavy Assault Missile
+24488,24489,0.015,Nova Rage Heavy Assault Missile
+24490,24491,0.015,Mjolnir Rage Heavy Assault Missile
+24492,24614,0.015,Scourge Javelin Heavy Assault Missile
+24493,24617,0.015,Mjolnir Javelin Heavy Assault Missile
+24494,24615,0.015,Inferno Javelin Heavy Assault Missile
+24495,24496,0.015,Scourge Fury Light Missile
+24497,24498,0.015,Nova Fury Light Missile
+24499,24500,0.015,Inferno Fury Light Missile
+24501,24502,0.015,Scourge Precision Light Missile
+24503,24504,0.015,Nova Precision Light Missile
+24505,24506,0.015,Mjolnir Precision Light Missile
+24507,24508,0.03,Nova Fury Heavy Missile
+24509,24510,0.03,Mjolnir Fury Heavy Missile
+24511,24512,0.03,Inferno Fury Heavy Missile
+24513,24514,0.03,Scourge Precision Heavy Missile
+24515,24516,0.03,Inferno Precision Heavy Missile
+24517,24518,0.03,Mjolnir Precision Heavy Missile
+24519,24520,0.05,Nova Rage Torpedo
+24521,24522,0.05,Scourge Rage Torpedo
+24523,24524,0.05,Mjolnir Rage Torpedo
+24525,24526,0.05,Inferno Javelin Torpedo
+24527,24528,0.05,Mjolnir Javelin Torpedo
+24529,24530,0.05,Scourge Javelin Torpedo
+24531,24532,0.05,Nova Fury Cruise Missile
+24533,24534,0.05,Scourge Fury Cruise Missile
+24535,24536,0.05,Mjolnir Fury Cruise Missile
+24537,24538,0.05,Nova Precision Cruise Missile
+24539,24540,0.05,Mjolnir Precision Cruise Missile
+24541,24542,0.05,Scourge Precision Cruise Missile
+24545,24546,10000.0,Capital Jump Bridge Array
+24547,24548,10000.0,Capital Clone Vat Bay
+24550,24551,8000.0,'Judgment' Electromagnetic Doomsday
+24552,24553,8000.0,'Oblivion' Kinetic Doomsday
+24554,24555,8000.0,'Aurora Ominae' Thermal Doomsday
+24556,24557,10000.0,Capital Doomsday Weapon Mount
+24558,24559,10000.0,Capital Ship Maintenance Bay
+24560,24561,10000.0,Capital Corporate Hangar Bay
+24567,2820,3000.0,Experimental Laboratory
+24569,24570,4000.0,Capital Remote Armor Repairer I
+24574,2771,10000.0,Small Ship Assembly Array
+24575,2756,850000.0,Supercapital Ship Assembly Array
+24644,24645,4000.0,Capital Tractor Beam I
+24646,2750,40000.0,X-Large Ship Maintenance Array
+24653,2753,10000.0,Advanced Small Ship Assembly Array
+24654,2768,17000.0,Medium Ship Assembly Array
+24655,2751,17000.0,Advanced Medium Ship Assembly Array
+24656,2773,25000.0,Capital Ship Assembly Array
+24657,2749,25000.0,Advanced Large Ship Assembly Array
+24658,2754,1250.0,Ammunition Assembly Array
+24659,2760,1250.0,Drone Assembly Array
+24660,2758,12500.0,Component Assembly Array
+24684,2790,4000.0,Biochemical Reactor Array
+24688,24689,486000.0,Rokh
+24690,24691,495000.0,Hyperion
+24692,24693,495000.0,Abaddon
+24694,24695,472500.0,Maelstrom
+24696,24697,234000.0,Harbinger
+24698,24699,252000.0,Drake
+24700,24701,270000.0,Myrmidon
+24702,24703,216000.0,Hurricane
+25237,46230,1.0,Pure Standard Blue Pill Booster
+25241,46251,1.0,Pure Improved Blue Pill Booster
+25242,46231,1.0,Pure Standard Crash Booster
+25252,46222,1.0,Pure Standard Frentix Booster
+25266,25267,5.0,Gas Cloud Scoop I
+25268,0,10.0,Amber Cytoserocin
+25270,2742,4000.0,Biochemical Silo
+25271,2743,4000.0,Catalyst Silo
+25273,0,10.0,Golden Cytoserocin
+25274,0,10.0,Viridian Cytoserocin
+25275,0,10.0,Celadon Cytoserocin
+25276,0,10.0,Malachite Cytoserocin
+25277,0,10.0,Lime Cytoserocin
+25278,0,10.0,Vermillion Cytoserocin
+25279,0,10.0,Azure Cytoserocin
+25280,2746,4000.0,Hazardous Chemical Silo
+25283,46235,1.0,Pure Strong Blue Pill Booster
+25330,46223,1.0,Pure Standard Drop Booster
+25331,46224,1.0,Pure Standard Exile Booster
+25332,46225,1.0,Pure Standard Mindflood Booster
+25333,46226,1.0,Pure Standard X-Instinct Booster
+25334,46227,1.0,Pure Standard Sooth Sayer Booster
+25335,46236,1.0,Pure Improved Crash Booster
+25336,46237,1.0,Pure Improved Drop Booster
+25337,46238,1.0,Pure Improved Exile Booster
+25338,46240,1.0,Pure Improved Mindflood Booster
+25339,46241,1.0,Pure Improved Frentix Booster
+25340,46242,1.0,Pure Improved X-Instinct Booster
+25341,46243,1.0,Pure Improved Sooth Sayer Booster
+25342,46244,1.0,Pure Strong Crash Booster
+25343,46245,1.0,Pure Strong Drop Booster
+25344,46246,1.0,Pure Strong Exile Booster
+25345,46247,1.0,Pure Strong Mindflood Booster
+25346,46248,1.0,Pure Strong Frentix Booster
+25347,46249,1.0,Pure Strong X-Instinct Booster
+25348,46250,1.0,Pure Strong Sooth Sayer Booster
+25349,25539,1.0,Strong Exile Booster
+25553,25587,1.0,Cryptic Data Interface
+25554,25585,1.0,Occult Data Interface
+25555,25584,1.0,Esoteric Data Interface
+25556,25586,1.0,Incognito Data Interface
+25561,25562,5.0,Signal Distortion Amplifier I
+25563,25564,5.0,Signal Distortion Amplifier II
+25588,0,0.01,Scorched Telemetry Processor
+25589,0,0.01,Malfunctioning Shield Emitter
+25590,0,0.01,Contaminated Nanite Compound
+25591,0,0.01,Contaminated Lorentz Fluid
+25592,0,0.01,Defective Current Pump
+25593,0,0.01,Smashed Trigger Unit
+25594,0,0.01,Tangled Power Conduit
+25595,0,0.01,Alloyed Tritanium Bar
+25596,0,0.01,Broken Drone Transceiver
+25597,0,0.01,Damaged Artificial Neural Network
+25598,0,0.01,Tripped Power Circuit
+25599,0,0.01,Charred Micro Circuit
+25600,0,0.01,Burned Logic Circuit
+25601,0,0.01,Fried Interface Circuit
+25602,0,0.01,Thruster Console
+25603,0,0.01,Melted Capacitor Console
+25604,0,0.01,Conductive Polymer
+25605,0,0.01,Armor Plates
+25606,0,0.01,Ward Console
+25607,0,0.01,Telemetry Processor
+25608,0,0.01,Intact Shield Emitter
+25609,0,0.01,Nanite Compound
+25610,0,0.01,Lorentz Fluid
+25611,0,0.01,Current Pump
+25612,0,0.01,Trigger Unit
+25613,0,0.01,Power Conduit
+25614,0,0.01,Single-crystal Superalloy I-beam
+25615,0,0.01,Drone Transceiver
+25616,0,0.01,Artificial Neural Network
+25617,0,0.01,Power Circuit
+25618,0,0.01,Micro Circuit
+25619,0,0.01,Logic Circuit
+25620,0,0.01,Interface Circuit
+25621,0,0.01,Impetus Console
+25622,0,0.01,Capacitor Console
+25623,0,0.01,Conductive Thermoplastic
+25624,0,0.01,Intact Armor Plates
+25625,0,0.01,Enhanced Ward Console
+25715,25716,10.0,Heavy Assault Missile Launcher II
+25736,25737,20.0,Large EM Armor Reinforcer I
+25812,25813,5.0,Gas Cloud Scoop II
+25821,2745,4000.0,General Storage
+25851,25852,1.0,Occult Ship Data Interface
+25853,25854,1.0,Esoteric Ship Data Interface
+25855,25856,1.0,Incognito Ship Data Interface
+25857,25858,1.0,Cryptic Ship Data Interface
+25861,25862,5.0,Salvager I
+25887,0,0.1,Datacore - Caldari Starship Engineering
+25888,25889,20.0,Large Explosive Armor Reinforcer I
+25890,25891,20.0,Large Kinetic Armor Reinforcer I
+25892,25893,20.0,Large Thermal Armor Reinforcer I
+25894,25895,20.0,Large Trimark Armor Pump I
+25896,25897,20.0,Large Auxiliary Nano Pump I
+25898,25899,20.0,Large Nanobot Accelerator I
+25900,25901,20.0,Large Remote Repair Augmentor I
+25902,25903,20.0,Large Salvage Tackle I
+25906,25907,20.0,Large Core Defense Capacitor Safeguard I
+25908,25909,20.0,Large Drone Control Range Augmentor I
+25910,25911,20.0,Large Drone Repair Augmentor I
+25912,25913,20.0,Large Drone Scope Chip I
+25914,25915,20.0,Large Drone Speed Augmentor I
+25916,25917,20.0,Large Drone Durability Enhancer I
+25918,25919,20.0,Large Drone Mining Augmentor I
+25920,25921,20.0,Large Sentry Damage Augmentor I
+25924,25925,20.0,Large Stasis Drone Augmentor I
+25928,25929,20.0,Large Signal Disruption Amplifier I
+25930,25931,20.0,Large Emission Scope Sharpener I
+25932,25933,20.0,Large Memetic Algorithm Bank I
+25934,25935,20.0,Large Liquid Cooled Electronics I
+25936,25937,20.0,Large Gravity Capacitor Upgrade I
+25948,25949,20.0,Large Capacitor Control Circuit I
+25950,25951,20.0,Large Egress Port Maximizer I
+25952,25953,20.0,Large Powergrid Subroutine Maximizer I
+25954,25955,20.0,Large Semiconductor Memory Cell I
+25956,25957,20.0,Large Ancillary Current Router I
+25968,25969,20.0,Large Energy Discharge Elutriation I
+25970,25971,20.0,Large Energy Ambit Extension I
+25972,25973,20.0,Large Energy Locus Coordinator I
+25974,25975,20.0,Large Energy Metastasis Adjuster I
+25976,25977,20.0,Large Algid Energy Administrations Unit I
+25978,25979,20.0,Large Energy Burst Aerator I
+25980,25981,20.0,Large Energy Collision Accelerator I
+25996,25997,20.0,Large Hybrid Discharge Elutriation I
+25998,25999,20.0,Large Hybrid Ambit Extension I
+26000,26001,20.0,Large Hybrid Locus Coordinator I
+26002,26003,20.0,Large Hybrid Metastasis Adjuster I
+26004,26005,20.0,Large Algid Hybrid Administrations Unit I
+26006,26007,20.0,Large Hybrid Burst Aerator I
+26008,26009,20.0,Large Hybrid Collision Accelerator I
+26016,26017,20.0,Large Hydraulic Bay Thrusters I
+26020,26021,20.0,Large Warhead Rigor Catalyst I
+26022,26023,20.0,Large Rocket Fuel Cache Partition I
+26026,26027,20.0,Large Bay Loading Accelerator I
+26028,26029,20.0,Large Warhead Flare Catalyst I
+26030,26031,20.0,Large Warhead Calefaction Catalyst I
+26038,26039,20.0,Large Projectile Ambit Extension I
+26040,26041,20.0,Large Projectile Locus Coordinator I
+26042,26043,20.0,Large Projectile Metastasis Adjuster I
+26046,26047,20.0,Large Projectile Burst Aerator I
+26048,26049,20.0,Large Projectile Collision Accelerator I
+26056,26057,20.0,Large Dynamic Fuel Valve I
+26058,26059,20.0,Large Low Friction Nozzle Joints I
+26060,26061,20.0,Large Auxiliary Thrusters I
+26062,26063,20.0,Large Engine Thermal Shielding I
+26066,26067,20.0,Large Warp Core Optimizer I
+26068,26069,20.0,Large Hyperspatial Velocity Optimizer I
+26070,26071,20.0,Large Polycarbon Engine Housing I
+26072,26073,20.0,Large Cargohold Optimization I
+26076,26077,20.0,Large EM Shield Reinforcer I
+26078,26079,20.0,Large Explosive Shield Reinforcer I
+26080,26081,20.0,Large Kinetic Shield Reinforcer I
+26082,26083,20.0,Large Thermal Shield Reinforcer I
+26084,26085,20.0,Large Core Defense Field Purger I
+26086,26087,20.0,Large Core Defense Operational Solidifier I
+26088,26089,20.0,Large Core Defense Field Extender I
+26090,26091,20.0,Large Core Defense Charge Economizer I
+26096,26097,20.0,Large Targeting Systems Stabilizer I
+26100,26101,20.0,Large Targeting System Subcontroller I
+26102,26103,20.0,Large Ionic Field Projector I
+26104,26105,20.0,Large Signal Focusing Kit I
+26106,26107,20.0,Large Particle Dispersion Augmentor I
+26108,26109,20.0,Large Particle Dispersion Projector I
+26110,26111,20.0,Large Inverted Signal Field Projector I
+26112,26113,20.0,Large Tracking Diagnostic Subroutines I
+26286,26287,20.0,Large EM Armor Reinforcer II
+26288,26289,20.0,Large Explosive Armor Reinforcer II
+26290,26291,20.0,Large Kinetic Armor Reinforcer II
+26292,26293,20.0,Large Thermal Armor Reinforcer II
+26294,26295,20.0,Large Auxiliary Nano Pump II
+26296,26297,20.0,Large Nanobot Accelerator II
+26298,26299,20.0,Large Remote Repair Augmentor II
+26300,26301,20.0,Large Salvage Tackle II
+26302,26303,20.0,Large Trimark Armor Pump II
+26304,26305,20.0,Large Cargohold Optimization II
+26306,26307,20.0,Large Dynamic Fuel Valve II
+26308,26309,20.0,Large Engine Thermal Shielding II
+26310,26311,20.0,Large Low Friction Nozzle Joints II
+26312,26313,20.0,Large Polycarbon Engine Housing II
+26318,26319,20.0,Large Auxiliary Thrusters II
+26320,26321,20.0,Large Warp Core Optimizer II
+26322,26323,20.0,Large Hyperspatial Velocity Optimizer II
+26324,26325,20.0,Large Drone Control Range Augmentor II
+26326,26327,20.0,Large Drone Durability Enhancer II
+26328,26329,20.0,Large Drone Mining Augmentor II
+26330,26331,20.0,Large Drone Repair Augmentor II
+26332,26333,20.0,Large Drone Scope Chip II
+26334,26335,20.0,Large Drone Speed Augmentor II
+26338,26339,20.0,Large Sentry Damage Augmentor II
+26340,26341,20.0,Large Stasis Drone Augmentor II
+26342,26343,20.0,Large Emission Scope Sharpener II
+26344,26345,20.0,Large Signal Disruption Amplifier II
+26346,26347,20.0,Large Memetic Algorithm Bank II
+26348,26349,20.0,Large Liquid Cooled Electronics II
+26350,26351,20.0,Large Gravity Capacitor Upgrade II
+26352,26353,20.0,Large Particle Dispersion Augmentor II
+26354,26355,20.0,Large Inverted Signal Field Projector II
+26356,26357,20.0,Large Tracking Diagnostic Subroutines II
+26358,26359,20.0,Large Ionic Field Projector II
+26360,26361,20.0,Large Particle Dispersion Projector II
+26362,26363,20.0,Large Signal Focusing Kit II
+26364,26365,20.0,Large Targeting System Subcontroller II
+26366,26367,20.0,Large Targeting Systems Stabilizer II
+26368,26369,20.0,Large Egress Port Maximizer II
+26370,26371,20.0,Large Ancillary Current Router II
+26372,26373,20.0,Large Powergrid Subroutine Maximizer II
+26374,26375,20.0,Large Capacitor Control Circuit II
+26376,26377,20.0,Large Semiconductor Memory Cell II
+26378,26379,20.0,Large Energy Discharge Elutriation II
+26380,26381,20.0,Large Energy Burst Aerator II
+26382,26383,20.0,Large Energy Collision Accelerator II
+26384,26385,20.0,Large Algid Energy Administrations Unit II
+26386,26387,20.0,Large Energy Ambit Extension II
+26388,26389,20.0,Large Energy Locus Coordinator II
+26390,26391,20.0,Large Energy Metastasis Adjuster II
+26392,26393,20.0,Large Hybrid Discharge Elutriation II
+26394,26395,20.0,Large Hybrid Burst Aerator II
+26396,26397,20.0,Large Hybrid Collision Accelerator II
+26398,26399,20.0,Large Algid Hybrid Administrations Unit II
+26400,26401,20.0,Large Hybrid Ambit Extension II
+26402,26403,20.0,Large Hybrid Locus Coordinator II
+26404,26405,20.0,Large Hybrid Metastasis Adjuster II
+26406,26407,20.0,Large Bay Loading Accelerator II
+26412,26413,20.0,Large Warhead Flare Catalyst II
+26414,26415,20.0,Large Warhead Rigor Catalyst II
+26416,26417,20.0,Large Hydraulic Bay Thrusters II
+26418,26419,20.0,Large Rocket Fuel Cache Partition II
+26420,26421,20.0,Large Warhead Calefaction Catalyst II
+26424,26425,20.0,Large Projectile Collision Accelerator II
+26428,26429,20.0,Large Projectile Ambit Extension II
+26430,26431,20.0,Large Projectile Burst Aerator II
+26432,26433,20.0,Large Projectile Locus Coordinator II
+26434,26435,20.0,Large Projectile Metastasis Adjuster II
+26436,26437,20.0,Large EM Shield Reinforcer II
+26438,26439,20.0,Large Explosive Shield Reinforcer II
+26440,26441,20.0,Large Kinetic Shield Reinforcer II
+26442,26443,20.0,Large Thermal Shield Reinforcer II
+26444,26445,20.0,Large Core Defense Capacitor Safeguard II
+26446,26447,20.0,Large Core Defense Charge Economizer II
+26448,26449,20.0,Large Core Defense Field Extender II
+26450,26451,20.0,Large Core Defense Field Purger II
+26452,26453,20.0,Large Core Defense Operational Solidifier II
+26597,26598,1.0,Cryptic Tuner Data Interface
+26599,26600,1.0,Esoteric Tuner Data Interface
+26601,26602,1.0,Incognito Tuner Data Interface
+26603,26604,1.0,Occult Tuner Data Interface
+26888,26889,585.0,Mobile Large Warp Disruptor II
+26890,26891,195.0,Mobile Medium Warp Disruptor II
+26892,26893,65.0,Mobile Small Warp Disruptor II
+26912,26917,5.0,Small Remote Armor Repairer II
+26913,26916,10.0,Medium Remote Armor Repairer II
+26914,26915,25.0,Large Remote Armor Repairer II
+26929,26930,5.0,Small Processor Overclocking Unit I
+26931,26932,5.0,Small Processor Overclocking Unit II
+27014,27015,5.0,Civilian Data Analyzer
+27064,27065,40.0,Capital Auxiliary Nano Pump I
+27066,27067,40.0,Capital Nanobot Accelerator II
+27068,27069,5.0,Small Remote Repair Augmentor I
+27274,0,25000.0,Villard Wheel
+27530,27682,8000.0,Blood Control Tower
+27532,27688,8000.0,Dark Blood Control Tower
+27533,27699,8000.0,Guristas Control Tower
+27535,27705,8000.0,Dread Guristas Control Tower
+27536,27706,8000.0,Serpentis Control Tower
+27538,27713,8000.0,Shadow Control Tower
+27539,27677,8000.0,Angel Control Tower
+27540,27695,8000.0,Domination Control Tower
+27542,27848,5000.0,Serpentis Large Blaster Battery
+27544,27849,5000.0,Shadow Large Blaster Battery
+27545,27843,5000.0,Serpentis Large Railgun Battery
+27547,27850,5000.0,Shadow Large Railgun Battery
+27548,27820,5000.0,Blood Large Pulse Laser Battery
+27550,27826,5000.0,Dark Blood Large Pulse Laser Battery
+27551,27819,5000.0,Blood Large Beam Laser Battery
+27553,27825,5000.0,Dark Blood Large Beam Laser Battery
+27554,27832,5000.0,Angel Large AutoCannon Battery
+27556,27840,5000.0,Domination Large AutoCannon Battery
+27557,27831,5000.0,Angel Large Artillery Battery
+27559,27839,5000.0,Domination Large Artillery Battery
+27560,27944,5000.0,Guristas XL Torpedo Battery
+27562,27949,5000.0,Dread Guristas XL Torpedo Battery
+27563,27868,4000.0,Serpentis Warp Disruption Battery
+27565,27869,4000.0,Shadow Warp Disruption Battery
+27567,27867,4000.0,Serpentis Warp Scrambling Battery
+27569,27870,4000.0,Shadow Warp Scrambling Battery
+27570,27871,4000.0,Angel Stasis Webification Battery
+27573,27872,4000.0,Domination Stasis Webification Battery
+27574,27859,4000.0,Guristas Ion Field Projection Battery
+27576,27864,4000.0,Dread Guristas Ion Field Projection Battery
+27577,27862,4000.0,Guristas Phase Inversion Battery
+27579,27863,4000.0,Dread Guristas Phase Inversion Battery
+27580,27861,4000.0,Guristas Spatial Destabilization Battery
+27582,27865,4000.0,Dread Guristas Spatial Destabilization Battery
+27583,27860,4000.0,Guristas White Noise Generation Battery
+27585,27866,4000.0,Dread Guristas White Noise Generation Battery
+27589,27684,4000.0,Blood Control Tower Medium
+27591,27689,4000.0,Dark Blood Control Tower Medium
+27592,27685,2000.0,Blood Control Tower Small
+27594,27690,2000.0,Dark Blood Control Tower Small
+27595,27698,4000.0,Guristas Control Tower Medium
+27597,27704,4000.0,Dread Guristas Control Tower Medium
+27598,27697,2000.0,Guristas Control Tower Small
+27600,27703,2000.0,Dread Guristas Control Tower Small
+27601,27707,4000.0,Serpentis Control Tower Medium
+27603,27712,4000.0,Shadow Control Tower Medium
+27604,27708,2000.0,Serpentis Control Tower Small
+27606,27714,2000.0,Shadow Control Tower Small
+27607,27680,4000.0,Angel Control Tower Medium
+27609,27694,4000.0,Domination Control Tower Medium
+27610,27681,2000.0,Angel Control Tower Small
+27612,27696,2000.0,Domination Control Tower Small
+27613,27847,1000.0,Serpentis Medium Blaster Battery
+27615,27852,1000.0,Shadow Medium Blaster Battery
+27616,27844,1000.0,Serpentis Medium Railgun Battery
+27618,27851,1000.0,Shadow Medium Railgun Battery
+27619,27846,500.0,Serpentis Small Blaster Battery
+27621,27853,500.0,Shadow Small Blaster Battery
+27622,27845,500.0,Serpentis Small Railgun Battery
+27624,27854,500.0,Shadow Small Railgun Battery
+27625,27821,1000.0,Blood Medium Beam Laser Battery
+27627,27827,1000.0,Dark Blood Medium Beam Laser Battery
+27628,27822,1000.0,Blood Medium Pulse Laser Battery
+27630,27828,1000.0,Dark Blood Medium Pulse Laser Battery
+27631,27823,500.0,Blood Small Beam Laser Battery
+27633,27829,500.0,Dark Blood Small Beam Laser Battery
+27634,27824,500.0,Blood Small Pulse Laser Battery
+27636,27830,500.0,Dark Blood Small Pulse Laser Battery
+27638,27946,500.0,Guristas Cruise Missile Battery
+27640,27947,500.0,Dread Guristas Cruise Missile Battery
+27641,27945,1000.0,Guristas Torpedo Battery
+27643,27948,1000.0,Dread Guristas Torpedo Battery
+27644,27835,1000.0,Angel Medium Artillery Battery
+27646,27838,1000.0,Domination Medium Artillery Battery
+27647,27833,1000.0,Angel Medium AutoCannon Battery
+27649,27841,1000.0,Domination Medium AutoCannon Battery
+27650,27836,500.0,Angel Small Artillery Battery
+27652,27837,500.0,Domination Small Artillery Battery
+27653,27834,500.0,Angel Small AutoCannon Battery
+27655,27842,500.0,Domination Small AutoCannon Battery
+27672,2799,4000.0,Energy Neutralizing Battery
+27673,2788,4000.0,Cynosural Generator Array
+27674,2789,4000.0,Cynosural System Jammer
+27678,27679,8000.0,ECM Jammer Burst Projector
+27766,27808,5000.0,Sansha Large Beam Laser Battery
+27767,27807,5000.0,Sansha Large Pulse Laser Battery
+27768,27809,1000.0,Sansha Medium Beam Laser Battery
+27769,27810,1000.0,Sansha Medium Pulse Laser Battery
+27770,27812,500.0,Sansha Small Beam Laser Battery
+27771,27811,500.0,Sansha Small Pulse Laser Battery
+27772,27818,5000.0,True Sansha Large Beam Laser Battery
+27773,27817,5000.0,True Sansha Large Pulse Laser Battery
+27774,27816,1000.0,True Sansha Medium Beam Laser Battery
+27775,27815,1000.0,True Sansha Medium Pulse Laser Battery
+27776,27813,500.0,True Sansha Small Beam Laser Battery
+27777,27814,500.0,True Sansha Small Pulse Laser Battery
+27778,27873,4000.0,Serpentis Sensor Dampening Battery
+27779,27874,4000.0,Shadow Sensor Dampening Battery
+27780,27781,8000.0,Sansha Control Tower
+27782,27783,4000.0,Sansha Control Tower Medium
+27784,27785,2000.0,Sansha Control Tower Small
+27786,27787,8000.0,True Sansha Control Tower
+27788,27789,4000.0,True Sansha Control Tower Medium
+27790,27791,2000.0,True Sansha Control Tower Small
+27855,27877,4000.0,Sansha Energy Neutralizing Battery
+27856,27878,4000.0,True Sansha Energy Neutralizing Battery
+27857,27875,4000.0,Blood Energy Neutralizing Battery
+27858,27876,4000.0,Dark Blood Energy Neutralizing Battery
+27897,2800,100000.0,Jump Bridge
+27904,27905,50.0,Large Remote Hull Repairer I
+27912,27913,75.0,Concussion Bomb
+27914,27915,50.0,Bomb Launcher I
+27916,27917,75.0,Scorch Bomb
+27918,27919,75.0,Shrapnel Bomb
+27920,27921,75.0,Electron Bomb
+27922,27923,75.0,Lockbreaker Bomb
+27924,27925,75.0,Void Bomb
+27930,27931,10.0,Medium Remote Hull Repairer I
+27932,27933,5.0,Small Remote Hull Repairer I
+27934,27935,4000.0,Capital Remote Hull Repairer I
+27951,27952,4000.0,Triage Module I
+28197,28198,25.0,Heavy Armor Maintenance Bot II
+28199,28200,25.0,Heavy Shield Maintenance Bot II
+28201,28202,5.0,Light Armor Maintenance Bot II
+28203,28204,5.0,Light Shield Maintenance Bot II
+28205,28206,10.0,Medium Armor Maintenance Bot II
+28207,28208,10.0,Medium Shield Maintenance Bot II
+28209,28210,25.0,Warden II
+28211,28212,25.0,Garde II
+28213,28214,25.0,Curator II
+28215,28216,25.0,Bouncer II
+28262,28263,5.0,'Integrated' Acolyte
+28264,28265,5.0,'Augmented' Acolyte
+28266,28267,25.0,'Integrated' Berserker
+28268,28269,25.0,'Augmented' Berserker
+28270,28271,10.0,'Integrated' Hammerhead
+28272,28273,10.0,'Augmented' Hammerhead
+28274,28275,5.0,'Integrated' Hobgoblin
+28276,28277,5.0,'Augmented' Hobgoblin
+28278,28279,5.0,'Integrated' Hornet
+28280,28281,5.0,'Augmented' Hornet
+28282,28283,10.0,'Integrated' Infiltrator
+28284,28285,10.0,'Augmented' Infiltrator
+28286,28287,25.0,'Integrated' Ogre
+28288,28289,25.0,'Augmented' Ogre
+28290,28291,25.0,'Integrated' Praetor
+28292,28293,25.0,'Augmented' Praetor
+28294,28295,10.0,'Integrated' Valkyrie
+28296,28297,10.0,'Augmented' Valkyrie
+28298,28299,10.0,'Integrated' Vespa
+28300,28301,10.0,'Augmented' Vespa
+28302,28303,5.0,'Integrated' Warrior
+28304,28305,5.0,'Augmented' Warrior
+28306,28307,25.0,'Integrated' Wasp
+28308,28309,25.0,'Augmented' Wasp
+28351,28605,3000.0,Design Laboratory
+28352,28353,14500000.0,Rorqual
+28361,0,0.01,Drone Synaptic Relay Wiring
+28362,0,0.02,Drone Capillary Fluid
+28363,0,0.03,Drone Cerebral Fragment
+28364,0,0.07,Drone Tactical Limb
+28365,0,0.1,Drone Epidermal Shielding Chunk
+28366,0,0.08,Drone Coronary Unit
+28375,28376,10.0,Republic Fleet Heavy Assault Missile Launcher
+28377,28378,10.0,Caldari Navy Heavy Assault Missile Launcher
+28511,28512,5.0,Khanid Navy Rocket Launcher
+28514,28515,5.0,Khanid Navy Stasis Webifier
+28516,28517,5.0,Khanid Navy Warp Disruptor
+28518,28519,5.0,Khanid Navy Warp Scrambler
+28520,28521,5.0,Khanid Navy Multispectrum Coating
+28522,28523,5.0,Khanid Navy EM Armor Hardener
+28524,28525,5.0,Khanid Navy Explosive Armor Hardener
+28526,28527,5.0,Khanid Navy Kinetic Armor Hardener
+28528,28529,5.0,Khanid Navy Thermal Armor Hardener
+28530,28531,5.0,Khanid Navy Cap Recharger
+28532,28533,5.0,Khanid Navy Capacitor Power Relay
+28534,28535,5.0,Khanid Navy Multispectrum Energized Membrane
+28536,28537,5.0,Khanid Navy Kinetic Energized Membrane
+28538,28539,5.0,Khanid Navy Explosive Energized Membrane
+28540,28541,5.0,Khanid Navy EM Energized Membrane
+28542,28543,5.0,Khanid Navy Thermal Energized Membrane
+28545,28546,50.0,Khanid Navy Large EMP Smartbomb
+28547,28548,5.0,Khanid Navy Kinetic Coating
+28550,28551,10.0,Khanid Navy Medium EMP Smartbomb
+28552,28553,5.0,Khanid Navy Explosive Coating
+28554,28555,5.0,Khanid Navy EM Coating
+28559,28560,5.0,Khanid Navy Thermal Coating
+28561,28562,5.0,Khanid Navy Co-Processor
+28563,28564,5.0,Khanid Navy Ballistic Control System
+28565,28566,10.0,Khanid Navy Heavy Assault Missile Launcher
+28576,28577,5.0,Mining Laser Upgrade II
+28578,28579,5.0,Ice Harvester Upgrade II
+28583,28584,4000.0,Capital Industrial Core I
+28606,28607,10250000.0,Orca
+28646,28647,25.0,Covert Cynosural Field Generator I
+28652,28653,125.0,Covert Jump Portal Generator I
+28654,28655,50.0,Warp Disruption Field Generator I
+28659,28660,495000.0,Paladin
+28661,28662,486000.0,Kronos
+28665,28666,450000.0,Vargur
+28668,2739,0.01,Nanite Repair Paste
+28670,28671,1.0,Synth Blue Pill Booster
+28672,28673,1.0,Synth Crash Booster
+28674,28675,1.0,Synth Drop Booster
+28676,28677,1.0,Synth Exile Booster
+28678,28679,1.0,Synth Frentix Booster
+28680,28681,1.0,Synth Mindflood Booster
+28682,28683,1.0,Synth X-Instinct Booster
+28684,28685,1.0,Synth Sooth Sayer Booster
+28686,46233,1.0,Pure Synth Blue Pill Booster
+28687,46234,1.0,Pure Synth Crash Booster
+28688,46219,1.0,Pure Synth Drop Booster
+28689,46220,1.0,Pure Synth Exile Booster
+28690,46221,1.0,Pure Synth Frentix Booster
+28691,46228,1.0,Pure Synth Mindflood Booster
+28692,46229,1.0,Pure Synth Sooth Sayer Booster
+28693,46232,1.0,Pure Synth X-Instinct Booster
+28694,0,10.0,Amber Mykoserocin
+28695,0,10.0,Azure Mykoserocin
+28696,0,10.0,Celadon Mykoserocin
+28697,0,10.0,Golden Mykoserocin
+28698,0,10.0,Lime Mykoserocin
+28699,0,10.0,Malachite Mykoserocin
+28700,0,10.0,Vermillion Mykoserocin
+28701,0,10.0,Viridian Mykoserocin
+28710,28711,486000.0,Golem
+28844,28845,16250000.0,Rhea
+28846,28847,15500000.0,Nomad
+28848,28849,17550000.0,Anshar
+28850,28851,18500000.0,Ark
+28999,29000,1.0,Optimal Range Script
+29001,29002,1.0,Tracking Speed Script
+29003,29004,1.0,Focused Warp Disruption Script
+29005,29006,1.0,Optimal Range Disruption Script
+29007,29008,1.0,Tracking Speed Disruption Script
+29009,29010,1.0,Targeting Range Script
+29011,29012,1.0,Scan Resolution Script
+29013,29014,1.0,Scan Resolution Dampening Script
+29015,29016,1.0,Targeting Range Dampening Script
+29039,29040,10.0,Capital Antimatter Reactor Unit
+29041,29042,10.0,Capital Crystalline Carbonide Armor Plate
+29043,29044,10.0,Capital Deflection Shield Emitter
+29045,29046,10.0,Capital Electrolytic Capacitor Unit
+29047,29048,10.0,Capital EM Pulse Generator
+29049,29050,10.0,Capital Fernite Carbide Composite Armor Plate
+29051,29052,10.0,Capital Fusion Reactor Unit
+29053,29054,10.0,Capital Fusion Thruster
+29055,29056,10.0,Capital Gravimetric Sensor Cluster
+29057,29058,10.0,Capital Graviton Pulse Generator
+29059,29060,10.0,Capital Graviton Reactor Unit
+29061,29062,10.0,Capital Ion Thruster
+29063,29064,10.0,Capital Laser Focusing Crystals
+29065,29066,10.0,Capital Ladar Sensor Cluster
+29067,29068,10.0,Capital Linear Shield Emitter
+29069,29070,10.0,Capital Magnetometric Sensor Cluster
+29071,29072,10.0,Capital Magpulse Thruster
+29073,29074,10.0,Capital Nanoelectrical Microprocessor
+29075,29076,10.0,Capital Nanomechanical Microprocessor
+29077,29078,10.0,Capital Nuclear Pulse Generator
+29079,29080,10.0,Capital Nuclear Reactor Unit
+29081,29082,10.0,Capital Oscillator Capacitor Unit
+29083,29084,10.0,Capital Particle Accelerator Unit
+29085,29086,10.0,Capital Photon Microprocessor
+29087,29088,10.0,Capital Plasma Pulse Generator
+29089,29090,10.0,Capital Plasma Thruster
+29091,29092,10.0,Capital Pulse Shield Emitter
+29093,29094,10.0,Capital Quantum Microprocessor
+29095,29096,10.0,Capital Radar Sensor Cluster
+29097,29098,10.0,Capital Scalar Capacitor Unit
+29099,29100,10.0,Capital Superconductor Rails
+29101,29102,10.0,Capital Sustained Shield Emitter
+29103,29104,10.0,Capital Tesseract Capacitor Unit
+29105,29106,10.0,Capital Thermonuclear Trigger Unit
+29107,29108,10.0,Capital Titanium Diborite Armor Plate
+29109,29110,10.0,Capital Tungsten Carbide Armor Plate
+29202,29204,5.0,Modified Augumene Antidote
+29203,0,0.1,Minmatar DNA
+29226,29227,2.0,Basic Robotics
+29248,29249,22100.0,Magnate
+29266,29267,17400.0,Apotheosis
+29336,29339,89000.0,Scythe Fleet Issue
+29337,29338,101000.0,Augoror Navy Issue
+29340,29341,107000.0,Osprey Navy Issue
+29344,29345,112000.0,Exequror Navy Issue
+29613,2766,25000.0,Large Ship Assembly Array
+29659,46201,1.0,Unrefined Fluxed Condensates
+29660,46200,1.0,Unrefined Dysporite
+29661,46199,1.0,Unrefined Neo Mercurite
+29662,46198,1.0,Unrefined Prometium
+29663,46197,1.0,Unrefined Ferrofluid
+29664,46196,1.0,Unrefined Hyperflurite
+29984,29985,92000.0,Tengu
+29986,29987,118000.0,Legion
+29988,29989,115000.0,Proteus
+29990,29991,80000.0,Loki
+29992,29993,10.0,Optimized Nano-Engines
+29994,29995,10.0,Warfare Computation Core
+29996,29997,20.0,Emergent Neurovisual Interface
+30002,30003,5.0,Fullerene Intercalated Sheets
+30008,30009,10.0,Reinforced Metallofullerene Alloys
+30013,30014,0.1,Core Scanner Probe I
+30018,0,0.01,Fused Nanomechanical Engines
+30019,0,0.01,Powdered C-540 Graphite
+30021,0,0.01,Modified Fluid Router
+30022,0,0.01,Heuristic Selfassemblers
+30024,0,0.01,Cartesian Temporal Coordinator
+30028,30029,1.0,Combat Scanner Probe I
+30248,0,0.01,Emergent Combat Analyzer
+30251,0,0.01,Neurovisual Input Matrix
+30252,0,0.01,Thermoelectric Catalysts
+30254,0,0.01,Electromechanical Hull Sheeting
+30258,0,0.01,Resonance Calibration Matrix
+30259,0,0.01,Melted Nanoribbons
+30268,0,0.01,Jump Drive Control Nexus
+30269,0,0.01,Defensive Control Node
+30270,0,0.01,Central System Controller
+30271,0,0.01,Emergent Combat Intelligence
+30303,46158,0.1,Fulleroferrocene
+30304,46159,0.5,PPD Fullerene Fibers
+30305,46160,0.8,Fullerene Intercalated Graphite
+30306,46157,0.75,Methanofullerene
+30307,46161,1.0,Lanthanum Metallofullerene
+30308,46162,0.65,Scandium Metallofullerene
+30309,46163,1.5,Graphene Nanoribbons
+30310,46164,0.4,Carbon-86 Epoxy Resin
+30311,46165,0.2,C3-FTM Acid
+30328,30329,5.0,Civilian Stasis Webifier
+30342,30343,5.0,Civilian Thermal Shield Hardener
+30370,0,1.0,Fullerite-C50
+30371,0,1.0,Fullerite-C60
+30372,0,1.0,Fullerite-C70
+30373,0,2.0,Fullerite-C72
+30374,0,2.0,Fullerite-C84
+30375,0,2.0,Fullerite-C28
+30376,0,5.0,Fullerite-C32
+30377,0,5.0,Fullerite-C320
+30378,0,10.0,Fullerite-C540
+30386,0,1.0,R.Db.- Hybrid Technology
+30389,2772,17000.0,Subsystem Assembly Array
+30420,30421,5.0,Civilian EM Shield Hardener
+30422,30423,5.0,Civilian Explosive Shield Hardener
+30424,30425,5.0,Civilian Kinetic Shield Hardener
+30464,30465,5.0,Metallofullerene Plating
+30466,30467,10.0,Electromechanical Interface Nexus
+30470,30471,5.0,Neurovisual Output Analyzer
+30474,30475,5.0,Nanowire Composites
+30476,30477,5.0,Fulleroferrocene Power Conduits
+30478,30479,10.0,Reconfigured Subspace Calibrator
+30655,2747,4000.0,Hybrid Polymer Silo
+30656,2795,4000.0,Polymer Reactor Array
+30832,30833,5.0,Relic Analyzer II
+30834,30835,5.0,Data Analyzer II
+30836,30837,5.0,Salvager II
+30839,30840,5.0,Civilian Damage Control
+30842,30843,5000.0,InterBus Shuttle
+30987,30988,5.0,Small Trimark Armor Pump I
+30993,30994,40.0,Capital Trimark Armor Pump I
+30997,30998,5.0,Small EM Armor Reinforcer I
+30999,31000,10.0,Medium EM Armor Reinforcer I
+31001,31002,40.0,Capital EM Armor Reinforcer I
+31003,31004,5.0,Small EM Armor Reinforcer II
+31005,31006,10.0,Medium EM Armor Reinforcer II
+31007,31008,40.0,Capital EM Armor Reinforcer II
+31009,31010,5.0,Small Explosive Armor Reinforcer I
+31011,31012,10.0,Medium Explosive Armor Reinforcer I
+31013,31014,40.0,Capital Explosive Armor Reinforcer I
+31015,31016,5.0,Small Explosive Armor Reinforcer II
+31017,31018,10.0,Medium Explosive Armor Reinforcer II
+31019,31020,40.0,Capital Explosive Armor Reinforcer II
+31021,31022,5.0,Small Kinetic Armor Reinforcer I
+31023,31024,10.0,Medium Kinetic Armor Reinforcer I
+31025,31026,40.0,Capital Kinetic Armor Reinforcer I
+31027,31028,5.0,Small Kinetic Armor Reinforcer II
+31029,31030,10.0,Medium Kinetic Armor Reinforcer II
+31031,31032,40.0,Capital Kinetic Armor Reinforcer II
+31033,31034,5.0,Small Thermal Armor Reinforcer I
+31035,31036,10.0,Medium Thermal Armor Reinforcer I
+31037,31038,40.0,Capital Thermal Armor Reinforcer I
+31039,31040,5.0,Small Thermal Armor Reinforcer II
+31041,31042,10.0,Medium Thermal Armor Reinforcer II
+31043,31044,40.0,Capital Thermal Armor Reinforcer II
+31045,31046,5.0,Small Auxiliary Nano Pump I
+31047,31048,10.0,Medium Auxiliary Nano Pump I
+31049,31050,40.0,Capital Auxiliary Nano Pump II
+31051,31052,5.0,Small Auxiliary Nano Pump II
+31053,31054,10.0,Medium Auxiliary Nano Pump II
+31055,31056,10.0,Medium Trimark Armor Pump I
+31057,31058,5.0,Small Trimark Armor Pump II
+31059,31060,10.0,Medium Trimark Armor Pump II
+31061,31062,40.0,Capital Trimark Armor Pump II
+31063,31064,5.0,Small Nanobot Accelerator I
+31065,31066,10.0,Medium Nanobot Accelerator I
+31067,31068,40.0,Capital Nanobot Accelerator I
+31069,31070,5.0,Small Nanobot Accelerator II
+31071,31072,10.0,Medium Nanobot Accelerator II
+31073,31074,10.0,Medium Remote Repair Augmentor I
+31075,31076,40.0,Capital Remote Repair Augmentor I
+31077,31078,5.0,Small Remote Repair Augmentor II
+31079,31080,10.0,Medium Remote Repair Augmentor II
+31081,31082,40.0,Capital Remote Repair Augmentor II
+31083,31084,5.0,Small Salvage Tackle I
+31085,31086,10.0,Medium Salvage Tackle I
+31087,31088,40.0,Capital Salvage Tackle I
+31089,31090,5.0,Small Salvage Tackle II
+31091,31092,10.0,Medium Salvage Tackle II
+31093,31094,40.0,Capital Salvage Tackle II
+31105,31106,5.0,Small Auxiliary Thrusters I
+31107,31108,10.0,Medium Auxiliary Thrusters I
+31109,31110,40.0,Capital Auxiliary Thrusters I
+31111,31112,5.0,Small Auxiliary Thrusters II
+31113,31114,10.0,Medium Auxiliary Thrusters II
+31115,31116,40.0,Capital Auxiliary Thrusters II
+31117,31118,5.0,Small Cargohold Optimization I
+31119,31120,10.0,Medium Cargohold Optimization I
+31121,31122,40.0,Capital Cargohold Optimization I
+31123,31124,5.0,Small Cargohold Optimization II
+31125,31126,10.0,Medium Cargohold Optimization II
+31127,31128,40.0,Capital Cargohold Optimization II
+31129,31130,5.0,Small Dynamic Fuel Valve I
+31131,31132,10.0,Medium Dynamic Fuel Valve I
+31133,31134,40.0,Capital Dynamic Fuel Valve I
+31135,31136,5.0,Small Dynamic Fuel Valve II
+31137,31138,10.0,Medium Dynamic Fuel Valve II
+31139,31140,40.0,Capital Dynamic Fuel Valve II
+31141,31142,5.0,Small Engine Thermal Shielding I
+31143,31144,10.0,Medium Engine Thermal Shielding I
+31145,31146,40.0,Capital Engine Thermal Shielding I
+31147,31148,5.0,Small Engine Thermal Shielding II
+31149,31150,10.0,Medium Engine Thermal Shielding II
+31151,31152,40.0,Capital Engine Thermal Shielding II
+31153,31154,5.0,Small Low Friction Nozzle Joints I
+31155,31156,10.0,Medium Low Friction Nozzle Joints I
+31157,31158,40.0,Capital Low Friction Nozzle Joints I
+31159,31160,5.0,Small Hyperspatial Velocity Optimizer I
+31161,31162,10.0,Medium Hyperspatial Velocity Optimizer I
+31163,31164,40.0,Capital Hyperspatial Velocity Optimizer I
+31165,31166,5.0,Small Hyperspatial Velocity Optimizer II
+31167,31168,10.0,Medium Hyperspatial Velocity Optimizer II
+31169,31170,40.0,Capital Hyperspatial Velocity Optimizer II
+31171,31172,5.0,Small Low Friction Nozzle Joints II
+31173,31174,10.0,Medium Low Friction Nozzle Joints II
+31175,31176,40.0,Capital Low Friction Nozzle Joints II
+31177,31178,5.0,Small Polycarbon Engine Housing I
+31179,31180,10.0,Medium Polycarbon Engine Housing I
+31181,31182,40.0,Capital Polycarbon Engine Housing I
+31183,31184,5.0,Small Polycarbon Engine Housing II
+31185,31186,10.0,Medium Polycarbon Engine Housing II
+31187,31188,40.0,Capital Polycarbon Engine Housing II
+31189,31190,5.0,Small Warp Core Optimizer I
+31191,31192,10.0,Medium Warp Core Optimizer I
+31193,31194,40.0,Capital Warp Core Optimizer I
+31195,31196,5.0,Small Warp Core Optimizer II
+31197,31198,10.0,Medium Warp Core Optimizer II
+31199,31200,40.0,Capital Warp Core Optimizer II
+31201,31202,5.0,Small Emission Scope Sharpener I
+31203,31204,10.0,Medium Emission Scope Sharpener I
+31205,31206,40.0,Capital Emission Scope Sharpener I
+31207,31208,5.0,Small Emission Scope Sharpener II
+31209,31210,10.0,Medium Emission Scope Sharpener II
+31211,31212,40.0,Capital Emission Scope Sharpener II
+31213,31214,5.0,Small Gravity Capacitor Upgrade I
+31215,31216,10.0,Medium Gravity Capacitor Upgrade I
+31217,31218,40.0,Capital Gravity Capacitor Upgrade I
+31220,31221,5.0,Small Gravity Capacitor Upgrade II
+31222,31223,10.0,Medium Gravity Capacitor Upgrade II
+31224,31225,40.0,Capital Gravity Capacitor Upgrade II
+31226,31227,5.0,Small Liquid Cooled Electronics I
+31228,31229,10.0,Medium Liquid Cooled Electronics I
+31230,31231,40.0,Capital Liquid Cooled Electronics I
+31232,31233,5.0,Small Liquid Cooled Electronics II
+31234,31235,10.0,Medium Liquid Cooled Electronics II
+31236,31237,40.0,Capital Liquid Cooled Electronics II
+31238,31239,5.0,Small Memetic Algorithm Bank I
+31240,31241,10.0,Medium Memetic Algorithm Bank I
+31242,31243,40.0,Capital Memetic Algorithm Bank I
+31244,31245,5.0,Small Memetic Algorithm Bank II
+31246,31247,10.0,Medium Memetic Algorithm Bank II
+31248,31249,40.0,Capital Memetic Algorithm Bank II
+31250,31251,5.0,Small Signal Disruption Amplifier I
+31252,31253,10.0,Medium Signal Disruption Amplifier I
+31254,31255,40.0,Capital Signal Disruption Amplifier I
+31256,31257,5.0,Small Signal Disruption Amplifier II
+31258,31259,10.0,Medium Signal Disruption Amplifier II
+31260,31261,40.0,Capital Signal Disruption Amplifier II
+31262,31263,5.0,Small Inverted Signal Field Projector I
+31264,31265,10.0,Medium Inverted Signal Field Projector I
+31266,31267,40.0,Capital Inverted Signal Field Projector I
+31268,31269,5.0,Small Inverted Signal Field Projector II
+31270,31271,10.0,Medium Inverted Signal Field Projector II
+31272,31273,40.0,Capital Inverted Signal Field Projector II
+31274,31275,5.0,Small Ionic Field Projector I
+31276,31277,10.0,Medium Ionic Field Projector I
+31278,31279,40.0,Capital Ionic Field Projector I
+31280,31281,5.0,Small Ionic Field Projector II
+31282,31283,10.0,Medium Ionic Field Projector II
+31284,31285,40.0,Capital Ionic Field Projector II
+31286,31287,5.0,Small Particle Dispersion Augmentor I
+31288,31289,10.0,Medium Particle Dispersion Augmentor I
+31290,31291,40.0,Capital Particle Dispersion Augmentor I
+31292,31293,5.0,Small Particle Dispersion Augmentor II
+31294,31295,10.0,Medium Particle Dispersion Augmentor II
+31296,31297,40.0,Capital Particle Dispersion Augmentor II
+31298,31299,5.0,Small Particle Dispersion Projector I
+31300,31301,10.0,Medium Particle Dispersion Projector I
+31302,31303,40.0,Capital Particle Dispersion Projector I
+31304,31305,5.0,Small Particle Dispersion Projector II
+31306,31307,10.0,Medium Particle Dispersion Projector II
+31308,31309,40.0,Capital Particle Dispersion Projector II
+31310,31311,5.0,Small Signal Focusing Kit I
+31312,31313,10.0,Medium Signal Focusing Kit I
+31314,31315,40.0,Capital Signal Focusing Kit I
+31316,31317,5.0,Small Signal Focusing Kit II
+31318,31319,10.0,Medium Signal Focusing Kit II
+31320,31321,40.0,Capital Signal Focusing Kit II
+31322,31323,5.0,Small Targeting System Subcontroller I
+31324,31325,10.0,Medium Targeting System Subcontroller I
+31326,31327,40.0,Capital Targeting System Subcontroller I
+31328,31329,5.0,Small Targeting System Subcontroller II
+31330,31331,10.0,Medium Targeting System Subcontroller II
+31332,31333,40.0,Capital Targeting System Subcontroller II
+31334,31335,5.0,Small Targeting Systems Stabilizer I
+31336,31337,10.0,Medium Targeting Systems Stabilizer I
+31338,31339,40.0,Capital Targeting Systems Stabilizer I
+31340,31341,5.0,Small Targeting Systems Stabilizer II
+31342,31343,10.0,Medium Targeting Systems Stabilizer II
+31344,31345,40.0,Capital Targeting Systems Stabilizer II
+31346,31347,5.0,Small Tracking Diagnostic Subroutines I
+31348,31349,10.0,Medium Tracking Diagnostic Subroutines I
+31350,31351,40.0,Capital Tracking Diagnostic Subroutines I
+31352,31353,5.0,Small Tracking Diagnostic Subroutines II
+31354,31355,10.0,Medium Tracking Diagnostic Subroutines II
+31356,31357,40.0,Capital Tracking Diagnostic Subroutines II
+31358,31359,5.0,Small Ancillary Current Router I
+31360,31361,10.0,Medium Ancillary Current Router I
+31362,31363,40.0,Capital Ancillary Current Router I
+31364,31365,5.0,Small Ancillary Current Router II
+31366,31367,10.0,Medium Ancillary Current Router II
+31368,31369,40.0,Capital Ancillary Current Router II
+31370,31371,5.0,Small Capacitor Control Circuit I
+31372,31373,10.0,Medium Capacitor Control Circuit I
+31374,31375,40.0,Capital Capacitor Control Circuit I
+31376,31377,5.0,Small Capacitor Control Circuit II
+31378,31379,10.0,Medium Capacitor Control Circuit II
+31380,31381,40.0,Capital Capacitor Control Circuit II
+31382,31383,5.0,Small Egress Port Maximizer I
+31384,31385,10.0,Medium Egress Port Maximizer I
+31386,31387,40.0,Capital Egress Port Maximizer I
+31388,31389,5.0,Small Egress Port Maximizer II
+31390,31391,10.0,Medium Egress Port Maximizer II
+31392,31393,40.0,Capital Egress Port Maximizer II
+31394,31395,5.0,Small Powergrid Subroutine Maximizer I
+31396,31397,10.0,Medium Powergrid Subroutine Maximizer I
+31398,31399,40.0,Capital Powergrid Subroutine Maximizer I
+31400,31401,5.0,Small Powergrid Subroutine Maximizer II
+31402,31403,10.0,Medium Powergrid Subroutine Maximizer II
+31404,31405,40.0,Capital Powergrid Subroutine Maximizer II
+31406,31407,5.0,Small Semiconductor Memory Cell I
+31408,31409,10.0,Medium Semiconductor Memory Cell I
+31410,31411,40.0,Capital Semiconductor Memory Cell I
+31412,31413,5.0,Small Semiconductor Memory Cell II
+31414,31415,10.0,Medium Semiconductor Memory Cell II
+31416,31417,40.0,Capital Semiconductor Memory Cell II
+31418,31419,5.0,Small Algid Energy Administrations Unit I
+31420,31421,10.0,Medium Algid Energy Administrations Unit I
+31422,31423,40.0,Capital Algid Energy Administrations Unit I
+31424,31425,5.0,Small Algid Energy Administrations Unit II
+31426,31427,10.0,Medium Algid Energy Administrations Unit II
+31428,31429,40.0,Capital Algid Energy Administrations Unit II
+31430,31431,5.0,Small Energy Ambit Extension I
+31432,31433,10.0,Medium Energy Ambit Extension I
+31434,31435,40.0,Capital Energy Ambit Extension I
+31436,31437,5.0,Small Energy Ambit Extension II
+31438,31439,10.0,Medium Energy Ambit Extension II
+31440,31441,40.0,Capital Energy Ambit Extension II
+31442,31443,5.0,Small Energy Burst Aerator I
+31444,31445,10.0,Medium Energy Burst Aerator I
+31446,31447,40.0,Capital Energy Burst Aerator I
+31448,31449,5.0,Small Energy Burst Aerator II
+31450,31451,10.0,Medium Energy Burst Aerator II
+31452,31453,40.0,Capital Energy Burst Aerator II
+31454,31455,5.0,Small Energy Collision Accelerator I
+31456,31457,10.0,Medium Energy Collision Accelerator I
+31458,31459,40.0,Capital Energy Collision Accelerator I
+31460,31461,5.0,Small Energy Collision Accelerator II
+31462,31463,10.0,Medium Energy Collision Accelerator II
+31464,31465,40.0,Capital Energy Collision Accelerator II
+31466,31467,5.0,Small Energy Discharge Elutriation I
+31468,31469,10.0,Medium Energy Discharge Elutriation I
+31470,31471,40.0,Capital Energy Discharge Elutriation I
+31472,31473,5.0,Small Energy Discharge Elutriation II
+31474,31475,10.0,Medium Energy Discharge Elutriation II
+31476,31477,40.0,Capital Energy Discharge Elutriation II
+31478,31479,5.0,Small Energy Locus Coordinator I
+31480,31481,10.0,Medium Energy Locus Coordinator I
+31482,31483,40.0,Capital Energy Locus Coordinator I
+31484,31485,5.0,Small Energy Locus Coordinator II
+31486,31487,10.0,Medium Energy Locus Coordinator II
+31488,31489,40.0,Capital Energy Locus Coordinator II
+31490,31491,5.0,Small Energy Metastasis Adjuster I
+31492,31493,10.0,Medium Energy Metastasis Adjuster I
+31494,31495,40.0,Capital Energy Metastasis Adjuster I
+31496,31497,5.0,Small Energy Metastasis Adjuster II
+31498,31499,10.0,Medium Energy Metastasis Adjuster II
+31500,31501,40.0,Capital Energy Metastasis Adjuster II
+31502,31503,5.0,Small Algid Hybrid Administrations Unit I
+31504,31505,10.0,Medium Algid Hybrid Administrations Unit I
+31506,31507,40.0,Capital Algid Hybrid Administrations Unit I
+31508,31509,5.0,Small Algid Hybrid Administrations Unit II
+31510,31511,10.0,Medium Algid Hybrid Administrations Unit II
+31512,31513,40.0,Capital Algid Hybrid Administrations Unit II
+31514,31515,5.0,Small Hybrid Ambit Extension I
+31516,31517,10.0,Medium Hybrid Ambit Extension I
+31518,31519,40.0,Capital Hybrid Ambit Extension I
+31520,31521,5.0,Small Hybrid Ambit Extension II
+31522,31523,10.0,Medium Hybrid Ambit Extension II
+31524,31525,40.0,Capital Hybrid Ambit Extension II
+31526,31527,5.0,Small Hybrid Burst Aerator I
+31528,31529,10.0,Medium Hybrid Burst Aerator I
+31530,31531,40.0,Capital Hybrid Burst Aerator I
+31532,31533,5.0,Small Hybrid Burst Aerator II
+31534,31535,10.0,Medium Hybrid Burst Aerator II
+31536,31537,40.0,Capital Hybrid Burst Aerator II
+31538,31539,5.0,Small Hybrid Collision Accelerator I
+31540,31541,10.0,Medium Hybrid Collision Accelerator I
+31542,31543,40.0,Capital Hybrid Collision Accelerator I
+31544,31545,5.0,Small Hybrid Collision Accelerator II
+31546,31547,10.0,Medium Hybrid Collision Accelerator II
+31548,31549,40.0,Capital Hybrid Collision Accelerator II
+31550,31551,5.0,Small Hybrid Discharge Elutriation I
+31552,31553,10.0,Medium Hybrid Discharge Elutriation I
+31554,31555,40.0,Capital Hybrid Discharge Elutriation I
+31556,31557,5.0,Small Hybrid Discharge Elutriation II
+31558,31559,10.0,Medium Hybrid Discharge Elutriation II
+31560,31561,40.0,Capital Hybrid Discharge Elutriation II
+31562,31563,5.0,Small Hybrid Locus Coordinator I
+31564,31565,10.0,Medium Hybrid Locus Coordinator I
+31566,31567,40.0,Capital Hybrid Locus Coordinator I
+31568,31569,5.0,Small Hybrid Locus Coordinator II
+31570,31571,10.0,Medium Hybrid Locus Coordinator II
+31572,31573,40.0,Capital Hybrid Locus Coordinator II
+31574,31575,5.0,Small Hybrid Metastasis Adjuster I
+31576,31577,10.0,Medium Hybrid Metastasis Adjuster I
+31578,31579,40.0,Capital Hybrid Metastasis Adjuster I
+31580,31581,5.0,Small Hybrid Metastasis Adjuster II
+31582,31583,10.0,Medium Hybrid Metastasis Adjuster II
+31584,31585,40.0,Capital Hybrid Metastasis Adjuster II
+31586,31587,5.0,Small Bay Loading Accelerator I
+31588,31589,10.0,Medium Bay Loading Accelerator I
+31590,31591,40.0,Capital Bay Loading Accelerator I
+31592,31593,5.0,Small Bay Loading Accelerator II
+31594,31595,10.0,Medium Bay Loading Accelerator II
+31596,31597,40.0,Capital Bay Loading Accelerator II
+31598,31599,5.0,Small Hydraulic Bay Thrusters I
+31600,31601,10.0,Medium Hydraulic Bay Thrusters I
+31602,31603,40.0,Capital Hydraulic Bay Thrusters I
+31604,31605,5.0,Small Hydraulic Bay Thrusters II
+31606,31607,10.0,Medium Hydraulic Bay Thrusters II
+31608,31609,5.0,Small Rocket Fuel Cache Partition I
+31610,31611,10.0,Medium Rocket Fuel Cache Partition I
+31612,31613,40.0,Capital Rocket Fuel Cache Partition I
+31614,31615,5.0,Small Rocket Fuel Cache Partition II
+31616,31617,10.0,Medium Rocket Fuel Cache Partition II
+31618,31619,40.0,Capital Rocket Fuel Cache Partition II
+31620,31621,5.0,Small Warhead Calefaction Catalyst I
+31622,31623,10.0,Medium Warhead Calefaction Catalyst I
+31624,31625,40.0,Capital Warhead Calefaction Catalyst I
+31626,31627,5.0,Small Warhead Calefaction Catalyst II
+31628,31629,10.0,Medium Warhead Calefaction Catalyst II
+31630,31631,40.0,Capital Warhead Calefaction Catalyst II
+31632,31633,5.0,Small Warhead Flare Catalyst I
+31634,31635,10.0,Medium Warhead Flare Catalyst I
+31636,31637,40.0,Capital Warhead Flare Catalyst I
+31638,31639,5.0,Small Warhead Flare Catalyst II
+31640,31641,10.0,Medium Warhead Flare Catalyst II
+31642,31643,40.0,Capital Warhead Flare Catalyst II
+31644,31645,5.0,Small Warhead Rigor Catalyst I
+31646,31647,10.0,Medium Warhead Rigor Catalyst I
+31648,31649,40.0,Capital Warhead Rigor Catalyst I
+31650,31651,5.0,Small Warhead Rigor Catalyst II
+31652,31653,10.0,Medium Warhead Rigor Catalyst II
+31654,31655,40.0,Capital Warhead Rigor Catalyst II
+31656,31657,5.0,Small Projectile Ambit Extension I
+31658,31659,10.0,Medium Projectile Ambit Extension I
+31660,31661,40.0,Capital Projectile Ambit Extension I
+31662,31663,5.0,Small Projectile Ambit Extension II
+31664,31665,10.0,Medium Projectile Ambit Extension II
+31666,31667,40.0,Capital Projectile Ambit Extension II
+31668,31669,5.0,Small Projectile Burst Aerator I
+31670,31671,10.0,Medium Projectile Burst Aerator I
+31672,31673,40.0,Capital Projectile Burst Aerator I
+31674,31675,5.0,Small Projectile Burst Aerator II
+31676,31677,10.0,Medium Projectile Burst Aerator II
+31678,31679,40.0,Capital Projectile Burst Aerator II
+31680,31681,5.0,Small Projectile Collision Accelerator I
+31682,31683,10.0,Medium Projectile Collision Accelerator I
+31684,31685,40.0,Capital Projectile Collision Accelerator I
+31686,31687,5.0,Small Projectile Collision Accelerator II
+31688,31689,10.0,Medium Projectile Collision Accelerator II
+31690,31691,40.0,Capital Projectile Collision Accelerator II
+31692,31693,5.0,Small Projectile Locus Coordinator I
+31694,31695,10.0,Medium Projectile Locus Coordinator I
+31696,31697,40.0,Capital Projectile Locus Coordinator I
+31698,31699,5.0,Small Projectile Locus Coordinator II
+31700,31701,10.0,Medium Projectile Locus Coordinator II
+31702,31703,40.0,Capital Projectile Locus Coordinator II
+31704,31705,5.0,Small Projectile Metastasis Adjuster I
+31706,31707,10.0,Medium Projectile Metastasis Adjuster I
+31708,31709,40.0,Capital Projectile Metastasis Adjuster I
+31710,31711,5.0,Small Projectile Metastasis Adjuster II
+31712,31713,10.0,Medium Projectile Metastasis Adjuster II
+31714,31715,40.0,Capital Projectile Metastasis Adjuster II
+31716,31717,5.0,Small EM Shield Reinforcer I
+31718,31719,10.0,Medium EM Shield Reinforcer I
+31720,31721,40.0,Capital EM Shield Reinforcer I
+31722,31723,5.0,Small EM Shield Reinforcer II
+31724,31725,10.0,Medium EM Shield Reinforcer II
+31726,31727,40.0,Capital EM Shield Reinforcer II
+31728,31729,5.0,Small Explosive Shield Reinforcer I
+31730,31731,10.0,Medium Explosive Shield Reinforcer I
+31732,31733,40.0,Capital Explosive Shield Reinforcer I
+31734,31735,5.0,Small Explosive Shield Reinforcer II
+31736,31737,10.0,Medium Explosive Shield Reinforcer II
+31738,31739,40.0,Capital Explosive Shield Reinforcer II
+31740,31741,5.0,Small Kinetic Shield Reinforcer I
+31742,31743,10.0,Medium Kinetic Shield Reinforcer I
+31744,31745,40.0,Capital Kinetic Shield Reinforcer I
+31746,31747,5.0,Small Kinetic Shield Reinforcer II
+31748,31749,10.0,Medium Kinetic Shield Reinforcer II
+31750,31751,40.0,Capital Kinetic Shield Reinforcer II
+31752,31753,5.0,Small Thermal Shield Reinforcer I
+31754,31755,10.0,Medium Thermal Shield Reinforcer I
+31756,31757,40.0,Capital Thermal Shield Reinforcer I
+31758,31759,5.0,Small Thermal Shield Reinforcer II
+31760,31761,10.0,Medium Thermal Shield Reinforcer II
+31762,31763,40.0,Capital Thermal Shield Reinforcer II
+31764,31765,5.0,Small Core Defense Capacitor Safeguard I
+31766,31767,10.0,Medium Core Defense Capacitor Safeguard I
+31768,31769,40.0,Capital Core Defense Capacitor Safeguard I
+31770,31771,5.0,Small Core Defense Capacitor Safeguard II
+31772,31773,10.0,Medium Core Defense Capacitor Safeguard II
+31774,31775,40.0,Capital Core Defense Capacitor Safeguard II
+31776,31777,5.0,Small Core Defense Charge Economizer I
+31778,31779,10.0,Medium Core Defense Charge Economizer I
+31780,31781,40.0,Capital Core Defense Charge Economizer I
+31782,31783,5.0,Small Core Defense Charge Economizer II
+31784,31785,10.0,Medium Core Defense Charge Economizer II
+31786,31787,40.0,Capital Core Defense Charge Economizer II
+31788,31789,5.0,Small Core Defense Field Extender I
+31790,31791,10.0,Medium Core Defense Field Extender I
+31792,31793,40.0,Capital Core Defense Field Extender I
+31794,31795,5.0,Small Core Defense Field Extender II
+31796,31797,10.0,Medium Core Defense Field Extender II
+31798,31799,40.0,Capital Core Defense Field Extender II
+31800,31801,5.0,Small Core Defense Field Purger I
+31802,31803,10.0,Medium Core Defense Field Purger I
+31804,31805,40.0,Capital Core Defense Field Purger I
+31810,31811,5.0,Small Core Defense Field Purger II
+31812,31813,10.0,Medium Core Defense Field Purger II
+31814,31815,40.0,Capital Core Defense Field Purger II
+31816,31817,5.0,Small Core Defense Operational Solidifier I
+31818,31819,10.0,Medium Core Defense Operational Solidifier I
+31820,31821,40.0,Capital Core Defense Operational Solidifier I
+31822,31823,5.0,Small Core Defense Operational Solidifier II
+31824,31825,10.0,Medium Core Defense Operational Solidifier II
+31826,31827,40.0,Capital Core Defense Operational Solidifier II
+32025,32026,5.0,Small Drone Control Range Augmentor I
+32027,32028,10.0,Medium Drone Control Range Augmentor I
+32029,32030,5.0,Small Drone Control Range Augmentor II
+32031,32032,10.0,Medium Drone Control Range Augmentor II
+32033,32034,5.0,Small Drone Durability Enhancer I
+32035,32036,10.0,Medium Drone Durability Enhancer I
+32037,32038,5.0,Small Drone Durability Enhancer II
+32039,32040,10.0,Medium Drone Durability Enhancer II
+32041,32042,5.0,Small Drone Mining Augmentor I
+32043,32044,10.0,Medium Drone Mining Augmentor I
+32045,32046,5.0,Small Drone Mining Augmentor II
+32047,32048,10.0,Medium Drone Mining Augmentor II
+32049,32050,5.0,Small Drone Repair Augmentor I
+32051,32052,10.0,Medium Drone Repair Augmentor I
+32053,32054,5.0,Small Drone Repair Augmentor II
+32055,32056,10.0,Medium Drone Repair Augmentor II
+32057,32058,5.0,Small Drone Speed Augmentor I
+32059,32060,10.0,Medium Drone Speed Augmentor I
+32061,32062,5.0,Small Drone Speed Augmentor II
+32063,32064,10.0,Medium Drone Speed Augmentor II
+32069,32070,5.0,Small Drone Scope Chip I
+32071,32072,10.0,Medium Drone Scope Chip I
+32073,32074,5.0,Small Drone Scope Chip II
+32075,32076,10.0,Medium Drone Scope Chip II
+32081,32082,5.0,Small Sentry Damage Augmentor I
+32083,32084,10.0,Medium Sentry Damage Augmentor I
+32085,32086,5.0,Small Sentry Damage Augmentor II
+32087,32088,10.0,Medium Sentry Damage Augmentor II
+32089,32090,5.0,Small Stasis Drone Augmentor I
+32091,32092,10.0,Medium Stasis Drone Augmentor I
+32093,32094,5.0,Small Stasis Drone Augmentor II
+32095,32096,10.0,Medium Stasis Drone Augmentor II
+32226,2737,5000.0,Territorial Claim Unit
+32305,32306,486000.0,Armageddon Navy Issue
+32307,32308,454500.0,Dominix Navy Issue
+32309,32310,468000.0,Scorpion Navy Issue
+32311,32312,414000.0,Typhoon Fleet Issue
+32325,32326,1800.0,Cyclops I
+32340,32341,1800.0,Malleus I
+32342,32343,1800.0,Tyrfing I
+32344,32345,1800.0,Mantis I
+32422,34865,200000.0,Advanced Logistics Network
+32436,32437,0.3,Scourge XL Cruise Missile
+32438,32439,0.3,Nova XL Cruise Missile
+32440,32441,0.3,Inferno XL Cruise Missile
+32442,32443,0.3,Mjolnir XL Cruise Missile
+32444,32445,4000.0,XL Cruise Missile Launcher I
+32458,2735,60000.0,Infrastructure Hub
+32772,32773,10.0,Medium Ancillary Shield Booster
+32774,32775,5.0,Small Ancillary Shield Booster
+32780,32781,50.0,X-Large Ancillary Shield Booster
+32782,32783,0.015,Defender Missile I
+32787,32982,5.0,Salvage Drone I
+32788,32789,16500.0,Cambion
+32790,32791,107000.0,Etana
+32809,32810,5.0,Ammatar Navy Thermal Coating
+32811,32812,265000.0,Miasmos Amastris Edition
+32817,32818,10.0,Medium Mercoxit Mining Crystal Optimization I
+32819,32820,10.0,Medium Ice Harvester Accelerator I
+32821,46187,1.0,Unrefined Vanadium Hafnite
+32822,46188,1.0,Unrefined Platinum Technite
+32823,46189,1.0,Unrefined Solerium
+32824,46190,1.0,Unrefined Caesarium Cadmide
+32825,46191,1.0,Unrefined Hexite
+32826,46192,1.0,Unrefined Rolled Tungsten Alloy
+32827,46193,1.0,Unrefined Titanium Chromide
+32828,46194,1.0,Unrefined Fernite Alloy
+32829,46195,1.0,Unrefined Crystallite Alloy
+32872,32873,55000.0,Algos
+32874,32875,47000.0,Dragoon
+32876,32877,52000.0,Corax
+32878,32879,43000.0,Talwar
+32880,32881,29500.0,Venture
+33003,33004,250000.0,Enormous Freight Container
+33005,33006,50000.0,Huge Freight Container
+33007,33008,10000.0,Large Freight Container
+33009,33010,5000.0,Medium Freight Container
+33011,33012,1000.0,Small Freight Container
+33017,33067,0.01,Deactivated Station Key Pass
+33019,0,0.01,Scotty the Docking Manager's Clone
+33076,33077,5.0,Small Ancillary Armor Repairer
+33087,33088,1.0,Advanced Cerebral Accelerator
+33101,33102,10.0,Medium Ancillary Armor Repairer
+33103,33104,50.0,Large Ancillary Armor Repairer
+33111,33112,1.0,Prototype Cerebral Accelerator
+33149,33150,4000.0,Personal Hangar Array
+33151,33152,270000.0,Brutix Navy Issue
+33153,33154,252000.0,Drake Navy Issue
+33155,33156,234000.0,Harbinger Navy Issue
+33157,33158,216000.0,Hurricane Fleet Issue
+33176,33177,5.0,Scan Acquisition Array I
+33178,33179,5.0,Scan Pinpointing Array I
+33180,33181,5.0,Scan Rangefinding Array I
+33195,33196,1.0,Spatial Attunement Unit
+33197,33198,5.0,Scan Acquisition Array II
+33199,33200,5.0,Scan Pinpointing Array II
+33201,33202,5.0,Scan Rangefinding Array II
+33270,33271,5.0,Survey Probe Launcher I
+33272,33273,5.0,Survey Probe Launcher II
+33277,33278,40.0,Capital Drone Control Range Augmentor I
+33279,33280,40.0,Capital Drone Control Range Augmentor II
+33281,33282,40.0,Capital Drone Durability Enhancer I
+33283,33284,40.0,Capital Drone Durability Enhancer II
+33285,33286,40.0,Capital Drone Mining Augmentor I
+33287,33288,40.0,Capital Drone Mining Augmentor II
+33289,33290,40.0,Capital Drone Repair Augmentor I
+33291,33292,40.0,Capital Drone Repair Augmentor II
+33293,33294,40.0,Capital Drone Scope Chip I
+33295,33296,40.0,Capital Drone Scope Chip II
+33297,33299,40.0,Capital Drone Speed Augmentor I
+33298,33300,40.0,Capital Drone Speed Augmentor II
+33301,33302,40.0,Capital Hydraulic Bay Thrusters II
+33303,33304,40.0,Capital Processor Overclocking Unit I
+33305,33306,40.0,Capital Processor Overclocking Unit II
+33307,33308,40.0,Capital Sentry Damage Augmentor I
+33309,33310,40.0,Capital Sentry Damage Augmentor II
+33311,33312,40.0,Capital Stasis Drone Augmentor I
+33313,33314,40.0,Capital Stasis Drone Augmentor II
+33336,46185,0.2,Thulium Hafnite
+33337,46186,0.2,Promethium Mercurite
+33338,46203,1.0,Unrefined Promethium Mercurite
+33339,46202,1.0,Unrefined Thulium Hafnite
+33359,46217,1.0,Photonic Metamaterials
+33360,46216,1.0,Terahertz Metamaterials
+33361,46215,1.0,Plasmonic Metamaterials
+33362,46218,1.0,Nonlinear Metamaterials
+33395,33396,100000.0,Moracha
+33397,33398,28000.0,Chremoas
+33400,33401,200.0,Bastion Module I
+33446,33447,20.0,Caldari Navy Rapid Heavy Missile Launcher
+33448,33449,20.0,Rapid Heavy Missile Launcher I
+33450,33451,20.0,Rapid Heavy Missile Launcher II
+33459,33460,20.0,Republic Fleet Rapid Heavy Missile Launcher
+33468,33469,16500.0,Astero
+33470,33471,101000.0,Stratios
+33472,33473,486000.0,Nestor
+33474,33517,50.0,Mobile Depot
+33475,33519,100.0,Mobile Tractor Unit
+33476,33518,50.0,Mobile Cynosural Inhibitor
+33477,33515,35.0,Small Mobile Siphon Unit
+33513,33514,5000.0,Leopard
+33516,33536,1.0,High-grade Ascendancy Alpha
+33520,33521,100.0,'Wetu' Mobile Depot
+33522,33523,50.0,'Yurt' Mobile Depot
+33525,33543,1.0,High-grade Ascendancy Beta
+33526,33547,1.0,High-grade Ascendancy Delta
+33527,33546,1.0,High-grade Ascendancy Epsilon
+33528,33545,1.0,High-grade Ascendancy Gamma
+33529,33548,1.0,High-grade Ascendancy Omega
+33539,0,0.1,Shattered Villard Wheel
+33553,33554,101000.0,Stratios Emergency Responder
+33555,33556,1.0,Mid-grade Ascendancy Alpha
+33557,33558,1.0,Mid-grade Ascendancy Beta
+33559,33560,1.0,Mid-grade Ascendancy Delta
+33561,33562,1.0,Mid-grade Ascendancy Epsilon
+33563,33564,1.0,Mid-grade Ascendancy Gamma
+33565,33566,1.0,Mid-grade Ascendancy Omega
+33577,0,0.1,Covert Research Tools
+33581,33582,35.0,Small Mobile 'Hybrid' Siphon Unit
+33583,33584,35.0,Small Mobile 'Rote' Siphon Unit
+33589,33590,100.0,Mobile Scan Inhibitor
+33591,33592,50.0,Mobile Micro Jump Unit
+33671,33672,25.0,Heavy Hull Maintenance Bot I
+33673,33674,18000.0,Whiptail
+33675,33676,96000.0,Chameleon
+33681,33682,50.0,Gecko
+33697,33698,50000.0,Prospect
+33700,33701,125.0,'Packrat' Mobile Tractor Unit
+33702,33703,100.0,'Magpie' Mobile Tractor Unit
+33704,33705,10.0,Medium Hull Maintenance Bot I
+33706,33707,5.0,Light Hull Maintenance Bot I
+33708,33709,25.0,Heavy Hull Maintenance Bot II
+33710,33711,10.0,Medium Hull Maintenance Bot II
+33712,33713,5.0,Light Hull Maintenance Bot II
+33816,33817,27289.0,Garmur
+33818,33819,101000.0,Orthrus
+33820,33821,595000.0,Barghest
+33822,33823,5.0,Omnidirectional Tracking Enhancer I
+33824,33825,5.0,Omnidirectional Tracking Enhancer II
+33867,33868,12500.0,Thukker Component Assembly Array
+33890,33891,5.0,Small Transverse Bulkhead I
+33892,33893,5.0,Small Transverse Bulkhead II
+33894,33895,10.0,Medium Transverse Bulkhead I
+33896,33897,10.0,Medium Transverse Bulkhead II
+33898,33899,20.0,Large Transverse Bulkhead I
+33900,33901,20.0,Large Transverse Bulkhead II
+33902,33903,40.0,Capital Transverse Bulkhead I
+33904,33905,40.0,Capital Transverse Bulkhead II
+33915,33916,10.0,Medium Micro Jump Drive
+33981,33982,5.0,Limited Hyperspatial Accelerator
+33983,33984,5.0,Experimental Hyperspatial Accelerator
+33985,33986,5.0,Prototype Hyperspatial Accelerator
+34122,34123,3500.0,Limited Jump Drive Economizer
+34124,34125,3500.0,Experimental Jump Drive Economizer
+34126,34127,3500.0,Prototype Jump Drive Economizer
+34266,34267,5.0,Small Higgs Anchor I
+34268,34269,10.0,Medium Higgs Anchor I
+34272,34273,5.0,Polarized Small Focused Pulse Laser
+34274,34275,10.0,Polarized Heavy Pulse Laser
+34276,34277,20.0,Polarized Mega Pulse Laser
+34278,34279,5.0,Polarized Light Neutron Blaster
+34280,34281,10.0,Polarized Heavy Neutron Blaster
+34282,34283,20.0,Polarized Neutron Blaster Cannon
+34284,34285,5.0,Polarized 200mm AutoCannon
+34286,34287,10.0,Polarized 425mm AutoCannon
+34288,34289,20.0,Polarized 800mm Repeating Cannon
+34290,34291,5.0,Polarized Rocket Launcher
+34292,34293,10.0,Polarized Heavy Assault Missile Launcher
+34294,34295,20.0,Polarized Torpedo Launcher
+34306,34307,20.0,Large Higgs Anchor I
+34308,34309,40.0,Capital Higgs Anchor I
+34317,34318,47000.0,Confessor
+34328,34329,17550000.0,Bowhead
+34396,34397,5.0,Self-Assembling Nanolattice
+34496,34497,5000.0,Council Diplomatic Shuttle
+34556,0,0.1,Sentinel Element
+34557,0,0.1,Barbican Element
+34558,0,0.1,Vidette Element
+34559,0,0.1,Conflux Element
+34560,0,0.1,Redoubt Element
+34562,34563,47000.0,Svipul
+34575,0,0.1,Antikythera Element
+34590,34591,115000.0,Victorieux Luxury Yacht
+34593,34594,20.0,Entosis Link I
+34595,34596,20.0,Entosis Link II
+34828,34829,47000.0,Jackdaw
+35683,35684,47000.0,Hecate
+35770,35772,5.0,Missile Guidance Enhancer I
+35771,35773,5.0,Missile Guidance Enhancer II
+35779,35780,28600.0,Imp
+35781,35782,101000.0,Fiend
+35788,35791,5.0,Missile Guidance Computer I
+35790,35792,5.0,Missile Guidance Computer II
+35794,35796,1.0,Missile Range Script
+35795,35797,1.0,Missile Precision Script
+35825,36971,8000.0,Raitaru
+35826,36972,80000.0,Azbel
+35827,36973,800000.0,Sotiyo
+35832,36966,8000.0,Astrahus
+35833,36967,80000.0,Fortizar
+35834,36968,800000.0,Keepstar
+35835,36977,8000.0,Athanor
+35836,36978,80000.0,Tatara
+35840,36960,4000.0,Pharolux Cyno Beacon
+35841,36961,6000.0,Ansiblex Jump Gate
+35877,43929,64000.0,Standup Supercapital Shipyard I
+35878,43927,4000.0,Standup Manufacturing Plant I
+35881,43925,32000.0,Standup Capital Shipyard I
+35886,43926,4000.0,Standup Invention Lab I
+35891,43928,4000.0,Standup Research Lab I
+35892,37022,32000.0,Standup Market Hub I
+35894,37023,4000.0,Standup Cloning Center I
+35899,37032,4000.0,Standup Reprocessing Facility I
+35921,37047,4000.0,Standup Anticapital Missile Launcher I
+35922,37048,4000.0,Standup Multirole Missile Launcher I
+35923,37008,8000.0,Standup Guided Bomb Launcher I
+35924,37043,8000.0,Standup XL Energy Neutralizer I
+35925,37044,8000.0,Standup Heavy Energy Neutralizer I
+35926,37029,8000.0,Standup Point Defense Battery I
+35928,37030,64000.0,Standup Arcing Vorton Projector I
+35940,37041,4000.0,Standup Variable Spectrum ECM I
+35941,37066,4000.0,Standup Remote Sensor Dampener I
+35943,37080,4000.0,Standup Stasis Webifier I
+35944,47114,4000.0,Standup Energy Neutralization Burst Projector
+35945,37083,4000.0,Standup Weapon Disruptor I
+35947,37081,4000.0,Standup Target Painter I
+35949,37087,4000.0,Standup Focused Warp Disruptor I
+35959,37020,4000.0,Standup Ballistic Control System I
+35962,37045,4000.0,Standup Missile Guidance Enhancer I
+35963,37028,4000.0,Standup Co-Processor Array I
+35965,37060,4000.0,Standup Reactor Control Unit I
+36902,36949,0.1,Coalesced Element
+36956,36953,3000.0,Structure Electromagnetic Sensor
+36957,36954,3000.0,Structure Acceleration Coils
+36958,36955,3000.0,Structure Advertisement Nexus
+37135,39583,50000.0,Endurance
+37146,44018,10.0,Standup M-Set Basic Medium Ship Manufacturing Material Efficiency I
+37147,44019,10.0,Standup M-Set Basic Medium Ship Manufacturing Material Efficiency II
+37148,44012,10.0,Standup M-Set Drone and Fighter Manufacturing Time Efficiency I
+37149,44013,10.0,Standup M-Set Drone and Fighter Manufacturing Time Efficiency II
+37150,44008,10.0,Standup M-Set Ammunition Manufacturing Time Efficiency I
+37151,44009,10.0,Standup M-Set Ammunition Manufacturing Time Efficiency II
+37152,44023,10.0,Standup M-Set Basic Large Ship Manufacturing Material Efficiency II
+37153,44021,10.0,Standup M-Set Basic Medium Ship Manufacturing Time Efficiency II
+37154,44014,10.0,Standup M-Set Basic Small Ship Manufacturing Material Efficiency I
+37155,44015,10.0,Standup M-Set Basic Small Ship Manufacturing Material Efficiency II
+37156,44010,10.0,Standup M-Set Drone and Fighter Manufacturing Material Efficiency I
+37157,44011,10.0,Standup M-Set Drone and Fighter Manufacturing Material Efficiency II
+37158,44006,10.0,Standup M-Set Ammunition Manufacturing Material Efficiency I
+37159,44007,10.0,Standup M-Set Ammunition Manufacturing Material Efficiency II
+37160,44004,10.0,Standup M-Set Equipment Manufacturing Time Efficiency I
+37161,44005,10.0,Standup M-Set Equipment Manufacturing Time Efficiency II
+37162,44016,10.0,Standup M-Set Basic Small Ship Manufacturing Time Efficiency I
+37163,44017,10.0,Standup M-Set Basic Small Ship Manufacturing Time Efficiency II
+37164,37309,20.0,Standup L-Set Ammunition Manufacturing Efficiency I
+37165,37329,20.0,Standup L-Set Ammunition Manufacturing Efficiency II
+37166,37330,20.0,Standup L-Set Basic Large Ship Manufacturing Efficiency I
+37167,37331,20.0,Standup L-Set Basic Large Ship Manufacturing Efficiency II
+37168,37332,20.0,Standup L-Set Advanced Large Ship Manufacturing Efficiency I
+37169,37333,20.0,Standup L-Set Advanced Large Ship Manufacturing Efficiency II
+37170,37334,20.0,Standup L-Set Equipment Manufacturing Efficiency I
+37171,37335,20.0,Standup L-Set Equipment Manufacturing Efficiency II
+37172,44087,20.0,Standup L-Set Capital Ship Manufacturing Efficiency II
+37173,44086,20.0,Standup L-Set Capital Ship Manufacturing Efficiency I
+37174,37338,20.0,Standup L-Set Advanced Component Manufacturing Efficiency I
+37175,37339,20.0,Standup L-Set Advanced Component Manufacturing Efficiency II
+37178,37310,40.0,Standup XL-Set Equipment and Consumable Manufacturing Efficiency I
+37179,37342,40.0,Standup XL-Set Equipment and Consumable Manufacturing Efficiency II
+37180,37343,40.0,Standup XL-Set Ship Manufacturing Efficiency I
+37181,37344,40.0,Standup XL-Set Ship Manufacturing Efficiency II
+37182,37345,40.0,Standup XL-Set Laboratory Optimization II
+37183,37346,40.0,Standup XL-Set Laboratory Optimization I
+37216,37378,10.0,Standup M-Set Missile Precision I
+37217,37379,10.0,Standup M-Set Missile Precision II
+37218,37382,10.0,Standup M-Set Energy Neutralizer Projection I
+37219,37383,10.0,Standup M-Set Energy Neutralizer Projection II
+37220,37380,10.0,Standup M-Set Missile Projection I
+37221,37381,10.0,Standup M-Set Missile Projection II
+37222,37384,10.0,Standup M-Set Energy Neutralizer Economy I
+37223,37385,10.0,Standup M-Set Energy Neutralizer Economy II
+37228,37390,10.0,Standup M-Set Electronic Warfare Projection I
+37229,37391,10.0,Standup M-Set Electronic Warfare Projection II
+37230,37392,10.0,Standup M-Set Electronic Warfare Economy I
+37231,37393,10.0,Standup M-Set Electronic Warfare Economy II
+37232,37394,10.0,Standup M-Set Structure Target Multiplexing I
+37233,37395,10.0,Standup M-Set Structure Target Multiplexing II
+37234,37396,10.0,Standup M-Set Enhanced Targeting System I
+37235,37397,10.0,Standup M-Set Enhanced Targeting System II
+37248,37410,20.0,Standup L-Set Missile Flight Processor I
+37249,37411,20.0,Standup L-Set Missile Flight Processor II
+37250,37413,20.0,Standup L-Set Energy Neutralizer Feedback Control I
+37251,37414,20.0,Standup L-Set Energy Neutralizer Feedback Control II
+37254,37417,20.0,Standup L-Set EW Command System I
+37255,37418,20.0,Standup L-Set EW Command System II
+37256,37419,20.0,Standup L-Set Bomb Aimer I
+37257,37420,20.0,Standup L-Set Bomb Aimer II
+37258,37421,20.0,Standup L-Set Point Defense Battery Control I
+37259,37422,20.0,Standup L-Set Point Defense Battery Control II
+37260,37423,20.0,Standup L-Set Target Acquisition Array I
+37261,37424,20.0,Standup L-Set Target Acquisition Array II
+37268,37431,40.0,Standup XL-Set Missile Fire Control Computer I
+37269,37432,40.0,Standup XL-Set Missile Fire Control Computer II
+37272,37435,40.0,Standup XL-Set EW and Emissions Co-ordinator I
+37273,37436,40.0,Standup XL-Set EW and Emissions Co-ordinator II
+37274,37437,40.0,Standup XL-Set Extinction Level Weapons Suite I
+37275,37438,40.0,Standup XL-Set Extinction Level Weapons Suite II
+37288,41225,4000.0,Rapid Torpedo Launcher I
+37289,41092,4000.0,Quad 800mm Repeating Cannon I
+37290,41068,4000.0,Quad Mega Pulse Laser I
+37291,41085,4000.0,Triple Neutron Blaster Cannon I
+37292,41228,4000.0,Rapid Torpedo Launcher II
+37293,41229,4000.0,Dread Guristas Rapid Torpedo Launcher
+37294,41190,4000.0,XL Torpedo Launcher II
+37295,41187,4000.0,XL Cruise Missile Launcher II
+37296,41073,4000.0,Quad Mega Pulse Laser II
+37297,41069,4000.0,Modulated Compact Quad Mega Pulse Laser
+37298,41110,4000.0,Dual Giga Pulse Laser II
+37299,41186,4000.0,Dual Giga Beam Laser II
+37300,41090,4000.0,Triple Neutron Blaster Cannon II
+37301,41086,4000.0,Regulated Compact Triple Neutron Blaster Cannon
+37302,41136,4000.0,Ion Siege Blaster II
+37303,41145,4000.0,Dual 1000mm Railgun II
+37304,41097,4000.0,Quad 800mm Repeating Cannon II
+37305,41093,4000.0,Compact Carbine Quad 800mm Repeating Cannon
+37306,41166,4000.0,Hexa 2500mm Repeating Cannon II
+37307,41172,4000.0,Quad 3500mm Siege Artillery II
+37450,38660,5.0,Ice Mining Laser I
+37451,38661,5.0,Ice Mining Laser II
+37453,40318,28100.0,Crucifier Navy Issue
+37454,40317,17400.0,Vigil Fleet Issue
+37455,40316,19400.0,Griffin Navy Issue
+37456,40315,23000.0,Maulus Navy Issue
+37457,39580,28700.0,Deacon
+37458,39581,20000.0,Kirin
+37459,40301,10000.0,Thalia
+37460,40302,17100.0,Scalpel
+37479,37621,10.0,Micro Jump Field Generator
+37480,37620,43000.0,Bifrost
+37481,37618,47000.0,Pontifex
+37482,37617,52000.0,Stork
+37483,37619,55000.0,Magus
+37532,37541,4000.0,Standup Signal Amplifier I
+37534,37538,5000.0,Tenebrex Cyno Jammer
+37543,40338,5.0,Guidance Disruptor I
+37546,40339,5.0,Guidance Disruptor II
+37599,41367,3000.0,Cenobite I
+37604,41582,18135000.0,Apostle
+37605,41583,15500000.0,Minokawa
+37606,41585,14625000.0,Lif
+37607,41584,17020000.0,Ninazu
+37821,37833,1.0,Standup Gravimetric ECM Script
+37822,37834,1.0,Standup Ladar ECM Script
+37823,37835,1.0,Standup Magnetometric ECM Script
+37824,37836,1.0,Standup Radar ECM Script
+37843,37852,0.5,Standup Super-heavy Torpedo
+37844,37853,0.5,Standup XL Cruise Missile
+37846,37855,0.5,Standup Cruise Missile
+37847,37856,0.5,Standup Heavy Missile
+37848,37857,0.5,Standup Light Missile
+37849,37858,100.0,Standup Heavy Guided Bomb
+37850,37859,100.0,Standup Light Guided Bomb
+40307,40311,10.0,Noir. Modified Entosis Link
+40308,40312,10.0,Spectre Fleet's Modified Entosis Link
+40309,40313,10.0,Affirmative. Modified Entosis Link
+40310,40314,10.0,Pandemic SPHERE Modified Entosis Link
+40334,40336,1.0,Missile Range Disruption Script
+40335,40337,1.0,Missile Precision Disruption Script
+40340,40521,800000.0,Upwell Palatine Keepstar
+40345,41369,3000.0,Scarab I
+40346,41371,3000.0,Siren I
+40347,41373,3000.0,Dromi I
+40348,41607,4000.0,25000mm Steel Plates I
+40349,41609,4000.0,25000mm Crystalline Carbonide Restrained Plates
+40350,41608,4000.0,25000mm Rolled Tungsten Compact Plates
+40351,41610,4000.0,25000mm Steel Plates II
+40354,41599,4000.0,Capital Shield Extender I
+40355,41601,4000.0,Capital Azeotropic Restrained Shield Extender
+40356,41600,4000.0,Capital F-S9 Regolith Compact Shield Extender
+40357,41602,4000.0,Capital Shield Extender II
+40358,41376,800.0,Equite I
+40359,41379,800.0,Locust I
+40360,41382,800.0,Satyr I
+40361,41385,800.0,Gram I
+40362,41355,2000.0,Ametat I
+40363,41361,2000.0,Termite I
+40364,41363,2000.0,Antaeus I
+40365,41365,2000.0,Gungnir I
+40552,41377,800.0,Equite II
+40553,41386,800.0,Gram II
+40554,41380,800.0,Locust II
+40555,41383,800.0,Satyr II
+40556,41375,1000.0,Templar II
+40557,41378,1000.0,Dragonfly II
+40558,41381,1000.0,Firbolg II
+40559,41384,1000.0,Einherji II
+40560,41356,2000.0,Ametat II
+40561,41352,1800.0,Malleus II
+40562,41364,2000.0,Antaeus II
+40563,41351,1800.0,Cyclops II
+40564,41366,2000.0,Gungnir II
+40565,41354,1800.0,Tyrfing II
+40566,41362,2000.0,Termite II
+40567,41353,1800.0,Mantis II
+40568,41368,3000.0,Cenobite II
+40569,41370,3000.0,Scarab II
+40570,41372,3000.0,Siren II
+40571,41374,3000.0,Dromi II
+40631,41445,8000.0,'Holy Destiny' Electromagnetic Lance
+40632,41452,8000.0,'Divine Harvest' Electromagnetic Reaper
+40633,41532,8000.0,Bosonic Field Generator
+40634,41438,8000.0,Gravitational Transportation Field Oscillator
+40635,41393,8000.0,Stasis Webification Burst Projector
+40636,41390,8000.0,Energy Neutralization Burst Projector
+40659,40672,4000.0,Capital Energy Neutralizer I
+40660,40673,4000.0,Capital Gremlin Compact Energy Neutralizer
+40661,40674,4000.0,Capital Infectious Scoped Energy Neutralizer
+40662,40675,4000.0,Capital Energy Neutralizer II
+40663,40676,4000.0,True Sansha Capital Energy Neutralizer
+40664,40677,4000.0,Dark Blood Capital Energy Neutralizer
+40665,40684,4000.0,Capital Energy Nosferatu I
+40666,40685,4000.0,Capital Ghoul Compact Energy Nosferatu
+40667,40686,4000.0,Capital Knave Scoped Energy Nosferatu
+40668,40687,4000.0,Capital Energy Nosferatu II
+40669,40688,4000.0,True Sansha Capital Energy Nosferatu
+40670,40689,4000.0,Dark Blood Capital Energy Nosferatu
+40696,41394,8000.0,Warp Disruption Burst Projector
+40697,41388,8000.0,Sensor Dampening Burst Projector
+40698,41391,8000.0,Target Illumination Burst Projector
+40699,41392,8000.0,Weapon Disruption Burst Projector
+40714,40719,8000.0,Capital Emergency Hull Energizer I
+40715,40720,8000.0,Capital Implacable Compact Emergency Hull Energizer
+40716,40721,8000.0,Capital Indefatigable Enduring Emergency Hull Energizer
+40717,40722,8000.0,Capital Emergency Hull Energizer II
+40718,40723,8000.0,Sisters Capital Emergency Hull Energizer
+40730,40740,100.0,Heavy Warp Disruptor I
+40731,40741,100.0,Heavy Fleeting Compact Warp Disruptor
+40732,40742,100.0,Heavy J5 Enduring Warp Disruptor
+40733,40743,100.0,Heavy Faint Scoped Warp Disruptor
+40734,40744,100.0,Heavy Warp Disruptor II
+40736,40746,100.0,Shadow Serpentis Heavy Warp Disruptor
+40737,40747,100.0,Domination Heavy Warp Disruptor
+40750,40751,100.0,Heavy Warp Scrambler I
+40752,40753,100.0,Heavy Initiated Compact Warp Scrambler
+40754,40755,100.0,Heavy J5b Enduring Warp Scrambler
+40756,40757,100.0,Heavy Faint Epsilon Scoped Warp Scrambler
+40758,40759,100.0,Heavy Warp Scrambler II
+40762,40763,100.0,Shadow Serpentis Heavy Warp Scrambler
+40764,40765,100.0,Domination Heavy Warp Scrambler
+41030,43915,1100.0,'Excavator' Mining Drone
+41040,41221,50.0,Heavy Stasis Grappler I
+41057,41222,50.0,Heavy Stasis Grappler II
+41063,41070,4000.0,Modal Enduring Quad Mega Pulse Laser
+41064,41071,4000.0,Anode Scoped Quad Mega Pulse Laser
+41065,41072,4000.0,Afocal Precise Quad Mega Pulse Laser
+41066,41074,4000.0,Dark Blood Quad Mega Pulse Laser
+41067,41075,4000.0,True Sansha Quad Mega Pulse Laser
+41076,41087,4000.0,Modal Enduring Triple Neutron Blaster Cannon
+41077,41088,4000.0,Anode Scoped Triple Neutron Blaster Cannon
+41078,41089,4000.0,Limited Precise Triple Neutron Blaster Cannon
+41079,41091,4000.0,Shadow Serpentis Triple Neutron Blaster Cannon
+41080,41094,4000.0,Ample Gallium Quad 800mm Repeating Cannon
+41081,41095,4000.0,Scout Scoped Quad 800mm Repeating Cannon
+41082,41096,4000.0,Prototype Precise Quad 800mm Repeating Cannon
+41083,41098,4000.0,Domination Quad 800mm Repeating Cannon
+41099,41105,4000.0,Modulated Compact Dual Giga Pulse Laser
+41100,41106,4000.0,Modal Enduring Dual Giga Pulse Laser
+41101,41107,4000.0,Anode Scoped Dual Giga Pulse Laser
+41102,41108,4000.0,Afocal Precise Dual Giga Pulse Laser
+41103,41111,4000.0,Dark Blood Dual Giga Pulse Laser
+41104,41113,4000.0,True Sansha Dual Giga Pulse Laser
+41114,41120,4000.0,Modulated Compact Dual Giga Beam Laser
+41115,41121,4000.0,Modal Enduring Dual Giga Beam Laser
+41116,41122,4000.0,Anode Scoped Dual Giga Beam Laser
+41117,41123,4000.0,Afocal Precise Dual Giga Beam Laser
+41118,41124,4000.0,Dark Blood Dual Giga Beam Laser
+41119,41125,4000.0,True Sansha Dual Giga Beam Laser
+41126,41132,4000.0,Regulated Compact Ion Siege Blaster
+41127,41133,4000.0,Modal Enduring Ion Siege Blaster
+41128,41134,4000.0,Anode Scoped Ion Siege Blaster
+41129,41135,4000.0,Limited Precise Ion Siege Blaster
+41130,41137,4000.0,Shadow Serpentis Ion Siege Blaster
+41138,41143,4000.0,Carbide Compact Dual 1000mm Railgun
+41139,41144,4000.0,Compressed Enduring Dual 1000mm Railgun
+41140,41146,4000.0,Scout Scoped Dual 1000mm Railgun
+41141,41148,4000.0,Prototype Precise Dual 1000mm Railgun
+41142,41147,4000.0,Shadow Serpentis Dual 1000mm Railgun
+41150,41161,4000.0,Carbine Compact Hexa 2500mm Repeating Cannon
+41151,41162,4000.0,Gallium Ample Hexa 2500mm Repeating Cannon
+41152,41163,4000.0,Scout Scoped Hexa 2500mm Repeating Cannon
+41153,41165,4000.0,Prototype Precise Hexa 2500mm Repeating Cannon
+41154,41167,4000.0,Domination Hexa 2500mm Repeating Cannon
+41155,41230,1.0,ECCM Script
+41156,41168,4000.0,Carbide Compact Quad 3500mm Siege Artillery
+41157,41169,4000.0,Gallium Ample Quad 3500mm Siege Artillery
+41158,41170,4000.0,Scout Scoped Quad 3500mm Siege Artillery
+41159,41171,4000.0,Prototype Precise Quad 3500mm Siege Artillery
+41160,41173,4000.0,Domination Quad 3500mm Siege Artillery
+41174,41179,4000.0,Dread Guristas XL Cruise Missile Launcher
+41175,41177,4000.0,Arbalest Compact XL Cruise Missile Launcher
+41176,41178,4000.0,TE-2100 Ample XL Cruise Missile Launcher
+41180,41183,4000.0,Arbalest Compact XL Torpedo Launcher
+41181,41184,4000.0,TE-2100 Ample XL Torpedo Launcher
+41182,41185,4000.0,Dread Guristas XL Torpedo Launcher
+41223,41226,4000.0,Arbalest Compact Rapid Torpedo Launcher
+41224,41227,4000.0,TE-2100 Ample Rapid Torpedo Launcher
+41236,41242,4000.0,10000MN Afterburner I
+41237,41243,4000.0,10000MN Y-S8 Compact Afterburner
+41238,41244,4000.0,10000MN Monopropellant Enduring Afterburner
+41239,41245,4000.0,10000MN Afterburner II
+41240,41246,4000.0,Domination 10000MN Afterburner
+41241,41248,4000.0,Shadow Serpentis 10000MN Afterburner
+41249,41256,4000.0,50000MN Microwarpdrive I
+41250,41257,4000.0,50000MN Y-T8 Compact Microwarpdrive
+41251,41258,4000.0,50000MN Quad LiF Restrained Microwarpdrive
+41252,41313,4000.0,50000MN Cold-Gas Enduring Microwarpdrive
+41253,41261,4000.0,50000MN Microwarpdrive II
+41254,41262,4000.0,Domination 50000MN Microwarpdrive
+41255,41260,4000.0,Shadow Serpentis 50000MN Microwarpdrive
+41263,0,0.001,Ample Electronics
+41264,0,0.001,Ample Compounds
+41265,0,0.001,Ample Conductors
+41266,0,0.001,Compact Electronics
+41267,0,0.001,Compact Compounds
+41268,0,0.001,Compact Conductors
+41269,0,0.001,Enduring Electronics
+41270,41278,0.3,Scourge Javelin XL Torpedo
+41271,41279,0.3,Scourge Rage XL Torpedo
+41272,41280,0.3,Nova Javelin XL Torpedo
+41273,41281,0.3,Nova Rage XL Torpedo
+41274,41282,0.3,Mjolnir Javelin XL Torpedo
+41275,41283,0.3,Mjolnir Rage XL Torpedo
+41276,41284,0.3,Inferno Javelin XL Torpedo
+41277,41285,0.3,Inferno Rage XL Torpedo
+41286,41288,0.3,Inferno Precision XL Cruise Missile
+41287,41289,0.3,Inferno Fury XL Cruise Missile
+41290,41292,0.3,Scourge Precision XL Cruise Missile
+41291,41293,0.3,Scourge Fury XL Cruise Missile
+41294,41296,0.3,Nova Fury XL Cruise Missile
+41295,41297,0.3,Nova Precision XL Cruise Missile
+41298,41300,0.3,Mjolnir Precision XL Cruise Missile
+41299,41301,0.3,Mjolnir Fury XL Cruise Missile
+41302,0,0.001,Enduring Compounds
+41303,0,0.001,Enduring Conductors
+41304,0,0.001,Precise Electronics
+41305,0,0.001,Precise Compounds
+41306,0,0.001,Precise Conductors
+41307,0,0.001,Restrained Electronics
+41308,0,0.001,Restrained Compounds
+41309,0,0.001,Restrained Conductors
+41310,0,0.001,Scoped Electronics
+41311,0,0.001,Scoped Compounds
+41312,0,0.001,Scoped Conductors
+41314,41315,0.125,Hail XL
+41316,41317,0.125,Barrage XL
+41318,41319,0.125,Tremor XL
+41320,41321,0.125,Quake XL
+41322,41323,0.125,Void XL
+41324,41325,0.125,Null XL
+41326,41327,0.125,Javelin XL
+41328,41329,0.125,Spike XL
+41330,41331,1.0,Scorch XL
+41332,41333,1.0,Conflagration XL
+41334,41335,1.0,Gleam XL
+41336,41337,1.0,Aurora XL
+41411,41412,4000.0,Networked Sensor Array
+41414,41413,4000.0,Hermes Compact Fighter Support Unit
+41415,41416,4000.0,Fighter Support Unit II
+41417,41418,2000.0,Sentient Fighter Support Unit
+41439,41446,8000.0,'Iron Pike' Kinetic Lance
+41440,41447,8000.0,'Phalarica' Thermal Lance
+41441,41448,8000.0,'Geiravor' Explosive Lance
+41442,41449,8000.0,'Cold Wind' Kinetic Reaper
+41443,41450,8000.0,'Guillotine' Thermal Reaper
+41444,41451,8000.0,'Jormungandr' Explosive Reaper
+41456,41611,4000.0,CONCORD 25000mm Steel Plates
+41457,41612,4000.0,Dark Blood 25000mm Steel Plates
+41458,41613,4000.0,Shadow Serpentis 25000mm Steel Plates
+41459,41603,4000.0,CONCORD Capital Shield Extender
+41460,41604,4000.0,True Sansha Capital Shield Extender
+41461,41605,4000.0,Dread Guristas Capital Shield Extender
+41462,41606,4000.0,Domination Capital Shield Extender
+41463,41621,4000.0,Capital I-ax Enduring Remote Armor Repairer
+41464,41622,4000.0,Capital Coaxial Compact Remote Armor Repairer
+41465,41624,4000.0,Capital Solace Scoped Remote Armor Repairer
+41466,41623,4000.0,Capital Remote Armor Repairer II
+41467,41625,4000.0,Dark Blood Capital Remote Armor Repairer
+41468,41626,4000.0,Shadow Serpentis Capital Remote Armor Repairer
+41469,41666,4000.0,Capital Asymmetric Enduring Remote Shield Booster
+41470,41667,4000.0,Capital Murky Compact Remote Shield Booster
+41471,41668,4000.0,Capital S95a Scoped Remote Shield Booster
+41472,41671,4000.0,True Sansha Capital Remote Shield Booster
+41473,41670,4000.0,Dread Guristas Capital Remote Shield Booster
+41474,41669,4000.0,Domination Capital Remote Shield Booster
+41475,41631,4000.0,Capital Remote Hull Repairer II
+41476,41653,5.0,Small Ancillary Remote Armor Repairer
+41477,41654,10.0,Medium Ancillary Remote Armor Repairer
+41478,41655,25.0,Large Ancillary Remote Armor Repairer
+41479,41656,4000.0,Capital Ancillary Remote Armor Repairer
+41480,41649,5.0,Small Ancillary Remote Shield Booster
+41481,41650,10.0,Medium Ancillary Remote Shield Booster
+41482,41651,25.0,Large Ancillary Remote Shield Booster
+41483,41652,4000.0,Capital Ancillary Remote Shield Booster
+41484,41639,4000.0,Capital Cap Battery I
+41485,41640,4000.0,Capital Compact Pb-Acid Cap Battery
+41486,41641,4000.0,Capital Cap Battery II
+41487,41642,4000.0,Domination Capital Cap Battery
+41488,41643,4000.0,Dark Blood Capital Cap Battery
+41489,41598,128.0,Cap Booster 3200
+41491,41644,4000.0,Capital Capacitor Booster I
+41492,41645,4000.0,Capital F-RX Compact Capacitor Booster
+41493,41646,4000.0,Capital Capacitor Booster II
+41494,41647,4000.0,Dark Blood Capital Capacitor Booster
+41495,41648,4000.0,True Sansha Capital Capacitor Booster
+41498,41614,4000.0,Capital I-a Enduring Armor Repairer
+41499,41615,4000.0,Capital ACM Compact Armor Repairer
+41500,41616,4000.0,Capital Armor Repairer II
+41501,41618,4000.0,Dark Blood Capital Armor Repairer
+41502,41619,4000.0,Shadow Serpentis Capital Armor Repairer
+41503,41620,4000.0,Capital Ancillary Armor Repairer
+41504,41638,4000.0,Capital Ancillary Shield Booster
+41505,41632,4000.0,Capital C-5L Compact Shield Booster
+41506,41633,4000.0,Capital Clarity Ward Enduring Shield Booster
+41507,41634,4000.0,Capital Shield Booster II
+41508,41635,4000.0,True Sansha Capital Shield Booster
+41509,41636,4000.0,Dread Guristas Capital Shield Booster
+41510,41637,4000.0,Domination Capital Shield Booster
+41511,41627,4000.0,Capital Hull Repairer I
+41512,41628,4000.0,Capital I-b Enduring Hull Repairer
+41513,41629,4000.0,Capital IEF Compact Hull Repairer
+41514,41630,4000.0,Capital Hull Repairer II
+41515,41657,4000.0,Capital Flex Armor Hardener I
+41516,41662,4000.0,Capital Flex Shield Hardener I
+41517,41590,1.0,Armor EM Resistance Script
+41518,41591,1.0,Armor Thermal Resistance Script
+41519,41592,1.0,Armor Kinetic Resistance Script
+41520,41593,1.0,Armor Explosive Resistance Script
+41521,41594,1.0,Shield EM Resistance Script
+41522,41595,1.0,Shield Thermal Resistance Script
+41523,41596,1.0,Shield Kinetic Resistance Script
+41524,41597,1.0,Shield Explosive Resistance Script
+41525,41658,4000.0,Capital Flex Armor Hardener II
+41526,41659,4000.0,Dark Blood Capital Flex Armor Hardener
+41527,41660,4000.0,Shadow Serpentis Capital Flex Armor Hardener
+41528,41663,4000.0,Capital Flex Shield Hardener II
+41529,41665,4000.0,True Sansha Capital Flex Shield Hardener
+41530,41661,4000.0,Dread Guristas Capital Flex Shield Hardener
+41531,41664,4000.0,Domination Capital Flex Shield Hardener
+41533,41535,5.0,Ligature Integrated Analyzer
+41534,41536,5.0,Zeugma Integrated Analyzer
+41565,41697,4000.0,Capital Radiative Scoped Remote Capacitor Transmitter
+41566,41698,4000.0,Capital Inductive Compact Remote Capacitor Transmitter
+42124,42136,17550000.0,Vehement
+42125,42137,58200000.0,Vendetta
+42126,42138,145500000.0,Vanquisher
+42226,0,1.0,Serpentis Modified Capital Microprocessor
+42241,45045,155000000.0,Molok
+42242,45043,18135000.0,Dagon
+42243,45044,18500000.0,Chemosh
+42244,43910,400000.0,Porpoise
+42245,42524,115000.0,Rabisu
+42246,42525,28600.0,Caedes
+42522,42889,8000.0,Pulse Activated Nexus Invulnerability Core
+42526,43547,60.0,Armor Command Burst I
+42527,43548,60.0,Information Command Burst I
+42528,43544,60.0,Mining Foreman Burst I
+42529,43545,60.0,Shield Command Burst I
+42530,43546,60.0,Skirmish Command Burst I
+42685,44106,55000.0,Sunesis
+42694,42883,0.01,Active Shielding Charge
+42695,42885,0.01,Shield Harmonizing Charge
+42696,42884,0.01,Shield Extension Charge
+42829,42881,0.01,Mining Laser Field Enhancement Charge
+42830,42882,0.01,Mining Laser Optimization Charge
+42831,42880,0.01,Mining Equipment Preservation Charge
+42832,42874,0.01,Armor Energizing Charge
+42833,42876,0.01,Rapid Repair Charge
+42834,42875,0.01,Armor Reinforcement Charge
+42835,42879,0.01,Sensor Optimization Charge
+42836,42878,0.01,Electronic Superiority Charge
+42837,42877,0.01,Electronic Hardening Charge
+42838,42886,0.01,Evasive Maneuvers Charge
+42839,42887,0.01,Interdiction Maneuvers Charge
+42840,42888,0.01,Rapid Deployment Charge
+42890,42891,4000.0,Capital Industrial Core II
+43551,43609,60.0,Mining Foreman Burst II
+43552,43607,60.0,Armor Command Burst II
+43554,43608,60.0,Information Command Burst II
+43555,43610,60.0,Shield Command Burst II
+43556,43611,60.0,Skirmish Command Burst II
+43658,43659,8000.0,Amarr Phenomena Generator
+43660,43661,8000.0,Caldari Phenomena Generator
+43662,43663,8000.0,Gallente Phenomena Generator
+43664,43665,8000.0,Minmatar Phenomena Generator
+43681,43916,1100.0,'Excavator' Ice Harvesting Drone
+43694,43914,5.0,'Augmented' Mining Drone
+43699,43911,50.0,Ice Harvesting Drone I
+43700,43912,50.0,Ice Harvesting Drone II
+43701,43913,50.0,'Augmented' Ice Harvesting Drone
+43704,37376,40.0,Standup XL-Set Structure and Component Manufacturing Efficiency I
+43705,37377,40.0,Standup XL-Set Structure and Component Manufacturing Efficiency II
+43707,44076,20.0,Standup L-Set Advanced Small Ship Manufacturing Efficiency I
+43708,44077,20.0,Standup L-Set Advanced Small Ship Manufacturing Efficiency II
+43709,44074,20.0,Standup L-Set Advanced Medium Ship Manufacturing Efficiency I
+43711,44075,20.0,Standup L-Set Advanced Medium Ship Manufacturing Efficiency II
+43712,44088,20.0,Standup L-Set Drone and Fighter Manufacturing Efficiency I
+43713,44089,20.0,Standup L-Set Drone and Fighter Manufacturing Efficiency II
+43714,44082,20.0,Standup L-Set Basic Small Ship Manufacturing Efficiency I
+43715,44083,20.0,Standup L-Set Basic Small Ship Manufacturing Efficiency II
+43716,44080,20.0,Standup L-Set Basic Medium Ship Manufacturing Efficiency I
+43717,44081,20.0,Standup L-Set Basic Medium Ship Manufacturing Efficiency II
+43718,44078,20.0,Standup L-Set Basic Capital Component Manufacturing Efficiency I
+43719,44079,20.0,Standup L-Set Basic Capital Component Manufacturing Efficiency II
+43720,44094,20.0,Standup L-Set Structure Manufacturing Efficiency I
+43721,44095,20.0,Standup L-Set Structure Manufacturing Efficiency II
+43722,44090,20.0,Standup L-Set Invention Optimization I
+43723,44091,20.0,Standup L-Set Invention Optimization II
+43724,44092,20.0,Standup L-Set ME Research Optimization I
+43725,44093,20.0,Standup L-Set ME Research Optimization II
+43726,44096,20.0,Standup L-Set TE Research Optimization I
+43727,44097,20.0,Standup L-Set TE Research Optimization II
+43729,44084,20.0,Standup L-Set Blueprint Copy Optimization I
+43730,44085,20.0,Standup L-Set Blueprint Copy Optimization II
+43732,44022,10.0,Standup M-Set Basic Large Ship Manufacturing Material Efficiency I
+43733,44024,10.0,Standup M-Set Basic Large Ship Manufacturing Time Efficiency I
+43734,44025,10.0,Standup M-Set Basic Large Ship Manufacturing Time Efficiency II
+43854,44027,10.0,Standup M-Set Advanced Small Ship Manufacturing Material Efficiency II
+43855,44026,10.0,Standup M-Set Advanced Small Ship Manufacturing Material Efficiency I
+43856,44028,10.0,Standup M-Set Advanced Small Ship Manufacturing Time Efficiency I
+43857,44029,10.0,Standup M-Set Advanced Small Ship Manufacturing Time Efficiency II
+43858,44030,10.0,Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency I
+43859,44031,10.0,Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency II
+43860,44032,10.0,Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency I
+43861,44033,10.0,Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency II
+43862,44034,10.0,Standup M-Set Advanced Large Ship Manufacturing Material Efficiency I
+43863,44035,10.0,Standup M-Set Advanced Large Ship Manufacturing Material Efficiency II
+43864,44037,10.0,Standup M-Set Advanced Large Ship Manufacturing Time Efficiency II
+43865,44036,10.0,Standup M-Set Advanced Large Ship Manufacturing Time Efficiency I
+43866,44039,10.0,Standup M-Set Advanced Component Manufacturing Material Efficiency II
+43867,44038,10.0,Standup M-Set Advanced Component Manufacturing Material Efficiency I
+43868,44041,10.0,Standup M-Set Advanced Component Manufacturing Time Efficiency II
+43869,44040,10.0,Standup M-Set Advanced Component Manufacturing Time Efficiency I
+43870,44042,10.0,Standup M-Set Basic Capital Component Manufacturing Material Efficiency I
+43871,44043,10.0,Standup M-Set Basic Capital Component Manufacturing Material Efficiency II
+43872,44044,10.0,Standup M-Set Basic Capital Component Manufacturing Time Efficiency I
+43873,44045,10.0,Standup M-Set Basic Capital Component Manufacturing Time Efficiency II
+43874,44047,10.0,Standup M-Set Structure Manufacturing Material Efficiency II
+43875,44046,10.0,Standup M-Set Structure Manufacturing Material Efficiency I
+43876,44048,10.0,Standup M-Set Structure Manufacturing Time Efficiency I
+43877,44049,10.0,Standup M-Set Structure Manufacturing Time Efficiency II
+43878,44051,10.0,Standup M-Set Invention Cost Optimization II
+43879,44050,10.0,Standup M-Set Invention Cost Optimization I
+43880,44052,10.0,Standup M-Set Invention Accelerator I
+43881,44053,10.0,Standup M-Set Invention Accelerator II
+43882,44057,10.0,Standup M-Set ME Research Accelerator II
+43883,44056,10.0,Standup M-Set ME Research Accelerator I
+43884,44055,10.0,Standup M-Set ME Research Cost Optimization II
+43885,44054,10.0,Standup M-Set ME Research Cost Optimization I
+43886,44059,10.0,Standup M-Set TE Research Cost Optimization II
+43887,44058,10.0,Standup M-Set TE Research Cost Optimization I
+43888,44061,10.0,Standup M-Set TE Research Accelerator II
+43889,44060,10.0,Standup M-Set TE Research Accelerator I
+43890,44063,10.0,Standup M-Set Blueprint Copy Cost Optimization II
+43891,44062,10.0,Standup M-Set Blueprint Copy Cost Optimization I
+43892,44065,10.0,Standup M-Set Blueprint Copy Accelerator II
+43893,44064,10.0,Standup M-Set Blueprint Copy Accelerator I
+43894,43902,5.0,Small Command Processor I
+43896,43904,10.0,Medium Command Processor I
+43898,43906,20.0,Large Command Processor I
+43900,43908,40.0,Capital Command Processor I
+43919,44020,10.0,Standup M-Set Basic Medium Ship Manufacturing Time Efficiency I
+43920,44002,10.0,Standup M-Set Equipment Manufacturing Material Efficiency I
+43921,44003,10.0,Standup M-Set Equipment Manufacturing Material Efficiency II
+44102,44103,5.0,Defender Launcher I
+44111,44118,5.0,Tahron's Custom Heat Sink
+44112,44117,5.0,Vadari's Custom Gyrostabilizer
+44113,44116,5.0,Kaatara's Custom Magnetic Field Stabilizer
+44114,44115,5.0,Torelle's Custom Magnetic Field Stabilizer
+44993,45486,20000.0,Pacifier
+44995,45487,100000.0,Enforcer
+44996,45528,450000.0,Marshal
+45009,37034,8000.0,Standup Moon Drill I
+45010,45011,1.0,Focused Warp Scrambling Script
+45530,45533,28100.0,Virtuoso
+45531,45532,116000.0,Victor
+45534,45535,100000.0,Monitor
+45537,45540,4000.0,Standup Composite Reactor I
+45538,45541,4000.0,Standup Hybrid Reactor I
+45539,45542,4000.0,Standup Biochemical Reactor I
+45544,45545,10.0,Standup M-Set Thukker Basic Capital Component Manufacturing Material Efficiency
+45546,45547,20.0,Standup L-Set Thukker Basic Capital Component Manufacturing Efficiency
+45548,45549,40.0,Standup XL-Set Thukker Structure and Component Manufacturing Efficiency
+45550,45551,4000.0,Standup Hyasyoda Research Lab
+45586,45681,40.0,Legion Defensive - Covert Reconfiguration
+45587,45682,40.0,Legion Defensive - Augmented Plating
+45588,45683,40.0,Legion Defensive - Nanobot Injector
+45589,45684,40.0,Tengu Defensive - Covert Reconfiguration
+45590,45685,40.0,Tengu Defensive - Supplemental Screening
+45591,45686,40.0,Tengu Defensive - Amplification Node
+45592,45687,40.0,Proteus Defensive - Covert Reconfiguration
+45593,45688,40.0,Proteus Defensive - Augmented Plating
+45594,45689,40.0,Proteus Defensive - Nanobot Injector
+45595,45690,40.0,Loki Defensive - Covert Reconfiguration
+45596,45691,40.0,Loki Defensive - Augmented Durability
+45597,45692,40.0,Loki Defensive - Adaptive Defense Node
+45598,45693,40.0,Legion Offensive - Liquid Crystal Magnifiers
+45599,45694,40.0,Legion Offensive - Assault Optimization
+45600,45695,40.0,Legion Offensive - Support Processor
+45601,45696,40.0,Tengu Offensive - Accelerated Ejection Bay
+45602,45697,40.0,Tengu Offensive - Magnetic Infusion Basin
+45603,45698,40.0,Tengu Offensive - Support Processor
+45604,45699,40.0,Proteus Offensive - Hybrid Encoding Platform
+45605,45700,40.0,Proteus Offensive - Drone Synthesis Projector
+45606,45701,40.0,Proteus Offensive - Support Processor
+45607,45702,40.0,Loki Offensive - Projectile Scoping Array
+45608,45703,40.0,Loki Offensive - Launcher Efficiency Configuration
+45609,45704,40.0,Loki Offensive - Support Processor
+45610,45705,40.0,Legion Propulsion - Interdiction Nullifier
+45611,45706,40.0,Legion Propulsion - Intercalated Nanofibers
+45612,45707,40.0,Legion Propulsion - Wake Limiter
+45613,45708,40.0,Tengu Propulsion - Interdiction Nullifier
+45614,45709,40.0,Tengu Propulsion - Chassis Optimization
+45615,45710,40.0,Tengu Propulsion - Fuel Catalyst
+45616,45711,40.0,Proteus Propulsion - Interdiction Nullifier
+45617,45712,40.0,Proteus Propulsion - Hyperspatial Optimization
+45618,45713,40.0,Proteus Propulsion - Localized Injectors
+45619,45714,40.0,Loki Propulsion - Interdiction Nullifier
+45620,45715,40.0,Loki Propulsion - Intercalated Nanofibers
+45621,45716,40.0,Loki Propulsion - Wake Limiter
+45622,45717,40.0,Legion Core - Dissolution Sequencer
+45623,45718,40.0,Legion Core - Augmented Antimatter Reactor
+45624,45719,40.0,Legion Core - Energy Parasitic Complex
+45625,45720,40.0,Tengu Core - Electronic Efficiency Gate
+45626,45721,40.0,Tengu Core - Augmented Graviton Reactor
+45627,45722,40.0,Tengu Core - Obfuscation Manifold
+45628,45723,40.0,Proteus Core - Electronic Efficiency Gate
+45629,45724,40.0,Proteus Core - Augmented Fusion Reactor
+45630,45725,40.0,Proteus Core - Friction Extension Processor
+45631,45726,40.0,Loki Core - Dissolution Sequencer
+45632,45727,40.0,Loki Core - Augmented Nuclear Reactor
+45633,45728,40.0,Loki Core - Immobility Drivers
+45640,45642,10.0,Standup M-Set Thukker Advanced Component Manufacturing Material Efficiency
+45641,45643,20.0,Standup L-Set Thukker Advanced Component Manufacturing Efficiency
+45645,45644,15500000.0,Loggerhead
+45647,45646,16250000.0,Caiman
+45649,45648,132500000.0,Komodo
+45652,45656,5.0,Superconducting Magnetometric Amplifier
+45653,45657,5.0,Superconducting Gravimetric Amplifier
+45654,45658,5.0,Superconducting Radar Amplifier
+45655,45659,5.0,Superconducting Ladar Amplifier
+45660,0,0.01,Scorched Microgravimeter
+45661,0,0.01,Faraday Force Magnetometer
+45662,0,0.01,Ancient Radar Decorrelator
+45663,0,0.01,Synthetic Aperture Ladar Receiver
+46323,46505,10.0,Standup M-Set Moon Drilling Efficiency I
+46324,46504,10.0,Standup M-Set Moon Drilling Efficiency II
+46325,46503,10.0,Standup M-Set Moon Drilling Stability I
+46326,46502,10.0,Standup M-Set Moon Drilling Stability II
+46327,46501,20.0,Standup L-Set Moon Drilling Proficiency I
+46328,46500,20.0,Standup L-Set Moon Drilling Proficiency II
+46355,46350,6.0,Ubiquitous Moon Mining Crystal Type A I
+46356,46351,10.0,Ubiquitous Moon Mining Crystal Type A II
+46365,46352,6.0,Common Moon Mining Crystal Type A I
+46366,46353,10.0,Common Moon Mining Crystal Type A II
+46367,46357,6.0,Uncommon Moon Mining Crystal Type A I
+46368,46358,10.0,Uncommon Moon Mining Crystal Type A II
+46369,46359,6.0,Rare Moon Mining Crystal Type A I
+46370,46360,10.0,Rare Moon Mining Crystal Type A II
+46371,46361,6.0,Exceptional Moon Mining Crystal Type A I
+46372,46362,10.0,Exceptional Moon Mining Crystal Type A II
+46484,46506,10.0,Standup M-Set Composite Reactor Time Efficiency I
+46485,46507,10.0,Standup M-Set Composite Reactor Time Efficiency II
+46486,46508,10.0,Standup M-Set Composite Reactor Material Efficiency I
+46487,46509,10.0,Standup M-Set Composite Reactor Material Efficiency II
+46488,46510,10.0,Standup M-Set Hybrid Reactor Time Efficiency I
+46489,46511,10.0,Standup M-Set Hybrid Reactor Time Efficiency II
+46490,46512,10.0,Standup M-Set Hybrid Reactor Material Efficiency I
+46491,46513,10.0,Standup M-Set Hybrid Reactor Material Efficiency II
+46492,46514,10.0,Standup M-Set Biochemical Reactor Time Efficiency I
+46493,46515,10.0,Standup M-Set Biochemical Reactor Time Efficiency II
+46494,46516,10.0,Standup M-Set Biochemical Reactor Material Efficiency I
+46495,46517,10.0,Standup M-Set Biochemical Reactor Material Efficiency II
+46496,46518,20.0,Standup L-Set Reactor Efficiency I
+46497,46519,20.0,Standup L-Set Reactor Efficiency II
+46575,46576,8000.0,Dark Blood Standup Heavy Energy Neutralizer
+46577,46578,4000.0,Dread Guristas Standup Variable Spectrum ECM
+46633,46643,10.0,Standup M-Set Asteroid Ore Grading Processor I
+46634,46644,10.0,Standup M-Set Asteroid Ore Grading Processor II
+46635,46645,10.0,Standup M-Set Ice Grading Processor I
+46636,46646,10.0,Standup M-Set Ice Grading Processor II
+46637,46647,10.0,Standup M-Set Moon Ore Grading Processor I
+46638,46648,10.0,Standup M-Set Moon Ore Grading Processor II
+46639,46649,20.0,Standup L-Set Reprocessing Monitor I
+46640,46650,20.0,Standup L-Set Reprocessing Monitor II
+46641,46651,40.0,Standup XL-Set Reprocessing Monitor I
+46642,46652,40.0,Standup XL-Set Reprocessing Monitor II
+47020,0,0.1,Project Discovery DNA Reference (Jove)
+47021,0,0.1,Project Discovery DNA Reference (Minmatar)
+47022,0,0.1,Project Discovery DNA Reference (Amarr)
+47023,0,0.1,Project Discovery DNA Reference (Gallente)
+47024,0,0.1,Project Discovery DNA Reference (Caldari)
+47026,0,1.0,Recovered Radioactive Materials
+47027,0,0.1,Biomechanical Interface Data
+47028,47040,1.0,Neural Lace 'Blackglass' Net Intrusion 920-40
+47035,47208,2000.0,Standup Templar I
+47036,47222,1600.0,Standup Gram I
+47037,47228,6000.0,Standup Siren I
+47038,47236,3600.0,Standup Mantis I
+47039,47247,4000.0,Standup Gungnir I
+47069,47110,4000.0,Standup ECM Jammer Burst Projector
+47070,47111,4000.0,Standup Sensor Dampening Burst Projector
+47071,47112,4000.0,Standup Stasis Webification Burst Projector
+47072,47107,4000.0,Standup Target Illumination Burst Projector
+47073,47113,4000.0,Standup Warp Disruption Burst Projector
+47074,47109,4000.0,Standup Weapon Disruption Burst Projector
+47116,47234,3600.0,Standup Malleus I
+47117,47233,3600.0,Standup Cyclops I
+47118,47235,3600.0,Standup Tyrfing I
+47119,47238,3600.0,Standup Malleus II
+47120,47239,3600.0,Standup Mantis II
+47121,47237,3600.0,Standup Cyclops II
+47122,47240,3600.0,Standup Tyrfing II
+47123,47232,3600.0,Standup Shadow
+47124,47241,4000.0,Standup Ametat I
+47125,47243,4000.0,Standup Termite I
+47126,47245,4000.0,Standup Antaeus I
+47127,47242,4000.0,Standup Ametat II
+47128,47244,4000.0,Standup Termite II
+47129,47246,4000.0,Standup Antaeus II
+47130,47248,4000.0,Standup Gungnir II
+47131,47224,6000.0,Standup Cenobite I
+47132,47226,6000.0,Standup Scarab I
+47133,47230,6000.0,Standup Dromi I
+47134,47225,6000.0,Standup Cenobite II
+47135,47227,6000.0,Standup Scarab II
+47136,47229,6000.0,Standup Siren II
+47137,47231,6000.0,Standup Dromi II
+47138,47209,2000.0,Standup Dragonfly I
+47139,47210,2000.0,Standup Firbolg I
+47140,47211,2000.0,Standup Einherji I
+47141,47212,2000.0,Standup Templar II
+47142,47215,2000.0,Standup Dragonfly II
+47143,47218,2000.0,Standup Firbolg II
+47144,47221,2000.0,Standup Einherji II
+47145,47213,1600.0,Standup Equite I
+47146,47216,1600.0,Standup Locust I
+47147,47219,1600.0,Standup Satyr I
+47148,47214,1600.0,Standup Equite II
+47149,47217,1600.0,Standup Locust II
+47150,47220,1600.0,Standup Satyr II
+47151,47223,1600.0,Standup Gram II
+47254,47259,5.0,Assault Damage Control I
+47257,47260,5.0,Assault Damage Control II
+47261,0,1.0,Inquest 'Eros' Stasis Webifier MR-803
+47262,0,1.0,Inquest 'Eros' Stasis Webifier MR-805
+47263,0,1.0,Inquest 'Eros' Stasis Webifier MR-807
+47269,47966,28600.0,Damavik
+47270,47967,118000.0,Vedmak
+47271,47968,495000.0,Leshak
+47272,47969,5.0,Light Entropic Disintegrator I
+47273,47971,10.0,Heavy Entropic Disintegrator I
+47274,47973,20.0,Supratidal Entropic Disintegrator I
+47298,47322,4000.0,Standup Multirole Missile Launcher II
+47323,47324,4000.0,Standup Anticapital Missile Launcher II
+47325,47326,8000.0,Standup Guided Bomb Launcher II
+47327,47328,8000.0,Standup Point Defense Battery II
+47330,47331,8000.0,Standup XL Energy Neutralizer II
+47332,47333,8000.0,Standup Heavy Energy Neutralizer II
+47334,47335,4000.0,Standup Focused Warp Disruptor II
+47336,47337,1.0,Standup Focused Warp Scrambling Script
+47338,47339,4000.0,Standup Variable Spectrum ECM II
+47340,47341,4000.0,Standup Missile Guidance Enhancer II
+47342,47343,4000.0,Standup Ballistic Control System II
+47344,47345,4000.0,Standup Co-Processor Array II
+47347,47346,4000.0,Standup Reactor Control Unit II
+47348,47349,4000.0,Standup Signal Amplifier II
+47351,47350,4000.0,Standup Stasis Webifier II
+47352,47354,4000.0,Standup Cap Battery I
+47353,47355,4000.0,Standup Cap Battery II
+47356,47357,4000.0,Standup Capacitor Power Relay I
+47358,47359,4000.0,Standup Capacitor Power Relay II
+47360,47361,4000.0,Standup Layered Armor Plating I
+47362,47363,4000.0,Standup Layered Armor Plating II
+47364,47365,4000.0,Standup Weapon Disruptor II
+47366,47367,4000.0,Standup Target Painter II
+47368,47369,4000.0,Standup Remote Sensor Dampener II
+47466,47716,500000.0,Praxis
+47885,48097,0.01,Tetryon Exotic Plasma S
+47886,48102,0.01,Tetryon Exotic Plasma M
+47887,48107,0.01,Tetryon Exotic Plasma L
+47908,48095,5.0,Entropic Radiation Sink I
+47911,48096,5.0,Entropic Radiation Sink II
+47912,48469,5.0,Light Compact Entropic Disintegrator
+47913,48470,5.0,Light Scoped Entropic Disintegrator
+47914,47970,5.0,Light Entropic Disintegrator II
+47915,52348,5.0,Veles Light Entropic Disintegrator
+47916,48471,10.0,Heavy Compact Entropic Disintegrator
+47917,48472,10.0,Heavy Scoped Entropic Disintegrator
+47918,47972,10.0,Heavy Entropic Disintegrator II
+47919,52349,10.0,Veles Heavy Entropic Disintegrator
+47920,48473,20.0,Supratidal Compact Entropic Disintegrator
+47921,48474,20.0,Supratidal Scoped Entropic Disintegrator
+47922,47974,20.0,Supratidal Entropic Disintegrator II
+47923,52350,20.0,Veles Supratidal Entropic Disintegrator
+47924,48098,0.01,Baryon Exotic Plasma S
+47925,48099,0.01,Meson Exotic Plasma S
+47926,48100,0.01,Occult S
+47927,48101,0.01,Mystic S
+47928,48103,0.01,Baryon Exotic Plasma M
+47929,48104,0.01,Meson Exotic Plasma M
+47930,48105,0.01,Occult M
+47931,48106,0.01,Mystic M
+47932,48108,0.01,Baryon Exotic Plasma L
+47933,48109,0.01,Meson Exotic Plasma L
+47934,48110,0.01,Occult L
+47935,48111,0.01,Mystic L
+47975,0,0.3,Crystalline Isogen-10
+48112,0,0.2,Zero-Point Condensate
+48635,48637,118000.0,Tiamat
+48636,48638,28600.0,Hydra
+48744,48745,20.0,'Subverted' JVN-UC49
+48927,0,1.0,Chromodynamic Tricarboxyls
+49099,49100,50.0,Zero-Point Mass Entangler
+49710,49714,43000.0,Kikimora
+49711,49715,233000.0,Drekavac
+49712,49716,118000.0,Rodiva
+49713,49717,118000.0,Zarmazd
+49720,49721,3000.0,Structure EXERT Conduit Coupler
+49770,49775,10.0,Heavy Mutadaptive Remote Armor Repairer I
+49771,49776,10.0,Heavy Mutadaptive Scoped Remote Armor Repairer
+49772,49777,10.0,Heavy Mutadaptive Compact Remote Armor Repairer
+49773,49778,10.0,Heavy Mutadaptive Remote Armor Repairer II
+49774,49779,10.0,Perun Heavy Mutadaptive Remote Armor Repairer
+49790,49971,5.0,ML-EKP 'Polybolos' Ballistic Control System
+49791,49972,5.0,Frostline 'Clavicula' Integrated Analyzer
+49792,49973,5.0,Frostline 'Omnivore' Harvester Upgrade
+50053,50068,1.0,Inquest 'Hedone' Entanglement Optimizer WS-802
+50066,50072,1.0,Inquest 'Hedone' Entanglement Optimizer WS-803
+50067,50073,1.0,Inquest 'Hedone' Entanglement Optimizer WS-804
+52236,52237,5.0,Zorya's Light Entropic Disintegrator
+52238,52239,10.0,Zorya's Heavy Entropic Disintegrator
+52240,52241,20.0,Zorya's Supratidal Entropic Disintegrator
+52242,52243,5.0,Zorya's Entropic Radiation Sink
+52244,52245,5.0,Veles Entropic Radiation Sink
+52250,52251,28600.0,Nergal
+52252,52253,118000.0,Ikitursa
+52254,52255,43000.0,Draugur
+52309,0,0.1,Datacore - Triglavian Quantum Engineering
+52310,0,1.0,Radiation Absorption Thruster
+52311,0,1.0,Singularity Radiation Convertor
+52312,0,1.0,Zero-Point Field Manipulator
+52313,0,1.0,Trinary State Processor
+52314,0,1.0,Lattice Locked Dekaisogen
+52674,52684,1.0,Low-grade Mimesis Alpha
+52679,52685,1.0,Low-grade Mimesis Beta
+52680,52686,1.0,Low-grade Mimesis Gamma
+52681,52687,1.0,Low-grade Mimesis Delta
+52682,52688,1.0,Low-grade Mimesis Epsilon
+52683,52689,1.0,Low-grade Mimesis Omega
+52694,52695,25.0,Industrial Cynosural Field Generator
+52785,52791,1.0,Mid-grade Mimesis Alpha
+52786,52792,1.0,Mid-grade Mimesis Beta
+52787,52795,1.0,Mid-grade Mimesis Gamma
+52788,52793,1.0,Mid-grade Mimesis Delta
+52789,52794,1.0,Mid-grade Mimesis Epsilon
+52790,52796,1.0,Mid-grade Mimesis Omega
+52907,53029,18500000.0,Zirnitra
+52915,53030,1600.0,Ultratidal Entropic Disintegrator I
+52916,53031,0.01,Baryon Exotic Plasma XL
+52917,52972,1.0,High-grade Mimesis Alpha
+52918,52974,1.0,High-grade Mimesis Beta
+52919,52975,1.0,High-grade Mimesis Delta
+52920,52976,1.0,High-grade Mimesis Epsilon
+52921,52977,1.0,High-grade Mimesis Gamma
+52922,52978,1.0,High-grade Mimesis Omega
+53035,53032,10000.0,Capital Ultratidal Entropic Mounting
+53036,53033,10000.0,Capital Radiation Conversion Unit
+53037,53034,10000.0,Capital Absorption Thruster Array
+53288,0,1.0,Capital Singularity Radiation Convertor
+53289,0,1.0,Capital Zero-Point Field Manipulator
+53290,0,1.0,Capital Trinary State Processor
+53301,53303,0.01,Tetryon Exotic Plasma XL
+53302,53304,0.01,Meson Exotic Plasma XL
+53704,53722,1.0,Mid-grade Nirvana Alpha
+53705,53723,1.0,Mid-grade Nirvana Beta
+53706,53724,1.0,Mid-grade Nirvana Delta
+53707,53725,1.0,Mid-grade Nirvana Epsilon
+53708,53726,1.0,Mid-grade Nirvana Gamma
+53709,53727,1.0,Mid-grade Nirvana Omega
+53710,53728,1.0,High-grade Nirvana Alpha
+53711,53729,1.0,High-grade Nirvana Beta
+53712,53730,1.0,High-grade Nirvana Delta
+53713,53731,1.0,High-grade Nirvana Epsilon
+53714,53733,1.0,High-grade Nirvana Omega
+53715,53732,1.0,High-grade Nirvana Gamma
+53839,53864,1.0,Low-grade Nirvana Omega
+53853,53859,1.0,Low-grade Nirvana Alpha
+53854,53860,1.0,Low-grade Nirvana Beta
+53855,53863,1.0,Low-grade Nirvana Gamma
+53856,53861,1.0,Low-grade Nirvana Delta
+53857,53862,1.0,Low-grade Nirvana Epsilon
+53890,53908,1.0,High-grade Savior Alpha
+53891,53909,1.0,High-grade Savior Beta
+53892,53910,1.0,High-grade Savior Gamma
+53893,53911,1.0,High-grade Savior Delta
+53894,53912,1.0,High-grade Savior Epsilon
+53895,53913,1.0,High-grade Savior Omega
+53896,53914,1.0,Mid-grade Savior Alpha
+53897,53915,1.0,Mid-grade Savior Beta
+53898,53916,1.0,Mid-grade Savior Gamma
+53899,53917,1.0,Mid-grade Savior Delta
+53900,53918,1.0,Mid-grade Savior Epsilon
+53901,53919,1.0,Mid-grade Savior Omega
+53902,53920,1.0,Low-grade Savior Alpha
+53903,53921,1.0,Low-grade Savior Beta
+53904,53922,1.0,Low-grade Savior Gamma
+53905,53923,1.0,Low-grade Savior Delta
+53906,53924,1.0,Low-grade Savior Epsilon
+53907,53925,1.0,Low-grade Savior Omega
+53977,0,0.1,Noise-5 'Needlejack' Filament
+53983,53991,0.1,Signal-25 'Needlejack' Filament
+53984,0,0.1,Signal-5 'Needlejack' Filament
+53985,53988,0.1,Noise-15 'Needlejack' Filament
+53986,53989,0.1,Signal-15 'Needlejack' Filament
+53987,53990,0.1,Noise-25 'Needlejack' Filament
+54392,54410,1.0,High-grade Hydra Alpha
+54393,54411,1.0,High-grade Hydra Beta
+54394,54412,1.0,High-grade Hydra Gamma
+54395,54413,1.0,High-grade Hydra Delta
+54396,54414,1.0,High-grade Hydra Epsilon
+54397,54415,1.0,High-grade Hydra Omega
+54398,54416,1.0,Mid-grade Hydra Alpha
+54399,54417,1.0,Mid-grade Hydra Beta
+54400,54418,1.0,Mid-grade Hydra Gamma
+54401,54419,1.0,Mid-grade Hydra Delta
+54402,54420,1.0,Mid-grade Hydra Epsilon
+54403,54421,1.0,Mid-grade Hydra Omega
+54404,54422,1.0,Low-grade Hydra Alpha
+54405,54423,1.0,Low-grade Hydra Beta
+54406,54424,1.0,Low-grade Hydra Gamma
+54407,54425,1.0,Low-grade Hydra Delta
+54408,54426,1.0,Low-grade Hydra Epsilon
+54409,54427,1.0,Low-grade Hydra Omega
+54562,0,0.1,Korako's Modified Drone Control Unit
+54731,54842,16500.0,Skybreaker
+54732,54843,101000.0,Stormbringer
+54733,54844,486000.0,Thunderchild
+54739,54845,5.0,Small Vorton Projector I
+54740,54848,5.0,Small Compact Vorton Projector
+54741,54849,5.0,Small Scoped Vorton Projector
+54742,54850,5.0,Small Vorton Projector II
+54743,54851,5.0,Small Consortium Vorton Projector
+54745,54852,25.0,Medium Vorton Projector I
+54746,54853,25.0,Medium Compact Vorton Projector
+54747,54854,25.0,Medium Scoped Vorton Projector
+54748,54855,25.0,Medium Vorton Projector II
+54749,54856,25.0,Medium Consortium Vorton Projector
+54750,54857,50.0,Large Vorton Projector I
+54751,54858,50.0,Large Compact Vorton Projector
+54752,54859,50.0,Large Scoped Vorton Projector
+54753,54860,50.0,Large Vorton Projector II
+54754,54846,50.0,Large Consortium Vorton Projector
+54769,54861,0.0025,GalvaSurge Condenser Pack S
+54770,54862,0.0025,MesmerFlux Condenser Pack S
+54771,54863,0.0025,BlastShot Condenser Pack S
+54772,54864,0.0025,SlamBolt Condenser Pack S
+54773,54865,0.0125,GalvaSurge Condenser Pack M
+54774,54866,0.0125,MesmerFlux Condenser Pack M
+54775,54867,0.0125,BlastShot Condenser Pack M
+54776,54868,0.0125,SlamBolt Condenser Pack M
+54777,54869,0.025,GalvaSurge Condenser Pack L
+54778,54870,0.025,MesmerFlux Condenser Pack L
+54779,54871,0.025,BlastShot Condenser Pack L
+54780,54872,0.025,SlamBolt Condenser Pack L
+54781,54885,0.0025,StrikeSnipe Ultra S
+54782,54889,0.025,StrikeSnipe Ultra L
+54783,54888,0.025,ElectroPunch Ultra L
+54784,54884,0.0025,ElectroPunch Ultra S
+54785,54887,0.0125,StrikeSnipe Ultra M
+54786,54886,0.0125,ElectroPunch Ultra M
+54970,0,0.25,Electromagnetic Metaprismatic Sheeting
+54971,0,0.25,Hyperbolic Metatransistor Array
+54972,0,0.25,Ultraconducting Ablative Nanocable
+54973,54873,5.0,Vorton Tuning System I
+54974,54874,5.0,Compact Vorton Tuning System I
+54975,54876,5.0,Vorton Tuning System II
+55760,55762,5.0,Salvage Drone II
+55761,55763,5.0,'Dunk' Salvage Drone
+55860,55861,5.0,'Pickpocket' EM Energized Membrane
+55862,55863,5.0,'Bribe' Explosive Energized Membrane
+56701,56702,100.0,Mobile Sanguine Harvester
+56733,56832,1.0,Nanoheuristic Clone Mapper
+56735,56734,4000.0,Tactical Capsuleer Recloner
+56748,56749,3.0,Stasis Webification Probe
+57110,57129,1.0,Low-grade Rapture Alpha
+57111,57130,1.0,Low-grade Rapture Beta
+57112,57131,1.0,Low-grade Rapture Gamma
+57113,57132,1.0,Low-grade Rapture Delta
+57114,57133,1.0,Low-grade Rapture Epsilon
+57116,57147,1.0,Low-grade Rapture Omega
+57117,57134,1.0,Mid-grade Rapture Alpha
+57118,57135,1.0,Mid-grade Rapture Beta
+57119,57136,1.0,Mid-grade Rapture Gamma
+57120,57137,1.0,Mid-grade Rapture Delta
+57121,57138,1.0,Mid-grade Rapture Epsilon
+57122,57139,1.0,Mid-grade Rapture Omega
+57123,57140,1.0,High-grade Rapture Alpha
+57124,57142,1.0,High-grade Rapture Beta
+57125,57143,1.0,High-grade Rapture Gamma
+57126,57144,1.0,High-grade Rapture Delta
+57127,57145,1.0,High-grade Rapture Epsilon
+57128,57146,1.0,High-grade Rapture Omega
+57319,57429,400.0,Mobile Cynosural Beacon
+57442,0,20.0,Counter-Subversion Sensor Array
+57443,0,1.0,Meta-Molecular Combiner
+57444,0,5.0,Nanoscale Filter Plate
+57445,0,1.0,LM-Composite Molecular Condenser
+57446,0,1.0,AG-Composite Molecular Condenser
+57447,0,1.0,CV-Composite Molecular Condenser
+57448,0,1.0,AV-Composite Molecular Condenser
+57449,0,0.1,Nano Regulation Gate
+57450,0,0.25,Electro-Neural Signaller
+57451,0,2.5,Enhanced Electro-Neural Signaller
+57452,0,5.0,Isotropic Deposition Guide
+57453,57490,0.2,Carbon Fiber
+57454,57491,0.1,Oxy-Organic Solvents
+57455,57494,0.2,Thermosetting Polymer
+57456,57492,0.1,Pressurized Oxidizers
+57457,57493,0.1,Reinforced Carbon Fiber
+57458,57495,16.0,Meta-Operant Neurolink Enhancer
+57459,57496,4.0,Hypnagogic Neurolink Enhancer
+57460,57497,4.0,Axosomatic Neurolink Enhancer
+57461,57498,4.0,Cogni-Emotive Neurolink Enhancer
+57462,57499,4.0,Sense-Heuristic Neurolink Enhancer
+57463,57500,8.0,Isotropic Neofullerene Alpha-3
+57464,57501,8.0,Isotropic Neofullerene Beta-6
+57465,57502,8.0,Isotropic Neofullerene Gamma-9
+57466,57503,10.0,Ultradian-Cycling Neurolink Stabilizer
+57467,57504,10.0,Reaction-Orienting Neurolink Stabilizer
+57468,57505,10.0,Stress-Responding Neurolink Stabilizer
+57469,57506,10.0,Goal-Orienting Neurolink Stabilizer
+57470,57507,16.0,U-C Trigger Neurolink Conduit
+57471,57508,16.0,R-O Trigger Neurolink Conduit
+57472,57509,16.0,S-R Trigger Neurolink Conduit
+57473,57510,16.0,G-O Trigger Neurolink Conduit
+57474,57511,100.0,Radar-FTL Interlink Communicator
+57475,57512,100.0,Gravimetric-FTL Interlink Communicator
+57476,57513,100.0,Magnetometric-FTL Interlink Communicator
+57477,57514,100.0,Ladar-FTL Interlink Communicator
+57478,57515,45.0,Auto-Integrity Preservation Seal
+57479,57516,1000.0,Core Temperature Regulator
+57480,57517,8000.0,Programmable Purification Membrane
+57481,57518,1.0,Genetic Lock Preserver
+57482,57519,1.0,Genetic Safeguard Filter
+57483,57520,400.0,Neurolink Enhancer Reservoir
+57484,57521,1.0,Genetic Structure Repairer
+57485,57522,1.0,Genetic Mutation Inhibiter
+57486,57523,100.0,Life Support Backup Unit
+57487,57524,28000.0,Capital Core Temperature Regulator
+57488,57525,5500.0,Neurolink Protection Cell
+57489,57526,55000.0,Enhanced Neurolink Protection Cell
+58904,58905,100.0,Mobile Observatory
+58919,58955,5.0,Interdiction Nullifier I
+58945,59171,3500.0,Large Industrial Core I
+58950,59172,3500.0,Large Industrial Core II
+58966,58973,5.0,Compact Interdiction Nullifier
+58971,58974,5.0,Restrained Interdiction Nullifier
+58972,58975,5.0,Interdiction Nullifier II
+59630,59632,210.0,Covert Mobile Cynosural Beacon
+59633,59678,1.0,Strong Veilguard Booster
+60244,60514,100.0,CONCORD Rogue Analysis Beacon
+60276,60341,6.0,Simple Asteroid Mining Crystal Type A I
+60279,60363,6.0,Simple Asteroid Mining Crystal Type B I
+60280,60364,6.0,Simple Asteroid Mining Crystal Type C I
+60281,60342,10.0,Simple Asteroid Mining Crystal Type A II
+60283,60351,10.0,Simple Asteroid Mining Crystal Type B II
+60284,60352,10.0,Simple Asteroid Mining Crystal Type C II
+60285,60343,6.0,Coherent Asteroid Mining Crystal Type A I
+60286,60365,6.0,Coherent Asteroid Mining Crystal Type B I
+60287,60366,6.0,Coherent Asteroid Mining Crystal Type C I
+60288,60344,10.0,Coherent Asteroid Mining Crystal Type A II
+60289,60353,10.0,Coherent Asteroid Mining Crystal Type B II
+60290,60354,10.0,Coherent Asteroid Mining Crystal Type C II
+60291,60345,6.0,Variegated Asteroid Mining Crystal Type A I
+60292,60367,6.0,Variegated Asteroid Mining Crystal Type B I
+60293,60368,6.0,Variegated Asteroid Mining Crystal Type C I
+60294,60346,10.0,Variegated Asteroid Mining Crystal Type A II
+60295,60355,10.0,Variegated Asteroid Mining Crystal Type B II
+60296,60356,10.0,Variegated Asteroid Mining Crystal Type C II
+60297,60347,6.0,Complex Asteroid Mining Crystal Type A I
+60298,60369,6.0,Complex Asteroid Mining Crystal Type B I
+60299,60370,6.0,Complex Asteroid Mining Crystal Type C I
+60300,60348,10.0,Complex Asteroid Mining Crystal Type A II
+60301,60357,10.0,Complex Asteroid Mining Crystal Type B II
+60302,60358,10.0,Complex Asteroid Mining Crystal Type C II
+60303,60349,10.0,Abyssal Asteroid Mining Crystal Type A I
+60304,60371,10.0,Abyssal Asteroid Mining Crystal Type B I
+60305,60372,10.0,Abyssal Asteroid Mining Crystal Type C I
+60306,60350,10.0,Abyssal Asteroid Mining Crystal Type A II
+60307,60359,10.0,Abyssal Asteroid Mining Crystal Type B II
+60308,60360,10.0,Abyssal Asteroid Mining Crystal Type C II
+60309,60373,6.0,Mercoxit Asteroid Mining Crystal Type B I
+60310,60374,6.0,Mercoxit Asteroid Mining Crystal Type C I
+60311,60361,10.0,Mercoxit Asteroid Mining Crystal Type B II
+60312,60362,10.0,Mercoxit Asteroid Mining Crystal Type C II
+60313,60338,5.0,Gas Cloud Harvester I
+60314,60339,5.0,Gas Cloud Harvester II
+60633,62058,0.1,Expired Curious Warp Matrix Filament
+60764,60767,101000.0,Laelaps
+60765,60768,27289.0,Raiju
+60766,60769,10.0,Aralez
+61197,61217,6.0,Ubiquitous Moon Mining Crystal Type B I
+61198,61218,6.0,Ubiquitous Moon Mining Crystal Type C I
+61199,61219,10.0,Ubiquitous Moon Mining Crystal Type B II
+61200,61220,10.0,Ubiquitous Moon Mining Crystal Type C II
+61201,61221,6.0,Common Moon Mining Crystal Type B I
+61202,61222,6.0,Common Moon Mining Crystal Type C I
+61203,61223,10.0,Common Moon Mining Crystal Type B II
+61204,61224,10.0,Common Moon Mining Crystal Type C II
+61205,61225,6.0,Uncommon Moon Mining Crystal Type B I
+61206,61226,6.0,Uncommon Moon Mining Crystal Type C I
+61207,61227,10.0,Uncommon Moon Mining Crystal Type B II
+61208,61228,10.0,Uncommon Moon Mining Crystal Type C II
+61209,61229,6.0,Rare Moon Mining Crystal Type B I
+61210,61230,6.0,Rare Moon Mining Crystal Type C I
+61211,61231,10.0,Rare Moon Mining Crystal Type B II
+61212,61232,10.0,Rare Moon Mining Crystal Type C II
+61213,61233,6.0,Exceptional Moon Mining Crystal Type B I
+61214,61234,6.0,Exceptional Moon Mining Crystal Type C I
+61215,61235,10.0,Exceptional Moon Mining Crystal Type B II
+61216,61236,10.0,Exceptional Moon Mining Crystal Type C II
+61654,62061,0.1,Expired Precarious Warp Matrix Filament
+61655,62062,0.1,Expired Hazardous Warp Matrix Filament
+61656,62059,0.1,Expired Enigmatic Warp Matrix Filament
+62032,0,0.005,Time Crystal Oscillator
+62033,0,0.01,Strange Matter Component X-13
+62034,0,0.01,Strange Matter Component Y-73
+62035,0,0.01,Strange Matter Component Z-113
+62036,0,0.01,Strange Matter Component X-17
+62037,0,0.01,Strange Matter Component Y-79
+62038,0,0.01,Strange Matter Component Z-149
+62039,0,0.01,Strange Matter Component X-31
+62040,0,0.01,Strange Matter Component Y-97
+62041,0,0.01,Strange Matter Component Z-157
+62042,0,0.01,Strange Matter Component X-37
+62043,0,0.01,Strange Matter Component Y-107
+62044,0,0.01,Strange Matter Component Z-167
+62045,0,0.01,Strange Matter Component X-71
+62055,62060,0.1,Expired Mysterious Warp Matrix Filament
+62056,62063,0.1,Expired Dangerous Warp Matrix Filament
+62057,62064,0.1,Expired Perilous Warp Matrix Filament
