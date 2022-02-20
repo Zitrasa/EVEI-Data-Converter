@@ -1,4 +1,4 @@
-originID,materialsID,quantities,inventionTime,inventedID,blueprintRuns,materialsCount
+origin_id,materials_id,quantities,invention_time,invented_id,invented_runs,materials_count
 683,"[20416, 25887]","[2, 2]",63900,39581,1,2
 684,"[20411, 25887]","[2, 2]",63900,11177,1,2
 684,"[20411, 25887]","[2, 2]",63900,11179,1,2

@@ -1,4 +1,4 @@
-ID,blueprintID,volume,name
+id,blueprint_id,volume,name
 34,0,0.01,Tritanium
 35,0,0.01,Pyerite
 36,0,0.01,Mexallon
